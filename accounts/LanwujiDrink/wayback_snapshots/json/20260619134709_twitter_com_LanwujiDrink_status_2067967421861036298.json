@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067967408489586688"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2067716480704405945",
+    "created_at": "2026-06-19T13:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067967421861036298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "954724026806448128",
+          "start": 0,
+          "username": "libertyelysium"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l26C718XM6",
+          "end": 39,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2067967421861036298/photo/1",
+          "media_key": "3_2067967408489586688",
+          "start": 16,
+          "url": "https://t.co/l26C718XM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067967421861036298",
+    "in_reply_to_user_id": "954724026806448128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067716480704405945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libertyelysium https://t.co/l26C718XM6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1751,
+        "media_key": "3_2067967408489586688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLlZsYbYAAnm50.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067967408489586688"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2067716480704405945",
+        "created_at": "2026-06-19T13:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067967421861036298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l26C718XM6",
+              "end": 39,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2067967421861036298/photo/1",
+              "media_key": "3_2067967408489586688",
+              "start": 16,
+              "url": "https://t.co/l26C718XM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067967421861036298",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067716480704405945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium https://t.co/l26C718XM6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "2067716480704405945",
+        "created_at": "2026-06-18T21:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T22:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067716480704405945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067716480704405945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1890,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉香港人态度差都是因为住在香港，接触过的住在国外的香港人精神状态都好很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 140,
+          "like_count": 2743,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "低功能自閉症",
+        "pinned_tweet_id": "1991859279842996718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053821805832650752/YsMQbaGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11912,
+          "following_count": 687,
+          "like_count": 89624,
+          "listed_count": 37,
+          "media_count": 2101,
+          "tweet_count": 32415
+        },
+        "url": "",
+        "username": "libertyelysium",
+        "verified": false
+      }
+    ]
+  }
+}

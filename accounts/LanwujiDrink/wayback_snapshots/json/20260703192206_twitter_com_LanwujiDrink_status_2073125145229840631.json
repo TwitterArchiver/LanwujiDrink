@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2073125145229840631",
+    "created_at": "2026-07-03T19:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073125145229840631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1143215028881018880",
+          "start": 3,
+          "username": "_Darthsoldier_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073125145229840631",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072836706823274913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Darthsoldier_: I've been trying to assemble some of the field gear so here's a couple pics with normal infantry stuff\nMight try doing…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072836703664881664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMQx_-dWQAAim1v.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2073125145229840631",
+        "created_at": "2026-07-03T19:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073125145229840631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1143215028881018880",
+              "start": 3,
+              "username": "_Darthsoldier_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073125145229840631",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072836706823274913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Darthsoldier_: I've been trying to assemble some of the field gear so here's a couple pics with normal infantry stuff\nMight try doing…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072836703664881664"
+          ]
+        },
+        "author_id": "1143215028881018880",
+        "conversation_id": "2072836706823274913",
+        "created_at": "2026-07-03T00:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072836706823274913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eM6MZlzskL",
+              "end": 171,
+              "expanded_url": "https://x.com/_Darthsoldier_/status/2072836706823274913/photo/1",
+              "media_key": "3_2072836703664881664",
+              "start": 148,
+              "url": "https://t.co/eM6MZlzskL"
+            },
+            {
+              "display_url": "x.com/_Darthsoldier_…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/_Darthsoldier_/status/2072337699843838352",
+              "start": 172,
+              "url": "https://t.co/1EGzAPaV1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072836706823274913",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 532,
+          "impression_count": 44852,
+          "like_count": 2445,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072337699843838352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I've been trying to assemble some of the field gear so here's a couple pics with normal infantry stuff\nMight try doing some with my Soviet kit next https://t.co/eM6MZlzskL https://t.co/1EGzAPaV1r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量 葉經理",
+        "pinned_tweet_id": "2072994019437949284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 90,
+          "like_count": 2843,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-24T17:51:17.000Z",
+        "description": "Silly militaria collector, reenactor, history and star wars nerd. I also like anime and i do silly cosplay stuff for fun (I'm a guy btw ♂)\nCertified Elf enjoyer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/darthsoldier",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/darthsoldier",
+                "start": 0,
+                "url": "https://t.co/yDPUUwc9kX"
+              }
+            ]
+          }
+        },
+        "id": "1143215028881018880",
+        "location": "Stasi dungeon Ost Berlin",
+        "name": "Darthsoldier",
+        "pinned_tweet_id": "1625278682615930883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069396191620571136/mZFJ80A__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29251,
+          "following_count": 2147,
+          "like_count": 303114,
+          "listed_count": 59,
+          "media_count": 8725,
+          "tweet_count": 59072
+        },
+        "url": "https://t.co/yDPUUwc9kX",
+        "username": "_Darthsoldier_",
+        "verified": false
+      }
+    ]
+  }
+}

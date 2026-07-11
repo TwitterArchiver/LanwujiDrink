@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2067279690394747330",
+    "created_at": "2026-06-18T06:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067491819513110775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4878610324",
+          "start": 0,
+          "username": "politvidchannel"
+        },
+        {
+          "end": 22,
+          "id": "1720665183188922368",
+          "start": 17,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067491819513110775",
+    "in_reply_to_user_id": "4878610324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067279690394747330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@politvidchannel @grok  这是真的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2067279650389397504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBz45zakAAXRJA.jpg",
+        "width": 1000
+      },
+      {
+        "height": 450,
+        "media_key": "3_2067279672694718464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBz6M5awAACw-L.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2067279690394747330",
+        "created_at": "2026-06-18T06:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067491819513110775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4878610324",
+              "start": 0,
+              "username": "politvidchannel"
+            },
+            {
+              "end": 22,
+              "id": "1720665183188922368",
+              "start": 17,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067491819513110775",
+        "in_reply_to_user_id": "4878610324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067279690394747330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@politvidchannel @grok  这是真的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067279650389397504",
+            "3_2067279672694718464"
+          ]
+        },
+        "author_id": "4878610324",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Sports Personality like 'Skip Bayless'",
+              "id": "92",
+              "name": "Sports Personality"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          }
+        ],
+        "conversation_id": "2067279690394747330",
+        "created_at": "2026-06-17T16:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067279690394747330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpBd0LykgW",
+              "end": 138,
+              "expanded_url": "https://x.com/politvidchannel/status/2067279690394747330/photo/1",
+              "media_key": "3_2067279650389397504",
+              "start": 115,
+              "url": "https://t.co/cpBd0LykgW"
+            },
+            {
+              "display_url": "pic.x.com/cpBd0LykgW",
+              "end": 138,
+              "expanded_url": "https://x.com/politvidchannel/status/2067279690394747330/photo/1",
+              "media_key": "3_2067279672694718464",
+              "start": 115,
+              "url": "https://t.co/cpBd0LykgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067279690394747330",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 1987327,
+          "like_count": 3461,
+          "quote_count": 442,
+          "reply_count": 1498,
+          "retweet_count": 530
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Joe Rogan says that he wants nothing to do with MAGA because it’s become a movement of dorks and weirdos https://t.co/cpBd0LykgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 143,
+          "like_count": 2722,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 680
+        },
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-05T19:25:44.000Z",
+        "description": "FACTS MATTER!  The official Twitter of https://t.co/kBf7KeArtl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "politicsvideochannel.com",
+                "end": 62,
+                "expanded_url": "http://politicsvideochannel.com",
+                "start": 39,
+                "url": "https://t.co/kBf7KeArtl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "politicsvideochannel.com",
+                "end": 23,
+                "expanded_url": "https://www.politicsvideochannel.com/",
+                "start": 0,
+                "url": "https://t.co/o0nfc6PPtl"
+              }
+            ]
+          }
+        },
+        "id": "4878610324",
+        "location": "Around the World",
+        "name": "PoliticsVideoChannel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1453562764643893257/Kt9zl6ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264506,
+          "following_count": 14,
+          "like_count": 2979,
+          "listed_count": 1324,
+          "media_count": 15183,
+          "tweet_count": 57761
+        },
+        "url": "https://t.co/o0nfc6PPtl",
+        "username": "politvidchannel",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8812717,
+          "following_count": 5,
+          "like_count": 106,
+          "listed_count": 7028,
+          "media_count": 9059870,
+          "tweet_count": 129234818
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

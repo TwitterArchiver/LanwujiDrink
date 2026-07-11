@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2068559327930220676",
+    "created_at": "2026-06-21T04:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068559327930220676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700948552078467072",
+          "start": 3,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068559327930220676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067313786084905009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_DBD: 此公布死活要不到证据证明，涉嫌诬告！我已经没力气处理，此帖子最后保留一两天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2068559327930220676",
+        "created_at": "2026-06-21T04:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068559327930220676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700948552078467072",
+              "start": 3,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068559327930220676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067313786084905009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_DBD: 此公布死活要不到证据证明，涉嫌诬告！我已经没力气处理，此帖子最后保留一两天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "conversation_id": "2067313786084905009",
+        "created_at": "2026-06-17T18:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067313786084905009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/2060716442388230627",
+              "start": 38,
+              "url": "https://t.co/E6bHjiuaj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067313786084905009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2990,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060716442388230627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此公布死活要不到证据证明，涉嫌诬告！我已经没力气处理，此帖子最后保留一两天 https://t.co/E6bHjiuaj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "pinned_tweet_id": "2068300588937511342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 126,
+          "like_count": 2763,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "",
+        "id": "1700948552078467072",
+        "name": "☨ Dextr' Blu' Dyein' ☨",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068394962576973824/yLemHV3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4610,
+          "following_count": 73,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 744,
+          "tweet_count": 7299
+        },
+        "url": "",
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

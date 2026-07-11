@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2066613276654629056",
+    "created_at": "2026-06-15T20:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T21:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066613276654629056"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066613276654629056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "事实证明只要你的产品足够好，客户和你闹掰了也会回来买你的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2066613276654629056",
+        "created_at": "2026-06-15T20:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066613276654629056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066613276654629056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事实证明只要你的产品足够好，客户和你闹掰了也会回来买你的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 130,
+          "like_count": 2712,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 663
+        },
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

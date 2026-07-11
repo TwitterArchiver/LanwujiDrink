@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073062362668781568",
+        "3_2073062362677227520"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2073062377122336970",
+    "created_at": "2026-07-03T15:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073062377122336970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bcUzjc1NL7",
+          "end": 91,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2073062377122336970/photo/1",
+          "media_key": "3_2073062362668781568",
+          "start": 68,
+          "url": "https://t.co/bcUzjc1NL7"
+        },
+        {
+          "display_url": "pic.x.com/bcUzjc1NL7",
+          "end": 91,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2073062377122336970/photo/1",
+          "media_key": "3_2073062362677227520",
+          "start": 68,
+          "url": "https://t.co/bcUzjc1NL7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073062377122336970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊？这是团队工作号啊？想了解和我聊天就好，我打算到时候重新启用我的个人账号，被你夸我开心了好一会\n\n嗯…：） 说实话有些不知道怎么回答 https://t.co/bcUzjc1NL7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2073062362668781568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMT_PDwa0AAtlIT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2073062362677227520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMT_PDybsAA2zvs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073062362668781568",
+            "3_2073062362677227520"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2073062377122336970",
+        "created_at": "2026-07-03T15:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073062377122336970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bcUzjc1NL7",
+              "end": 91,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2073062377122336970/photo/1",
+              "media_key": "3_2073062362668781568",
+              "start": 68,
+              "url": "https://t.co/bcUzjc1NL7"
+            },
+            {
+              "display_url": "pic.x.com/bcUzjc1NL7",
+              "end": 91,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2073062377122336970/photo/1",
+              "media_key": "3_2073062362677227520",
+              "start": 68,
+              "url": "https://t.co/bcUzjc1NL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073062377122336970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊？这是团队工作号啊？想了解和我聊天就好，我打算到时候重新启用我的个人账号，被你夸我开心了好一会\n\n嗯…：） 说实话有些不知道怎么回答 https://t.co/bcUzjc1NL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量 葉經理",
+        "pinned_tweet_id": "2072994019437949284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 91,
+          "like_count": 2841,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

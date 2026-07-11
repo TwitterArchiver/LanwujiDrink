@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2073116838570152064",
+    "created_at": "2026-07-03T18:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073116838570152064"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "叶洪文"
+        },
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "蒋彦永"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "187428824",
+          "start": 3,
+          "username": "hrw_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073116838570152064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1664821662020239360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hrw_chinese: 广东维权人士 #叶洪文 在推特出自己到公共广场悼念六四的照片，随即强迫失踪，后已获释。\n\n医师 #蒋彦永 于1989年6月亲眼见证了军方屠杀惨状，他曾呼吁中国领导人承认六四屠杀，为此他先是遭到拘留，后来则不时受到监视、骚扰和软禁。今年3月，他于…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_1664821654516637696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FxqieWPXoAApJr3.jpg",
+        "width": 239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2073116838570152064",
+        "created_at": "2026-07-03T18:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073116838570152064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "叶洪文"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "蒋彦永"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "187428824",
+              "start": 3,
+              "username": "hrw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073116838570152064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1664821662020239360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hrw_chinese: 广东维权人士 #叶洪文 在推特出自己到公共广场悼念六四的照片，随即强迫失踪，后已获释。\n\n医师 #蒋彦永 于1989年6月亲眼见证了军方屠杀惨状，他曾呼吁中国领导人承认六四屠杀，为此他先是遭到拘留，后来则不时受到监视、骚扰和软禁。今年3月，他于…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1664821654516637696"
+          ]
+        },
+        "author_id": "187428824",
+        "conversation_id": "1664821659516256257",
+        "created_at": "2023-06-03T02:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-03T02:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1664821662020239360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "叶洪文"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "蒋彦永"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgu7FBbj80",
+              "end": 169,
+              "expanded_url": "https://x.com/hrw_chinese/status/1664821662020239360/photo/1",
+              "media_key": "3_1664821654516637696",
+              "start": 146,
+              "url": "https://t.co/fgu7FBbj80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1664821662020239360",
+        "in_reply_to_user_id": "187428824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2549,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1664821661000925184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "广东维权人士 #叶洪文 在推特出自己到公共广场悼念六四的照片，随即强迫失踪，后已获释。\n\n医师 #蒋彦永 于1989年6月亲眼见证了军方屠杀惨状，他曾呼吁中国领导人承认六四屠杀，为此他先是遭到拘留，后来则不时受到监视、骚扰和软禁。今年3月，他于北京去世，只有少数家属和学生获准出席他的丧礼。 https://t.co/fgu7FBbj80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量 葉經理",
+        "pinned_tweet_id": "2072994019437949284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 90,
+          "like_count": 2842,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-06T05:39:42.000Z",
+        "description": "人权观察是全球最大国际人权组织之一🌏 关注中国、香港、西藏、新疆以及世界各地人权问题。我们不接受政府直接或间接的资金补助。\n\nTelegram 频道：https://t.co/HjBdFtAL3C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hrw_chinese#",
+                "end": 98,
+                "expanded_url": "https://t.me/hrw_chinese#",
+                "start": 75,
+                "url": "https://t.co/HjBdFtAL3C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrw.org/zh-hans",
+                "end": 23,
+                "expanded_url": "https://www.hrw.org/zh-hans",
+                "start": 0,
+                "url": "https://t.co/XUPXB0CT9F"
+              }
+            ]
+          }
+        },
+        "id": "187428824",
+        "name": "人权观察 HRW Chinese",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545020432926986241/HIZ4oe8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115750,
+          "following_count": 1087,
+          "like_count": 934,
+          "listed_count": 725,
+          "media_count": 2713,
+          "tweet_count": 22614
+        },
+        "url": "https://t.co/XUPXB0CT9F",
+        "username": "hrw_chinese",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2071638411384144115",
+    "created_at": "2026-06-30T06:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071836941264294287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071836941264294287",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071808856410435623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 😚😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2071638411384144115",
+        "created_at": "2026-06-30T06:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071836941264294287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071836941264294287",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071808856410435623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2071638411384144115",
+        "created_at": "2026-06-30T04:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071808856410435623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071808856410435623",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071638411384144115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "pinned_tweet_id": "2070228611668623717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071638386398687232/zEIOgubN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 151,
+          "like_count": 2795,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "當我感到最幸福時會把五顆星星都塗滿★ ★ ★ ☆ ☆ ｜墨跡的勿擾懂得看x @D_D_ovO_｜cutie🌻：@saksamalah2nd｜v的媽媽們@misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "vico的羽毛",
+        "name": "💿我就要胃口嘔呲和ねね 因為我配",
+        "pinned_tweet_id": "2065030827835289833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 406,
+          "like_count": 24968,
+          "listed_count": 19,
+          "media_count": 1430,
+          "tweet_count": 18122
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

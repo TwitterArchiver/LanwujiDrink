@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2075571153473785991",
+    "created_at": "2026-07-10T18:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T19:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075642284373368962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1906605092612227072",
+          "start": 0,
+          "username": "N9qHy"
+        },
+        {
+          "end": 21,
+          "id": "1244543552652054528",
+          "start": 7,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075642284373368962",
+    "in_reply_to_user_id": "1906605092612227072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075634719837016136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N9qHy @Greenfish_111 我不觉得啊 摆着个臭脸又不得不欺负的样子我觉得很涩😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2075571153473785991",
+        "created_at": "2026-07-10T18:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075642284373368962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1906605092612227072",
+              "start": 0,
+              "username": "N9qHy"
+            },
+            {
+              "end": 21,
+              "id": "1244543552652054528",
+              "start": 7,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075642284373368962",
+        "in_reply_to_user_id": "1906605092612227072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075634719837016136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N9qHy @Greenfish_111 我不觉得啊 摆着个臭脸又不得不欺负的样子我觉得很涩😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906605092612227072",
+        "conversation_id": "2075571153473785991",
+        "created_at": "2026-07-10T17:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075634719837016136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            },
+            {
+              "end": 28,
+              "id": "1244543552652054528",
+              "start": 14,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075634719837016136",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075629682331156933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink @Greenfish_111 冷脸很恐怖啊我觉得😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2072994019437949284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 105,
+          "like_count": 2878,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 926
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-31T07:11:09.000Z",
+        "description": "LV.4 - Angel Dust",
+        "id": "1906605092612227072",
+        "name": "明前",
+        "pinned_tweet_id": "1910581033193660670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992167258450509824/K5FSOyyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 1910,
+          "like_count": 6295,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2028
+        },
+        "url": "",
+        "username": "N9qHy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中干裂\nbpd/日常号@flyfrog_222/我的画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "flyfrog_222"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "woyaosleep444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3spiAO"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2069292400196125097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5172,
+          "following_count": 567,
+          "like_count": 13426,
+          "listed_count": 8,
+          "media_count": 1088,
+          "tweet_count": 14533
+        },
+        "url": "https://t.co/V2GB3spiAO",
+        "username": "Greenfish_111",
+        "verified": true
+      }
+    ]
+  }
+}

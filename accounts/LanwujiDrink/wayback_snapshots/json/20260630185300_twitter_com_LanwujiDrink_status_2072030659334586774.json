@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2071760005322231808"
+      ],
+      "media_source_tweet_id": [
+        "2071760031322681762"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072030659334586774",
+    "created_at": "2026-06-30T18:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T19:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072030659334586774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1034817051238514688",
+          "start": 3,
+          "username": "momiji_doa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SA9U9dl4Qw",
+          "end": 74,
+          "expanded_url": "https://x.com/momiji_doa/status/2071760031322681762/video/1",
+          "media_key": "7_2071760005322231808",
+          "start": 51,
+          "url": "https://t.co/SA9U9dl4Qw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072030659334586774",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 485
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071760031322681762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momiji_doa: I understand the Marie Rose simps. https://t.co/SA9U9dl4Qw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12032,
+        "height": 720,
+        "media_key": "7_2071760005322231808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071760005322231808/pu/img/CriG_qtOdP63hztk.jpg",
+        "public_metrics": {
+          "view_count": 238719
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071760005322231808/pu/vid/avc1/480x270/QISWktb3acDbGRU7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071760005322231808/pu/vid/avc1/640x360/lbDnLb9mD99FENaC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071760005322231808/pu/vid/avc1/1280x720/pZMyPadIwItWEfId.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071760005322231808/pu/pl/rHQO6dlQntbPiF3W.m3u8?tag=12&v=9af"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071760005322231808"
+          ],
+          "media_source_tweet_id": [
+            "2071760031322681762"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072030659334586774",
+        "created_at": "2026-06-30T18:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072030659334586774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1034817051238514688",
+              "start": 3,
+              "username": "momiji_doa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SA9U9dl4Qw",
+              "end": 74,
+              "expanded_url": "https://x.com/momiji_doa/status/2071760031322681762/video/1",
+              "media_key": "7_2071760005322231808",
+              "start": 51,
+              "url": "https://t.co/SA9U9dl4Qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072030659334586774",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 485
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071760031322681762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momiji_doa: I understand the Marie Rose simps. https://t.co/SA9U9dl4Qw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071760005322231808"
+          ]
+        },
+        "author_id": "1034817051238514688",
+        "conversation_id": "2071760031322681762",
+        "created_at": "2026-06-30T00:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071760031322681762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SA9U9dl4Qw",
+              "end": 58,
+              "expanded_url": "https://x.com/momiji_doa/status/2071760031322681762/video/1",
+              "media_key": "7_2071760005322231808",
+              "start": 35,
+              "url": "https://t.co/SA9U9dl4Qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071760031322681762",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3483,
+          "impression_count": 456929,
+          "like_count": 11006,
+          "quote_count": 24,
+          "reply_count": 73,
+          "retweet_count": 485
+        },
+        "reply_settings": "everyone",
+        "text": "I understand the Marie Rose simps. https://t.co/SA9U9dl4Qw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "pinned_tweet_id": "2070228611668623717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071638386398687232/zEIOgubN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 152,
+          "like_count": 2795,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 807
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-29T14:56:25.000Z",
+        "description": "",
+        "id": "1034817051238514688",
+        "name": "DOA Momiji",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757282382179180544/eWtADP8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23155,
+          "following_count": 248,
+          "like_count": 102293,
+          "listed_count": 98,
+          "media_count": 13031,
+          "tweet_count": 66145
+        },
+        "url": "",
+        "username": "momiji_doa",
+        "verified": false
+      }
+    ]
+  }
+}

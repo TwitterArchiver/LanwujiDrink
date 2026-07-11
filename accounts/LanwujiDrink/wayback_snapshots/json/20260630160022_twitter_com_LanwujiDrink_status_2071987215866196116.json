@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2071987215866196116",
+    "created_at": "2026-06-30T16:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071987215866196116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cheese_ghostfo…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/cheese_ghostfox/status/2071981480310632734",
+          "start": 8,
+          "url": "https://t.co/Ov8wmZeZSY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071987215866196116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071981480310632734",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "越看越心灰意冷 https://t.co/Ov8wmZeZSY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2071987215866196116",
+        "created_at": "2026-06-30T16:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071987215866196116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cheese_ghostfo…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/cheese_ghostfox/status/2071981480310632734",
+              "start": 8,
+              "url": "https://t.co/Ov8wmZeZSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071987215866196116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071981480310632734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "越看越心灰意冷 https://t.co/Ov8wmZeZSY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2071749290847060136",
+        "created_at": "2026-06-30T15:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071981480310632734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071981480310632734",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "狐觉得还是得抓稳现有的拳头产品\n肽类的确是个好方向，但是操之过急地搞180度大掉头，会翻\n门槛太高，用户认可度又低\n其实狐觉得您的企业自从msk开始封号，经常性失联的时候，就会走上必然的下坡路了\n这燃烧的是客户依存性，私域流量，以及最重要的信任\n您的企业有点松弛，而优秀的产品力有限地弥补了一小部分...\n「If you think it is a company,you have to operate it like a company」\n狐讲一句可能有点不好听的话吧...狐经过这些努力，终于把您的生意从推友有偿匀东西的水平拉到了现在做得比较松散的三流电子烟微商的水平(x\n任重，道远\n手里有一个潜力不低的爆品，狐觉得我们应该先发挥它的全部商业潜力，而不是寄希望于机械降神式的「曼哈顿计划」\n大多数玩曼哈顿计划的企业都...死得挺快的，狐认可它在加速上的作用，，，"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071977996181963147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 狐觉得还是得抓稳现有的拳头产品\n肽类的确是个好方向，但是操之过急地搞180度大掉头，会翻\n门槛太高，用户认可度又低\n其实狐觉得您的企业自从msk开始封号，经常性失联的时候，就会走上必然的下坡路了\n这燃烧的是客户依存性，私域流量，以及最重要的信任"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "pinned_tweet_id": "2070228611668623717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071638386398687232/zEIOgubN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 151,
+          "like_count": 2795,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 804
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 1520,
+          "like_count": 21714,
+          "listed_count": 7,
+          "media_count": 778,
+          "tweet_count": 6820
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2067699462689177604",
+    "created_at": "2026-06-18T20:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T21:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067699462689177604"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067699462689177604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱思考的人觉得不爱思考的是没有灵魂的npc背景板。\n不爱思考的人觉得爱思考的人魔怔内耗神叨刻板印象。\n二者不同频都觉得对方很奇怪。都不愿意兼容。都在走向分裂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2067699462689177604",
+        "created_at": "2026-06-18T20:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067699462689177604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067699462689177604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱思考的人觉得不爱思考的是没有灵魂的npc背景板。\n不爱思考的人觉得爱思考的人魔怔内耗神叨刻板印象。\n二者不同频都觉得对方很奇怪。都不愿意兼容。都在走向分裂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 132,
+          "like_count": 2733,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

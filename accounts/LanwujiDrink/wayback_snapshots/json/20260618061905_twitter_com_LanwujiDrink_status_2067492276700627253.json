@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2066793169875083656",
+    "created_at": "2026-06-18T06:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067492276700627253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1546885292174577664",
+          "start": 0,
+          "username": "NxtKekko"
+        },
+        {
+          "end": 22,
+          "id": "1761743019978743808",
+          "start": 10,
+          "username": "Pulana_chan"
+        },
+        {
+          "end": 28,
+          "id": "1720665183188922368",
+          "start": 23,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067492276700627253",
+    "in_reply_to_user_id": "1546885292174577664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066941008529555761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NxtKekko @Pulana_chan @grok  如果这真的发生了 舆论上会发生什么？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2066941001390800896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8_47-WwAAwRE_.jpg",
+        "width": 2093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2066793169875083656",
+        "created_at": "2026-06-18T06:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067492276700627253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1546885292174577664",
+              "start": 0,
+              "username": "NxtKekko"
+            },
+            {
+              "end": 22,
+              "id": "1761743019978743808",
+              "start": 10,
+              "username": "Pulana_chan"
+            },
+            {
+              "end": 28,
+              "id": "1720665183188922368",
+              "start": 23,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067492276700627253",
+        "in_reply_to_user_id": "1546885292174577664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066941008529555761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NxtKekko @Pulana_chan @grok  如果这真的发生了 舆论上会发生什么？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066941001390800896"
+          ]
+        },
+        "author_id": "1546885292174577664",
+        "conversation_id": "2066793169875083656",
+        "created_at": "2026-06-16T17:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066941008529555761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761743019978743808",
+              "start": 0,
+              "username": "Pulana_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n83tT5L8nn",
+              "end": 36,
+              "expanded_url": "https://x.com/NxtKekko/status/2066941008529555761/photo/1",
+              "media_key": "3_2066941001390800896",
+              "start": 13,
+              "url": "https://t.co/n83tT5L8nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066941008529555761",
+        "in_reply_to_user_id": "1761743019978743808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2822,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066793169875083656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pulana_chan https://t.co/n83tT5L8nn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 143,
+          "like_count": 2722,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 681
+        },
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-12T15:53:36.000Z",
+        "description": "Artist and Concept maker.\nMobile Content Creator\n🇮🇹",
+        "id": "1546885292174577664",
+        "location": "Italy",
+        "name": "NxtKekko",
+        "pinned_tweet_id": "2027312800062714020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947082896897908738/Rt6jdTMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 86,
+          "like_count": 53455,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1430
+        },
+        "username": "NxtKekko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T13:20:51.000Z",
+        "description": "高校2年生です。ブルーアーカイブを運営しています。サークル名【銃蒼高校 ブルアカ部！】 pixivで不定期に文字を書きます！推しが一杯いるけど特にシロコが好き！ アイコン:@RobinsonShitake",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "RobinsonShitake"
+              }
+            ]
+          }
+        },
+        "id": "1761743019978743808",
+        "location": "関西",
+        "name": "ぷりゃほし教授‎@C108(土)東サ-31b",
+        "pinned_tweet_id": "2053414763783246177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947598056075231233/Z1_cuN3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3729,
+          "following_count": 580,
+          "like_count": 59240,
+          "listed_count": 12,
+          "media_count": 2284,
+          "tweet_count": 23159
+        },
+        "username": "Pulana_chan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8812586,
+          "following_count": 5,
+          "like_count": 106,
+          "listed_count": 7028,
+          "media_count": 9059875,
+          "tweet_count": 129234926
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

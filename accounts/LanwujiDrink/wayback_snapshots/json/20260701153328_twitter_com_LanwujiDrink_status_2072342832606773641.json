@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2072303138347110595",
+    "created_at": "2026-07-01T15:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072342832606773641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1493482825546297349",
+          "start": 0,
+          "username": "maimaiPinkPlus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072342832606773641",
+    "in_reply_to_user_id": "1493482825546297349",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072341927408586923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maimaiPinkPlus 死南通打似你😡😡😡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2072341927408586923].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2072341927408586923",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2072341927408586923"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2072303138347110595",
+        "created_at": "2026-07-01T15:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072342832606773641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493482825546297349",
+              "start": 0,
+              "username": "maimaiPinkPlus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072342832606773641",
+        "in_reply_to_user_id": "1493482825546297349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072341927408586923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maimaiPinkPlus 死南通打似你😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量 葉經理",
+        "pinned_tweet_id": "2072227816650010925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 146,
+          "like_count": 2800,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-15T07:10:51.000Z",
+        "description": "maimai苦练中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/uof72WwZtK"
+              }
+            ]
+          }
+        },
+        "id": "1493482825546297349",
+        "location": "乌蒙地插",
+        "name": "N9ko",
+        "pinned_tweet_id": "1755030644256915715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887895039277223936/7QmCebUw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 1244,
+          "like_count": 11167,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 4926
+        },
+        "url": "https://t.co/uof72WwZtK",
+        "username": "maimaiPinkPlus",
+        "verified": false
+      }
+    ]
+  }
+}

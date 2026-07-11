@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2048266628807500254",
+    "created_at": "2026-05-21T20:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T21:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057560074625986859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1423220645383475200",
+          "start": 0,
+          "username": "sysjf0"
+        },
+        {
+          "end": 19,
+          "id": "1799795163843436544",
+          "start": 8,
+          "username": "BeetiIsDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057560074625986859",
+    "in_reply_to_user_id": "1423220645383475200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048269757590430026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sysjf0 @BeetiIsDog ！不可以吃小犬哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2048266628807500254",
+        "created_at": "2026-05-21T20:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057560074625986859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1423220645383475200",
+              "start": 0,
+              "username": "sysjf0"
+            },
+            {
+              "end": 19,
+              "id": "1799795163843436544",
+              "start": 8,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057560074625986859",
+        "in_reply_to_user_id": "1423220645383475200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048269757590430026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sysjf0 @BeetiIsDog ！不可以吃小犬哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423220645383475200",
+        "conversation_id": "2048266628807500254",
+        "created_at": "2026-04-26T05:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048269757590430026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048269757590430026",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048266628807500254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog 要吃小犬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝藍武紀！",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "🧬藍武紀电竞能量",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057557598069719041/F896woI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 138,
+          "like_count": 2699,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 652
+        },
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "最喜欢的推 @BeetiIsDog @umichen0502324 @citrus_404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "BeetiIsDog"
+              },
+              {
+                "end": 33,
+                "start": 18,
+                "username": "umichen0502324"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "citrus_404"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1",
+        "name": "十九方",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034670934108336128/mwvWsTX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 942,
+          "like_count": 29566,
+          "listed_count": 3,
+          "media_count": 1878,
+          "tweet_count": 23751
+        },
+        "username": "sysjf0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷,愛全奉全 ,prema everyone. ||繪垢@DogIsBeeti|| 喜歡畫畫、天文學、神經科學、百合、繁體字、羅小黑還有藤井風 ||促智藥/Biohacker初心者 || 一些標籤: HeteroAce/afab/ESFP/ADHDer || 友人:@sysjf0 @Cheese_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "DogIsBeeti"
+              },
+              {
+                "end": 143,
+                "start": 136,
+                "username": "sysjf0"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "Cheese_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風の歌の中",
+        "name": "🧬ビーチイ小犬(⁠U.⁠_⁠.⁠U)⁠",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050967982722170880/flg-1D0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 968,
+          "like_count": 42400,
+          "listed_count": 1,
+          "media_count": 523,
+          "tweet_count": 8883
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

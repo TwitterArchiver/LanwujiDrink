@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2073237246191517833",
+    "created_at": "2026-07-04T12:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073381862085718417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903651471528476672",
+          "start": 0,
+          "username": "efii444"
+        },
+        {
+          "end": 21,
+          "id": "1510548190428549123",
+          "start": 9,
+          "username": "Tori_Migaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073381862085718417",
+    "in_reply_to_user_id": "1903651471528476672",
+    "lang": "ht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073380658026541094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@efii444 @Tori_Migaku lmao🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2073237246191517833",
+        "created_at": "2026-07-04T12:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073381862085718417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903651471528476672",
+              "start": 0,
+              "username": "efii444"
+            },
+            {
+              "end": 21,
+              "id": "1510548190428549123",
+              "start": 9,
+              "username": "Tori_Migaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073381862085718417",
+        "in_reply_to_user_id": "1903651471528476672",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073380658026541094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@efii444 @Tori_Migaku lmao🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903651471528476672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283786058618945536",
+              "name": "Photographers"
+            }
+          }
+        ],
+        "conversation_id": "2073237246191517833",
+        "created_at": "2026-07-04T12:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073380658026541094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510548190428549123",
+              "start": 0,
+              "username": "Tori_Migaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073380658026541094",
+        "in_reply_to_user_id": "1510548190428549123",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073237246191517833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tori_Migaku u know i didnt set up the fucking photoshoot right retard 💀 a japanese company and a japanese photographer did"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量 葉經理",
+        "pinned_tweet_id": "2072994019437949284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 90,
+          "like_count": 2845,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-23T03:34:27.000Z",
+        "description": "yap yap yap",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansly.com/feiirain/t2",
+                "end": 23,
+                "expanded_url": "https://fansly.com/feiirain/t2",
+                "start": 0,
+                "url": "https://t.co/ebDn58oyP8"
+              }
+            ]
+          }
+        },
+        "id": "1903651471528476672",
+        "location": "in your pc",
+        "name": "e4i",
+        "pinned_tweet_id": "2072347492016886086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068889336196534272/hxeZW0WE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4965,
+          "following_count": 285,
+          "like_count": 3809,
+          "listed_count": 8,
+          "media_count": 278,
+          "tweet_count": 1615
+        },
+        "url": "https://t.co/ebDn58oyP8",
+        "username": "efii444",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T09:22:24.000Z",
+        "description": "Kiwi Vtuber, love strategy and card games!\n\n🔰日本語🔰\n\nFan Art: #shoepolishbirdfruit_art\nNSFW fan Art #lewdkiwi_art\n\nModel by @27thKNZ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 60,
+                "tag": "shoepolishbirdfruit_art"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "tag": "lewdkiwi_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "27thKNZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tori_migaku",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@tori_migaku",
+                "start": 0,
+                "url": "https://t.co/tjaFMOj0Di"
+              }
+            ]
+          }
+        },
+        "id": "1510548190428549123",
+        "name": "Tori Migaku🥝kiwituber(♂️)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926157834040872961/ZxxLkvho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 381,
+          "like_count": 39359,
+          "listed_count": 2,
+          "media_count": 956,
+          "tweet_count": 13075
+        },
+        "url": "https://t.co/tjaFMOj0Di",
+        "username": "Tori_Migaku",
+        "verified": false
+      }
+    ]
+  }
+}

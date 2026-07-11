@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2075611488748986521",
+    "created_at": "2026-07-10T16:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075611488748986521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902512265301258243",
+          "start": 3,
+          "username": "sacred1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075611488748986521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075608739177279730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sacred1124: adhd的一个优点就是对任何游戏都不会上瘾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2075611488748986521",
+        "created_at": "2026-07-10T16:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075611488748986521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902512265301258243",
+              "start": 3,
+              "username": "sacred1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075611488748986521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075608739177279730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sacred1124: adhd的一个优点就是对任何游戏都不会上瘾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2075608739177279730",
+        "created_at": "2026-07-10T15:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075608739177279730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075608739177279730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "adhd的一个优点就是对任何游戏都不会上瘾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2072994019437949284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 105,
+          "like_count": 2877,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "description": "My life's the worst story told, I'll be this way 'til I'm old.\n分身：@Overdose_Rx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Overdose_Rx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMlkg"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "Shiina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068190420056891392/ZTAVXIDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 119,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/bSzFJaMlkg",
+        "username": "sacred1124",
+        "verified": false
+      }
+    ]
+  }
+}

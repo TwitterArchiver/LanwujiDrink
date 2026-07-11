@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068641150429261824"
+      ],
+      "media_source_tweet_id": [
+        "2068641846843015436"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069542122236318077",
+    "created_at": "2026-06-23T22:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T23:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069542122236318077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pt1DOZ1zEH",
+          "end": 28,
+          "expanded_url": "https://x.com/r0ck3t23/status/2068641846843015436/video/1",
+          "media_key": "13_2068641150429261824",
+          "start": 5,
+          "url": "https://t.co/Pt1DOZ1zEH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069542122236318077",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Cool https://t.co/Pt1DOZ1zEH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65433,
+        "height": 2160,
+        "media_key": "13_2068641150429261824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068641150429261824/img/4IzyYE9-j1hGSnDO.jpg",
+        "public_metrics": {
+          "view_count": 4183
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068641150429261824/vid/avc1/1080x1080/-Dm2Hq5hyEhrAQwg.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068641150429261824/vid/avc1/720x720/K3GKCAhUugwWw2BC.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068641150429261824/vid/avc1/320x320/yVffS2GL96Qd4F5C.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068641150429261824/vid/avc1/2160x2160/1Fe2L9UgqxhczSmN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068641150429261824/vid/avc1/540x540/F4s5yW1R1SDabWOw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068641150429261824/pl/Yt_PDDtCY7LOFgrN.m3u8?v=8a2"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068641150429261824"
+          ],
+          "media_source_tweet_id": [
+            "2068641846843015436"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069542122236318077",
+        "created_at": "2026-06-23T22:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T23:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069542122236318077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pt1DOZ1zEH",
+              "end": 28,
+              "expanded_url": "https://x.com/r0ck3t23/status/2068641846843015436/video/1",
+              "media_key": "13_2068641150429261824",
+              "start": 5,
+              "url": "https://t.co/Pt1DOZ1zEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069542122236318077",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Cool https://t.co/Pt1DOZ1zEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "pinned_tweet_id": "2068300588937511342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 139,
+          "like_count": 2772,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

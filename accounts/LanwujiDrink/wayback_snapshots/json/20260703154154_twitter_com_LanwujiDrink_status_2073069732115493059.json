@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2073061802045510110",
+    "created_at": "2026-07-03T15:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073069732115493059"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073069732115493059",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073061802045510110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那会ipph1.0还在开发阶段呢🤓☝🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2073061788997038080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMT-tqqasAAxUxc.jpg",
+        "width": 663
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2073061802045510110",
+        "created_at": "2026-07-03T15:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073069732115493059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073069732115493059",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073061802045510110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那会ipph1.0还在开发阶段呢🤓☝🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073061788997038080"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2073061802045510110",
+        "created_at": "2026-07-03T15:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073061802045510110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6B28T15oFc",
+              "end": 94,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2073061802045510110/photo/1",
+              "media_key": "3_2073061788997038080",
+              "start": 71,
+              "url": "https://t.co/6B28T15oFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073061802045510110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那不是“传言” 也不是IPPH2.0\n\n这个消息源第一手是我自己主动公开出来的 是2023年底一批叫“NDRI”的物质 以讹传讹成了其他东西 https://t.co/6B28T15oFc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量 葉經理",
+        "pinned_tweet_id": "2072994019437949284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 90,
+          "like_count": 2841,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

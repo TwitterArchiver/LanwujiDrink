@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072230661906419712"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "NHK",
+          "id": "1034881250840915968",
+          "name": "NHK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NHK",
+          "id": "1034881250840915968",
+          "name": "NHK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2072219610716463422",
+    "created_at": "2026-07-01T08:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072230677647610103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050773493911048192",
+          "start": 0,
+          "username": "psykhe_space"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uhWYXAz3oI",
+          "end": 47,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2072230677647610103/photo/1",
+          "media_key": "3_2072230661906419712",
+          "start": 24,
+          "url": "https://t.co/uhWYXAz3oI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072230677647610103",
+    "in_reply_to_user_id": "2050773493911048192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072219610716463422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psykhe_space NHK 防送中…🤓 https://t.co/uhWYXAz3oI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072230661906419712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIKzs-a0AAE308.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072230661906419712"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2072219610716463422",
+        "created_at": "2026-07-01T08:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072230677647610103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050773493911048192",
+              "start": 0,
+              "username": "psykhe_space"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhWYXAz3oI",
+              "end": 47,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2072230677647610103/photo/1",
+              "media_key": "3_2072230661906419712",
+              "start": 24,
+              "url": "https://t.co/uhWYXAz3oI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072230677647610103",
+        "in_reply_to_user_id": "2050773493911048192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072219610716463422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psykhe_space NHK 防送中…🤓 https://t.co/uhWYXAz3oI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050773493911048192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2072219610716463422",
+        "created_at": "2026-07-01T07:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072219610716463422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seniorluchen/s…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/seniorluchen/status/2072184332152942603",
+              "start": 124,
+              "url": "https://t.co/XvuQhpUmnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072219610716463422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072184332152942603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "それで、今度は今回の騒動を日本人のせいにしようって話？\n731のことが歴史的に真実かどうか、わたしは判断できる立場にない(研究者でもなければ専門家でもないし…現場を目の当たりにしていたわけでもないから。)から、その議論を今はあえて避けるけど。\n→ https://t.co/XvuQhpUmnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "pinned_tweet_id": "2072227816650010925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 150,
+          "like_count": 2797,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 810
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-03T03:06:54.000Z",
+        "description": "恋と深空🌌🔰 / 今はストーリーを楽しんでます🌸",
+        "id": "2050773493911048192",
+        "name": "ⒽⒶⓃⒹⒶ",
+        "pinned_tweet_id": "2072169388514685308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061750857591611392/lT0alFzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 1799,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "psykhe_space",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2067484830187884587",
+    "created_at": "2026-06-18T08:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067530075063701918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "921516496211337222",
+          "start": 0,
+          "username": "anaya_hightower"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067530075063701918",
+    "in_reply_to_user_id": "921516496211337222",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067528503109562779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anaya_hightower ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2067484830187884587",
+        "created_at": "2026-06-18T08:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067530075063701918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "921516496211337222",
+              "start": 0,
+              "username": "anaya_hightower"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067530075063701918",
+        "in_reply_to_user_id": "921516496211337222",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067528503109562779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anaya_hightower ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "921516496211337222",
+        "conversation_id": "2067484830187884587",
+        "created_at": "2026-06-18T08:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067528503109562779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067528503109562779",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067484830187884587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 👆\n͏🤝\n💪\n⁠😎\n 💝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 122,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 682
+        },
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-20T23:20:28.000Z",
+        "description": "桐☀️城😘上😊椚~下方可联系✈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linlin801",
+                "end": 23,
+                "expanded_url": "http://t.me/linlin801",
+                "start": 0,
+                "url": "https://t.co/JSw20oT81o"
+              }
+            ]
+          }
+        },
+        "id": "921516496211337222",
+        "location": "距离1.9km    ✈👉",
+        "name": "🌸软甜栀桃🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066900613854597120/YSXcASOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 148,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/JSw20oT81o",
+        "username": "anaya_hightower",
+        "verified": false
+      }
+    ]
+  }
+}

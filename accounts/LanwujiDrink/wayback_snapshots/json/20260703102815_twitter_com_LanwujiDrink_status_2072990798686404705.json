@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072990782001418240"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2072990798686404705",
+    "created_at": "2026-07-03T10:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072990798686404705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RrVtDN1HOU",
+          "end": 165,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2072990798686404705/photo/1",
+          "media_key": "3_2072990782001418240",
+          "start": 142,
+          "url": "https://t.co/RrVtDN1HOU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072990798686404705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "有人问我为什么要建售后群？\n\n在 X/telegram 平台上，策划/RC 卖家通常与买家权利不对等。\n\n成分不透明，存在无反馈、无监管等问题——如你买 A 物质，实际上 B 物质（例如某尘实发金刚烷胺的实际案例），或者干脆卖家直接骗钱、不发货、拉黑一条龙。\n\n这种环境，我不接受。\n\n我创建”售后群”的目的只有一个：希望上千名無極用戶盯著我。\n\n当产品/服务出现问题，如：不发货、发货慢、少货缺货、不公开成分/CAS、虚假谎报成分——我希望你们立马到無極售后群反馈，让所有無極用户看到。\n\n而不能因为你的 X 账号粉丝少、没流量、写避雷推没人看到，应该让所有购买过無極产品的人都看到。\n\n尔等，当将無極团队架于火上炙烤——监管我、投诉我、打谱检测我。我们需要更高强度的被监管。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人问我为什么要建售后群？\n\n在 X/telegram 平台上，策划/RC 卖家通常与买家权利不对等。\n\n成分不透明，存在无反馈、无监管等问题——如你买 A 物质，实际上 B 物质（例如某尘实发金刚烷胺的实际案例），或者干脆卖家直接骗钱、不发货、拉黑一条龙。\n\n这种环境，我不接受。 https://t.co/RrVtDN1HOU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2072990782001418240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMS-Ig_akAAhg4u.jpg",
+        "width": 761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072990782001418240"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2072990798686404705",
+        "created_at": "2026-07-03T10:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072990798686404705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrVtDN1HOU",
+              "end": 165,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2072990798686404705/photo/1",
+              "media_key": "3_2072990782001418240",
+              "start": 142,
+              "url": "https://t.co/RrVtDN1HOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072990798686404705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有人问我为什么要建售后群？\n\n在 X/telegram 平台上，策划/RC 卖家通常与买家权利不对等。\n\n成分不透明，存在无反馈、无监管等问题——如你买 A 物质，实际上 B 物质（例如某尘实发金刚烷胺的实际案例），或者干脆卖家直接骗钱、不发货、拉黑一条龙。\n\n这种环境，我不接受。\n\n我创建”售后群”的目的只有一个：希望上千名無極用戶盯著我。\n\n当产品/服务出现问题，如：不发货、发货慢、少货缺货、不公开成分/CAS、虚假谎报成分——我希望你们立马到無極售后群反馈，让所有無極用户看到。\n\n而不能因为你的 X 账号粉丝少、没流量、写避雷推没人看到，应该让所有购买过無極产品的人都看到。\n\n尔等，当将無極团队架于火上炙烤——监管我、投诉我、打谱检测我。我们需要更高强度的被监管。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人问我为什么要建售后群？\n\n在 X/telegram 平台上，策划/RC 卖家通常与买家权利不对等。\n\n成分不透明，存在无反馈、无监管等问题——如你买 A 物质，实际上 B 物质（例如某尘实发金刚烷胺的实际案例），或者干脆卖家直接骗钱、不发货、拉黑一条龙。\n\n这种环境，我不接受。 https://t.co/RrVtDN1HOU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量 葉經理",
+        "pinned_tweet_id": "2072227816650010925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 93,
+          "like_count": 2833,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

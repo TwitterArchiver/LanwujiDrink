@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2073428286248775916",
+    "created_at": "2026-07-04T15:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073428286248775916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nozomixlr/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/nozomixlr/status/2073427061331595775",
+          "start": 21,
+          "url": "https://t.co/EWLyZGhpTn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073428286248775916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073427061331595775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "困倦次日残留\n\n鬼压床\n\n后半夜频繁清醒 https://t.co/EWLyZGhpTn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2073428286248775916",
+        "created_at": "2026-07-04T15:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073428286248775916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nozomixlr/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/nozomixlr/status/2073427061331595775",
+              "start": 21,
+              "url": "https://t.co/EWLyZGhpTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073428286248775916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073427061331595775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "困倦次日残留\n\n鬼压床\n\n后半夜频繁清醒 https://t.co/EWLyZGhpTn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628054803741032449",
+        "conversation_id": "2073425022040068447",
+        "created_at": "2026-07-04T15:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073427061331595775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            },
+            {
+              "end": 28,
+              "id": "1986452594206838785",
+              "start": 14,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073427061331595775",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073426285842645150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink @Idontselldrug daivigo®️ or 达卫眠®️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量 葉經理",
+        "pinned_tweet_id": "2072994019437949284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 91,
+          "like_count": 2845,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-21T15:31:38.000Z",
+        "description": "🏳️‍🌈！MtX ｜feel free to call me with any pronouns｜ボカロ 音ゲー CHUNITHM ｜持证含专のADHD&&ASD ｜無言フォロー失礼します ｜推文无时效性敬请谅解",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uhrs.edu.cn",
+                "end": 23,
+                "expanded_url": "https://www.uhrs.edu.cn",
+                "start": 0,
+                "url": "https://t.co/ChsVN8sfxp"
+              }
+            ]
+          }
+        },
+        "id": "1628054803741032449",
+        "location": "MCQ",
+        "name": "のぞみnozomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066882059457773568/KPmbOtlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 129,
+          "like_count": 382,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/ChsVN8sfxp",
+        "username": "nozomixlr",
+        "verified": false
+      }
+    ]
+  }
+}

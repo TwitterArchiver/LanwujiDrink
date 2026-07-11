@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2072764337643794746",
+    "created_at": "2026-07-02T19:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072764337643794746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1651188140441501699",
+          "start": 3,
+          "username": "RicardoKangAn"
+        },
+        {
+          "end": 35,
+          "id": "1272405078683430913",
+          "start": 19,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072764337643794746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955704483285229762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RicardoKangAn: @PaitangOfficial First求内幕🀄️\n1.0和2.0产品都使用过还是有点发言权的，希望能给大家提供一些帮助。\n首先对于刚吃的新人建议听取叶经理的建议剂量服用！ipph没有任何娱乐价值！不建议大剂量服用！\n先循序渐进使用，在…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [PaitangOfficial].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "PaitangOfficial",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "PaitangOfficial"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2072764337643794746",
+        "created_at": "2026-07-02T19:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072764337643794746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1651188140441501699",
+              "start": 3,
+              "username": "RicardoKangAn"
+            },
+            {
+              "end": 35,
+              "id": "1272405078683430913",
+              "start": 19,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072764337643794746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955704483285229762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RicardoKangAn: @PaitangOfficial First求内幕🀄️\n1.0和2.0产品都使用过还是有点发言权的，希望能给大家提供一些帮助。\n首先对于刚吃的新人建议听取叶经理的建议剂量服用！ipph没有任何娱乐价值！不建议大剂量服用！\n先循序渐进使用，在…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651188140441501699",
+        "conversation_id": "1955566211783389373",
+        "created_at": "2025-08-13T18:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T19:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955704483285229762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955704483285229762",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1202,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955566211783389373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial First求内幕🀄️\n1.0和2.0产品都使用过还是有点发言权的，希望能给大家提供一些帮助。\n首先对于刚吃的新人建议听取叶经理的建议剂量服用！ipph没有任何娱乐价值！不建议大剂量服用！\n先循序渐进使用，在没有耐药性的情况下过量服用，过度兴奋会更难以集中注意力，心跳加速，反而会更加难受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量 葉經理",
+        "pinned_tweet_id": "2072227816650010925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 90,
+          "like_count": 2825,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 847
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-26T11:35:18.000Z",
+        "description": "",
+        "id": "1651188140441501699",
+        "name": "kang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790331649458307072/JzaR14qj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 473,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "RicardoKangAn",
+        "verified": false
+      }
+    ]
+  }
+}

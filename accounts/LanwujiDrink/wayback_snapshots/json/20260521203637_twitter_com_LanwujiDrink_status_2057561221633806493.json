@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2057561221633806493",
+    "created_at": "2026-05-21T20:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T21:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057561221633806493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1866063848014508032",
+          "start": 3,
+          "username": "Sartre_and_Noah"
+        },
+        {
+          "end": 37,
+          "id": "1272405078683430913",
+          "start": 21,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057561221633806493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962750517236601057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sartre_and_Noah: @PaitangOfficial 家的IPPH到货了，这条推文用来记录药效"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [PaitangOfficial].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "PaitangOfficial",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "PaitangOfficial"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2057561221633806493",
+        "created_at": "2026-05-21T20:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057561221633806493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1866063848014508032",
+              "start": 3,
+              "username": "Sartre_and_Noah"
+            },
+            {
+              "end": 37,
+              "id": "1272405078683430913",
+              "start": 21,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057561221633806493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962750517236601057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sartre_and_Noah: @PaitangOfficial 家的IPPH到货了，这条推文用来记录药效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866063848014508032",
+        "conversation_id": "1962750517236601057",
+        "created_at": "2025-09-02T05:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962750517236601057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962750517236601057",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 家的IPPH到货了，这条推文用来记录药效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝藍武紀！",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "🧬藍武紀电竞能量",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057557598069719041/F896woI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 142,
+          "like_count": 2707,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 660
+        },
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T10:14:33.000Z",
+        "description": "丨很和蔼丨多意识体丨疑似高功能ADHD+ASD（？）丨survival English but studying…丨社科爱好者丨成分比较杂丨很闲，欢迎找我聊天🥰丨里推@ShuangNian80852",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ShuangNian80852"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/saintandnoah",
+                "end": 23,
+                "expanded_url": "https://ngl.link/saintandnoah",
+                "start": 0,
+                "url": "https://t.co/SZR8EkRRuK"
+              }
+            ]
+          }
+        },
+        "id": "1866063848014508032",
+        "name": "嗣凝",
+        "pinned_tweet_id": "1974461961946714376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973746240107249665/Zw8ykFZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 347,
+          "like_count": 19142,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2742
+        },
+        "url": "https://t.co/SZR8EkRRuK",
+        "username": "Sartre_and_Noah",
+        "verified": false
+      }
+    ]
+  }
+}

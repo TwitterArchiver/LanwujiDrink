@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2073090762473177144",
+    "created_at": "2026-07-03T17:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073091776408334526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675431371848945664",
+          "start": 0,
+          "username": "Gr13f_of_Xhan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073091776408334526",
+    "in_reply_to_user_id": "1675431371848945664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073090762473177144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gr13f_of_Xhan 眼熟的头像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2073090762473177144",
+        "created_at": "2026-07-03T17:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073091776408334526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675431371848945664",
+              "start": 0,
+              "username": "Gr13f_of_Xhan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073091776408334526",
+        "in_reply_to_user_id": "1675431371848945664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073090762473177144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gr13f_of_Xhan 眼熟的头像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675431371848945664",
+        "conversation_id": "2073090762473177144",
+        "created_at": "2026-07-03T17:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073090762473177144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073090762473177144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝了点酒\n胃痛的要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量 葉經理",
+        "pinned_tweet_id": "2072994019437949284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 90,
+          "like_count": 2841,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-02T09:09:20.000Z",
+        "description": "自是人长恨水长东🩵INFJ-T/双相情感障碍/重抑重焦/服药/割手/负面/单亲/8.27起戒od/渴望死亡/互fo欢迎 如果没在置顶留一下❕泛性恋-希望被爱但又推开-如果可以抱抱我——下辈子也喜欢你@ZhizhiziOsward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "ZhizhiziOsward"
+              }
+            ]
+          }
+        },
+        "id": "1675431371848945664",
+        "location": "冰冷的 被包裹住仅有的温暖的裂缝",
+        "name": "Gr13f_Inelaio雨",
+        "pinned_tweet_id": "1858831733841686834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857766547416297476/no1iVI_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 199,
+          "like_count": 4926,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2112
+        },
+        "url": "",
+        "username": "Gr13f_of_Xhan",
+        "verified": false
+      }
+    ]
+  }
+}

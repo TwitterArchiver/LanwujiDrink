@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2067867686168936784",
+    "created_at": "2026-06-19T07:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067868474186277089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        },
+        {
+          "end": 26,
+          "id": "194250281",
+          "start": 17,
+          "username": "sunpolis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067868474186277089",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067868109638357145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox @sunpolis 一个繁体版 一个是简体版"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2067867686168936784",
+        "created_at": "2026-06-19T07:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067868474186277089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 26,
+              "id": "194250281",
+              "start": 17,
+              "username": "sunpolis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067868474186277089",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067868109638357145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @sunpolis 一个繁体版 一个是简体版"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2067867686168936784",
+        "created_at": "2026-06-19T07:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067868109638357145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            },
+            {
+              "end": 32,
+              "id": "194250281",
+              "start": 23,
+              "username": "sunpolis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067868109638357145",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067867686168936784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 狐说的是这位啦(\n@sunpolis \n不过在X上重名似乎挺正常的www\n比如说相比于这个对话里的这个Nozomi您一定更熟悉另一个Nozomi(笑)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 133,
+          "like_count": 2737,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 703
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 1516,
+          "like_count": 21138,
+          "listed_count": 7,
+          "media_count": 770,
+          "tweet_count": 6698
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-23T19:41:29.000Z",
+        "description": "改革宗基督徒，2015 年受洗。丈夫，父亲。本名罗威，湖南邵阳人，现居长沙。【思想武士，偶像杀手。为真理而生，靠恩典而活】。中学学历。日常工作买菜做饭扫地洗碗带娃。极度憎恶撒谎造谣阴谋论、妄称神意、偶像崇拜。中国无解，个人有路，路在何方？跟随基督！",
+        "id": "194250281",
+        "name": "叶隐",
+        "pinned_tweet_id": "1519151221487149064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/706027906003181568/dTSl98kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19652,
+          "following_count": 2700,
+          "like_count": 18180,
+          "listed_count": 98,
+          "media_count": 2314,
+          "tweet_count": 17585
+        },
+        "url": "",
+        "username": "sunpolis",
+        "verified": true
+      }
+    ]
+  }
+}
