@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2078180140421726266",
+    "created_at": "2026-07-17T18:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078180140421726266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078180140421726266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078127583917465873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: Kimi K3震动硅谷，中国AI同行先跌为敬\n\n7月17日，月之暗面发布Kimi K3：总参数达2.8万亿，拥有百万Token上下文，并计划于7月27日开放模型权重。\n多项早期评测显示，其编程和智能体能力已接近美国最强模型Claude F…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2078105873940197376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbqSDXbsAAiTkW.jpg",
+        "width": 784
+      },
+      {
+        "height": 737,
+        "media_key": "3_2078106022598860800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbqatKa4AAW6dU.jpg",
+        "width": 1096
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2078106045285847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbqcBra0AA0pXQ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2078106061484285952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbqc-BbYAA7bRo.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2078180140421726266",
+        "created_at": "2026-07-17T18:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078180140421726266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078180140421726266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078127583917465873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: Kimi K3震动硅谷，中国AI同行先跌为敬\n\n7月17日，月之暗面发布Kimi K3：总参数达2.8万亿，拥有百万Token上下文，并计划于7月27日开放模型权重。\n多项早期评测显示，其编程和智能体能力已接近美国最强模型Claude F…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078105873940197376",
+            "3_2078106022598860800",
+            "3_2078106045285847040",
+            "3_2078106061484285952"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2078127583917465873",
+        "created_at": "2026-07-17T14:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078127583917465873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7a5KrvH7Uf",
+              "end": 183,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078127583917465873/photo/1",
+              "media_key": "3_2078105873940197376",
+              "start": 160,
+              "url": "https://t.co/7a5KrvH7Uf"
+            },
+            {
+              "display_url": "pic.x.com/7a5KrvH7Uf",
+              "end": 183,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078127583917465873/photo/1",
+              "media_key": "3_2078106022598860800",
+              "start": 160,
+              "url": "https://t.co/7a5KrvH7Uf"
+            },
+            {
+              "display_url": "pic.x.com/7a5KrvH7Uf",
+              "end": 183,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078127583917465873/photo/1",
+              "media_key": "3_2078106045285847040",
+              "start": 160,
+              "url": "https://t.co/7a5KrvH7Uf"
+            },
+            {
+              "display_url": "pic.x.com/7a5KrvH7Uf",
+              "end": 183,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078127583917465873/photo/1",
+              "media_key": "3_2078106061484285952",
+              "start": 160,
+              "url": "https://t.co/7a5KrvH7Uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078127583917465873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Kimi K3震动硅谷，中国AI同行先跌为敬\n\n7月17日，月之暗面发布Kimi K3：总参数达2.8万亿，拥有百万Token上下文，并计划于7月27日开放模型权重。\n多项早期评测显示，其编程和智能体能力已接近美国最强模型Claude Fable 5、GPT-5.6 Sol。\n路透社称，中国AI正在逼近美国竞争对手；\nAxios更直接宣称，中国正在“抹平美国的AI领先优势”。\n\n消息传出后，香港上市的中国AI同行率先遭到抛售：\n智谱盘中跌超25%，MiniMax跌超15%。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 93159,
+          "like_count": 279,
+          "quote_count": 3,
+          "reply_count": 51,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Kimi K3震动硅谷，中国AI同行先跌为敬\n\n7月17日，月之暗面发布Kimi K3：总参数达2.8万亿，拥有百万Token上下文，并计划于7月27日开放模型权重。\n多项早期评测显示，其编程和智能体能力已接近美国最强模型Claude Fable 5、GPT-5.6 Sol。\n路透社称，中国AI正在逼近美国竞争对手； https://t.co/7a5KrvH7Uf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2076707603439329432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 105,
+          "like_count": 2908,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241640,
+          "following_count": 1078,
+          "like_count": 9798,
+          "listed_count": 8827,
+          "media_count": 50574,
+          "tweet_count": 57791
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

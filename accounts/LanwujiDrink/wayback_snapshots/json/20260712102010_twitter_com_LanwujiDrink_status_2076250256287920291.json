@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1557342305748627457",
+          "name": "Andrew Tate"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2076250256287920291",
+    "created_at": "2026-07-12T10:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076250256287920291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "333357345",
+          "start": 3,
+          "username": "Cobratate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076250256287920291",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 440
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076073691977564400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cobratate: Why are there no Chinese soccer players?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557342305748627457",
+              "name": "Andrew Tate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2076250256287920291",
+        "created_at": "2026-07-12T10:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076250256287920291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "333357345",
+              "start": 3,
+              "username": "Cobratate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076250256287920291",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 440
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076073691977564400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cobratate: Why are there no Chinese soccer players?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "333357345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2076073691977564400",
+        "created_at": "2026-07-11T22:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T23:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076073691977564400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076073691977564400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 636,
+          "impression_count": 2330252,
+          "like_count": 16802,
+          "quote_count": 199,
+          "reply_count": 2193,
+          "retweet_count": 440
+        },
+        "reply_settings": "everyone",
+        "text": "Why are there no Chinese soccer players?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2075991801836835185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 110,
+          "like_count": 2887,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-11T12:15:34.000Z",
+        "description": "Unmatched perspicacity coupled with sheer indefatigability makes me a feared opponent in any realm of human endeavour. Escape Slavery: https://t.co/b2DF1rm9ij",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cobratate.com",
+                "end": 158,
+                "expanded_url": "http://www.cobratate.com",
+                "start": 135,
+                "url": "https://t.co/b2DF1rm9ij"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cobratate.com",
+                "end": 23,
+                "expanded_url": "http://www.cobratate.com",
+                "start": 0,
+                "url": "https://t.co/b2DF1rm9ij"
+              }
+            ]
+          }
+        },
+        "id": "333357345",
+        "location": "The War Room",
+        "name": "Andrew Tate",
+        "pinned_tweet_id": "2075300595963990101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887763323464146945/5HdM0_7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10894736,
+          "following_count": 1341,
+          "like_count": 18992,
+          "listed_count": 10191,
+          "media_count": 5841,
+          "tweet_count": 27737
+        },
+        "url": "https://t.co/b2DF1rm9ij",
+        "username": "Cobratate",
+        "verified": true
+      }
+    ]
+  }
+}

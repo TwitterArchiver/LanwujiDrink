@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2075991801836835185",
+    "created_at": "2026-07-11T18:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T19:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076006602264719736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1835216994733584384",
+          "start": 0,
+          "username": "Hoshinolchino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076006602264719736",
+    "in_reply_to_user_id": "1835216994733584384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076000892420235629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshinolchino 通常建议搭配胆碱类药物服用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2075991801836835185",
+        "created_at": "2026-07-11T18:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076006602264719736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835216994733584384",
+              "start": 0,
+              "username": "Hoshinolchino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076006602264719736",
+        "in_reply_to_user_id": "1835216994733584384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076000892420235629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshinolchino 通常建议搭配胆碱类药物服用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835216994733584384",
+        "conversation_id": "2075991801836835185",
+        "created_at": "2026-07-11T17:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076000892420235629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076000892420235629",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075991801836835185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 吡拉西坦有用吗 非笨基"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2075991801836835185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 110,
+          "like_count": 2886,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T07:20:27.000Z",
+        "description": "可互fo | Java/Kotlin | vibe coder | don’t hurt me | 宵崎奏天下第一 | 没人因你存在而快乐 也没人因你存在而悲伤 你只是自伤。 | send something what I think",
+        "id": "1835216994733584384",
+        "location": "Minecraft.getInstance().world",
+        "name": "星乃一歌Unofficial",
+        "pinned_tweet_id": "1940490014737289282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071700003228401664/0tq3ZzQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 1003,
+          "like_count": 2233,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "Hoshinolchino",
+        "verified": true
+      }
+    ]
+  }
+}

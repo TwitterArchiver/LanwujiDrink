@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Conor McGregor",
+          "id": "809513770162601984",
+          "name": "Conor McGregor"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": "Conor McGregor",
+          "id": "809513770162601984",
+          "name": "Conor McGregor"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conor McGregor",
+          "id": "809513770162601984",
+          "name": "Conor McGregor"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543857066848256",
+          "name": "MMA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      }
+    ],
+    "conversation_id": "2076249591582978255",
+    "created_at": "2026-07-12T10:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076249591582978255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "369583954",
+          "start": 3,
+          "username": "TheNotoriousMMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076249591582978255",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 997
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076237833145090348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheNotoriousMMA: I believe in one God,\nthe Father Almighty,\nMaker of heaven and earth,\nof all things visible and invisible.\n\nI believe…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_2076237827780771840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBHTdIaAAAMWYB.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Conor McGregor",
+              "id": "809513770162601984",
+              "name": "Conor McGregor"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "Conor McGregor",
+              "id": "809513770162601984",
+              "name": "Conor McGregor"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conor McGregor",
+              "id": "809513770162601984",
+              "name": "Conor McGregor"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543857066848256",
+              "name": "MMA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          }
+        ],
+        "conversation_id": "2076249591582978255",
+        "created_at": "2026-07-12T10:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076249591582978255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "369583954",
+              "start": 3,
+              "username": "TheNotoriousMMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076249591582978255",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 997
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076237833145090348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheNotoriousMMA: I believe in one God,\nthe Father Almighty,\nMaker of heaven and earth,\nof all things visible and invisible.\n\nI believe…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076237827780771840"
+          ]
+        },
+        "author_id": "369583954",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Conor McGregor",
+              "id": "809513770162601984",
+              "name": "Conor McGregor"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "Conor McGregor",
+              "id": "809513770162601984",
+              "name": "Conor McGregor"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conor McGregor",
+              "id": "809513770162601984",
+              "name": "Conor McGregor"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543857066848256",
+              "name": "MMA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          }
+        ],
+        "conversation_id": "2076237833145090348",
+        "created_at": "2026-07-12T09:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076237833145090348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDMPIJYWMW",
+              "end": 304,
+              "expanded_url": "https://x.com/TheNotoriousMMA/status/2076237833145090348/photo/1",
+              "media_key": "3_2076237827780771840",
+              "start": 281,
+              "url": "https://t.co/TDMPIJYWMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076237833145090348",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I believe in one God,\nthe Father Almighty,\nMaker of heaven and earth,\nof all things visible and invisible.\n\nI believe in one Lord Jesus Christ,\nthe Only Begotten Son of God,\nborn of the Father before all ages.\n\nGod from God,\nLight from Light,\ntrue God from true God,\nbegotten, not made,\nconsubstantial with the Father;\nthrough Him all things were made.\n\nFor us men and for our salvation\nHe came down from heaven,\n\nand by the Holy Spirit\nwas incarnate of the Virgin Mary,\nand became man.\n\nFor our sake He was crucified under Pontius Pilate,\nHe suffered death and was buried,\nand rose again on the third day\nin accordance with the Scriptures.\n\nHe ascended into heaven\nand is seated at the right hand of the Father.\n\nHe will come again in glory\nto judge the living and the dead,\nand His kingdom will have no end.\n\nI believe in the Holy Spirit,\nthe Lord, the Giver of life,\nwho proceeds from the Father and the Son,\nwho with the Father and the Son is adored and glorified,\nwho has spoken through the prophets.\n\nI believe in one, holy, catholic, and apostolic Church.\n\nI confess one Baptism\nfor the forgiveness of sins,\n\nand I look forward to the resurrection of the dead\nand the life of the world to come.\n\nAmen. 🙏🏼"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 449,
+          "impression_count": 369450,
+          "like_count": 12093,
+          "quote_count": 143,
+          "reply_count": 1081,
+          "retweet_count": 998
+        },
+        "reply_settings": "everyone",
+        "text": "I believe in one God,\nthe Father Almighty,\nMaker of heaven and earth,\nof all things visible and invisible.\n\nI believe in one Lord Jesus Christ,\nthe Only Begotten Son of God,\nborn of the Father before all ages.\n\nGod from God,\nLight from Light,\ntrue God from true God,\nbegotten, not https://t.co/TDMPIJYWMW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2075991801836835185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 109,
+          "like_count": 2887,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-07T16:13:03.000Z",
+        "description": "5 time World Champion. Pray EVERYDAY!! #GOD #FAMILY #COUNTRY #TRUTH 🇮🇪",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 39,
+                "tag": "GOD"
+              },
+              {
+                "end": 51,
+                "start": 44,
+                "tag": "FAMILY"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "tag": "COUNTRY"
+              },
+              {
+                "end": 67,
+                "start": 61,
+                "tag": "TRUTH"
+              }
+            ]
+          }
+        },
+        "id": "369583954",
+        "name": "Conor McGregor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993363063022473216/f8dRoeEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10773166,
+          "following_count": 1950,
+          "like_count": 49941,
+          "listed_count": 6988,
+          "media_count": 3147,
+          "tweet_count": 13171
+        },
+        "url": "",
+        "username": "TheNotoriousMMA",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077065214915448832"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2077065231428428152",
+    "created_at": "2026-07-14T16:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077065231428428152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hEtLKNQJbp",
+          "end": 109,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2077065231428428152/photo/1",
+          "media_key": "3_2077065214915448832",
+          "start": 86,
+          "url": "https://t.co/hEtLKNQJbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077065231428428152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "灾区附近方圆100公里的民宿和酒店都被订完了,问了五六家酒店都满房了，直到一个阿姨看我那么远跑过来支援没地方住，让我去他们的员工午休休息室留宿，要不然今晚真的要住大街上😭 https://t.co/hEtLKNQJbp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077065214915448832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM3zuZbEAAL9we.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077065214915448832"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2077065231428428152",
+        "created_at": "2026-07-14T16:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077065231428428152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEtLKNQJbp",
+              "end": 109,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2077065231428428152/photo/1",
+              "media_key": "3_2077065214915448832",
+              "start": 86,
+              "url": "https://t.co/hEtLKNQJbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077065231428428152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "灾区附近方圆100公里的民宿和酒店都被订完了,问了五六家酒店都满房了，直到一个阿姨看我那么远跑过来支援没地方住，让我去他们的员工午休休息室留宿，要不然今晚真的要住大街上😭 https://t.co/hEtLKNQJbp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2076707603439329432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 109,
+          "like_count": 2897,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 972
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

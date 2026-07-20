@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077344004405141504"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2077344019399774690",
+    "created_at": "2026-07-15T10:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077344019399774690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DDoVeOkrqA",
+          "end": 31,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2077344019399774690/photo/1",
+          "media_key": "3_2077344004405141504",
+          "start": 8,
+          "url": "https://t.co/DDoVeOkrqA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077344019399774690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁家美女一手车 https://t.co/DDoVeOkrqA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_2077344004405141504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ1XaLbIAAiXGN.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077344004405141504"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2077344019399774690",
+        "created_at": "2026-07-15T10:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077344019399774690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDoVeOkrqA",
+              "end": 31,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2077344019399774690/photo/1",
+              "media_key": "3_2077344004405141504",
+              "start": 8,
+              "url": "https://t.co/DDoVeOkrqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077344019399774690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁家美女一手车 https://t.co/DDoVeOkrqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2076707603439329432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 108,
+          "like_count": 2904,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

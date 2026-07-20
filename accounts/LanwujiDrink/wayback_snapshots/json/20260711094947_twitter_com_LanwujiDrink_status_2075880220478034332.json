@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Justin Bieber",
+          "id": "806225938505572352",
+          "name": "Justin Bieber"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Justin Bieber",
+          "id": "806225938505572352",
+          "name": "Justin Bieber"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Justin Bieber",
+          "id": "806225938505572352",
+          "name": "Justin Bieber"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      }
+    ],
+    "conversation_id": "2075880220478034332",
+    "created_at": "2026-07-11T09:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T10:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075880220478034332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1638206888604041216",
+          "start": 3,
+          "username": "Lytherian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075880220478034332",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19658
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075278885546033374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lytherian: Now imagine if there were 200 men all chasing after a 13 year old girl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Justin Bieber",
+              "id": "806225938505572352",
+              "name": "Justin Bieber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Justin Bieber",
+              "id": "806225938505572352",
+              "name": "Justin Bieber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Justin Bieber",
+              "id": "806225938505572352",
+              "name": "Justin Bieber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2075880220478034332",
+        "created_at": "2026-07-11T09:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075880220478034332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1638206888604041216",
+              "start": 3,
+              "username": "Lytherian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075880220478034332",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19658
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075278885546033374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lytherian: Now imagine if there were 200 men all chasing after a 13 year old girl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638206888604041216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Justin Bieber",
+              "id": "806225938505572352",
+              "name": "Justin Bieber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Justin Bieber",
+              "id": "806225938505572352",
+              "name": "Justin Bieber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Justin Bieber",
+              "id": "806225938505572352",
+              "name": "Justin Bieber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2075278885546033374",
+        "created_at": "2026-07-09T18:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075278885546033374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ilychaddle/sta…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/ilychaddle/status/2075271115463635145",
+              "start": 71,
+              "url": "https://t.co/aLl778w039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075278885546033374",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13424,
+          "impression_count": 11001253,
+          "like_count": 311128,
+          "quote_count": 438,
+          "reply_count": 1703,
+          "retweet_count": 19658
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075271115463635145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Now imagine if there were 200 men all chasing after a 13 year old girl https://t.co/aLl778w039"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2072994019437949284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 106,
+          "like_count": 2873,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-21T15:52:31.000Z",
+        "description": "𝙆𝙚𝙚𝙥 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙪𝙥 | partner with @luckyfun | turn notis on",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "luckyfun"
+              }
+            ]
+          }
+        },
+        "id": "1638206888604041216",
+        "location": "DM 4 Promo",
+        "name": "Lyth ♠️",
+        "pinned_tweet_id": "2075637296079007785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009075456461422592/SkzhI4VO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21061,
+          "following_count": 13630,
+          "like_count": 775498,
+          "listed_count": 331,
+          "media_count": 876,
+          "tweet_count": 11378
+        },
+        "url": "",
+        "username": "Lytherian",
+        "verified": true
+      }
+    ]
+  }
+}
