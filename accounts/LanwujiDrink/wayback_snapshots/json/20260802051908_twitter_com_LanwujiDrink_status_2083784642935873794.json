@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2083447649512853686",
+    "created_at": "2026-08-02T05:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083784642935873794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996177553422520320",
+          "start": 0,
+          "username": "AydenW42638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083784642935873794",
+    "in_reply_to_user_id": "1996177553422520320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083447649512853686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AydenW42638 打敏感 谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15139,
+        "height": 1920,
+        "media_key": "13_2083447604093001728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083447604093001728/img/iqpvmigMi25XtamZ.jpg",
+        "public_metrics": {
+          "view_count": 148
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083447604093001728/vid/avc1/480x852/wDuTp6czXGTw-HzA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083447604093001728/vid/avc1/720x1280/HFWlnOBMAgFyq7gL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083447604093001728/pl/POhefmGwUFRIkq7x.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083447604093001728/vid/avc1/320x568/jgKRqTsavKgIHTZv.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083447604093001728/vid/avc1/1080x1920/MLdyN1qtW53rlp2_.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083447649512853686",
+        "created_at": "2026-08-02T05:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083784642935873794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996177553422520320",
+              "start": 0,
+              "username": "AydenW42638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083784642935873794",
+        "in_reply_to_user_id": "1996177553422520320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083447649512853686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AydenW42638 打敏感 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083447604093001728"
+          ]
+        },
+        "author_id": "1996177553422520320",
+        "conversation_id": "2083447649512853686",
+        "created_at": "2026-08-01T07:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083447649512853686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NwiUmchtsv",
+              "end": 92,
+              "expanded_url": "https://x.com/AydenW42638/status/2083447649512853686/video/1",
+              "media_key": "13_2083447604093001728",
+              "start": 69,
+              "url": "https://t.co/NwiUmchtsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083447649512853686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 341,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I have a dick, but it seems like it can only be used to fuck myself. https://t.co/NwiUmchtsv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2083538550117867677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 106,
+          "like_count": 3178,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T11:20:00.000Z",
+        "description": "Eng/cn/男娘~/🚪88/已成年所有发布内容均自愿/求补仓 很缺钱 接线下",
+        "id": "1996177553422520320",
+        "name": "web3/nekostar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048418455985242112/CfKMqUUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 202,
+          "like_count": 954,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "AydenW42638",
+        "verified": true
+      }
+    ]
+  }
+}

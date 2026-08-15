@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2079500730034217213",
+    "created_at": "2026-07-21T09:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079500730034217213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056215337113382912",
+          "start": 3,
+          "username": "FreeX2222"
+        },
+        {
+          "end": 28,
+          "id": "1124790071314587648",
+          "start": 15,
+          "username": "LanwujiDrink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079500730034217213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079499722281414811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FreeX2222: @LanwujiDrink 严肃庆祝0721"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2079500730034217213",
+        "created_at": "2026-07-21T09:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079500730034217213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056215337113382912",
+              "start": 3,
+              "username": "FreeX2222"
+            },
+            {
+              "end": 28,
+              "id": "1124790071314587648",
+              "start": 15,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079500730034217213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079499722281414811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FreeX2222: @LanwujiDrink 严肃庆祝0721"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056215337113382912",
+        "conversation_id": "2079496653309141232",
+        "created_at": "2026-07-21T09:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079499722281414811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079499722281414811",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079499603217694876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 严肃庆祝0721"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 130,
+          "like_count": 2974,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "Love forever\n@FreeX114514\n不回复无意义消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "FreeX114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FreeXOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/FreeXOvO",
+                "start": 0,
+                "url": "https://t.co/xZNFqf5yBG"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "这个世界没有岸 只有越来越会游泳的自己",
+        "name": "FreeX",
+        "pinned_tweet_id": "2077823836029177857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075154363677642752/_aZ5nh6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28126,
+          "following_count": 259,
+          "like_count": 6728,
+          "listed_count": 15,
+          "media_count": 274,
+          "tweet_count": 1895
+        },
+        "url": "https://t.co/xZNFqf5yBG",
+        "username": "FreeX2222",
+        "verified": true
+      }
+    ]
+  }
+}

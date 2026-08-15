@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079409822051827712",
+        "3_2079409821988872192"
+      ],
+      "media_source_tweet_id": [
+        "2079410017619574982",
+        "2079410017619574982"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2079470135153414425",
+    "created_at": "2026-07-21T07:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079470135153414425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774410859491799041",
+          "start": 3,
+          "username": "kiwi_03096"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ihs3IbIEU5",
+          "end": 45,
+          "expanded_url": "https://x.com/kiwi_03096/status/2079410017619574982/photo/1",
+          "media_key": "3_2079409822051827712",
+          "start": 22,
+          "url": "https://t.co/ihs3IbIEU5"
+        },
+        {
+          "display_url": "pic.x.com/ihs3IbIEU5",
+          "end": 45,
+          "expanded_url": "https://x.com/kiwi_03096/status/2079410017619574982/photo/1",
+          "media_key": "3_2079409821988872192",
+          "start": 22,
+          "url": "https://t.co/ihs3IbIEU5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079470135153414425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079410017619574982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiwi_03096: 柚子社必亡 https://t.co/ihs3IbIEU5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079409822051827712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuMN0nbgAA6kul.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079409821988872192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuMN0Ya4AAkORx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079409822051827712",
+            "3_2079409821988872192"
+          ]
+        },
+        "author_id": "1774410859491799041",
+        "conversation_id": "2079410017619574982",
+        "created_at": "2026-07-21T03:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079410017619574982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihs3IbIEU5",
+              "end": 29,
+              "expanded_url": "https://x.com/kiwi_03096/status/2079410017619574982/photo/1",
+              "media_key": "3_2079409822051827712",
+              "start": 6,
+              "url": "https://t.co/ihs3IbIEU5"
+            },
+            {
+              "display_url": "pic.x.com/ihs3IbIEU5",
+              "end": 29,
+              "expanded_url": "https://x.com/kiwi_03096/status/2079410017619574982/photo/1",
+              "media_key": "3_2079409821988872192",
+              "start": 6,
+              "url": "https://t.co/ihs3IbIEU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079410017619574982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2245,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "柚子社必亡 https://t.co/ihs3IbIEU5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079409822051827712",
+            "3_2079409821988872192"
+          ],
+          "media_source_tweet_id": [
+            "2079410017619574982",
+            "2079410017619574982"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2079470135153414425",
+        "created_at": "2026-07-21T07:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079470135153414425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774410859491799041",
+              "start": 3,
+              "username": "kiwi_03096"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihs3IbIEU5",
+              "end": 45,
+              "expanded_url": "https://x.com/kiwi_03096/status/2079410017619574982/photo/1",
+              "media_key": "3_2079409822051827712",
+              "start": 22,
+              "url": "https://t.co/ihs3IbIEU5"
+            },
+            {
+              "display_url": "pic.x.com/ihs3IbIEU5",
+              "end": 45,
+              "expanded_url": "https://x.com/kiwi_03096/status/2079410017619574982/photo/1",
+              "media_key": "3_2079409821988872192",
+              "start": 22,
+              "url": "https://t.co/ihs3IbIEU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079470135153414425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079410017619574982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiwi_03096: 柚子社必亡 https://t.co/ihs3IbIEU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 129,
+          "like_count": 2969,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T12:18:22.000Z",
+        "description": "世界上的另一个我自己@aldn126633\n喜欢每一个喜欢我的人！！！谢谢谢谢谢谢谢谢\n🚪66 想看我出哪个角色可以和我说我尽力",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "aldn126633"
+              }
+            ]
+          }
+        },
+        "id": "1774410859491799041",
+        "location": "天堂",
+        "name": "kiwi_0309",
+        "pinned_tweet_id": "2078026673224839649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007447161626341376/LKnNTTGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14317,
+          "following_count": 206,
+          "like_count": 3117,
+          "listed_count": 38,
+          "media_count": 356,
+          "tweet_count": 1789
+        },
+        "url": "",
+        "username": "kiwi_03096",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2083656507309301792",
+    "created_at": "2026-08-01T20:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T21:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083656507309301792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031990515143753728",
+          "start": 3,
+          "username": "ProjectGokuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083656507309301792",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083492959404912951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ProjectGokuu: Andrew Huberman says BPC-157 has almost no good human data.\n\nAnd almost everyone in his world is taking it.\n\nAnimal studi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23103,
+        "height": 1080,
+        "media_key": "13_2083492941218332672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083492941218332672/img/YfKgSYc8HiawbPpz.jpg",
+        "public_metrics": {
+          "view_count": 38015
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083492941218332672/vid/avc1/480x270/LwW3knHfGqII2WpD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083492941218332672/vid/avc1/640x360/NsCSsWSDk_1-wd9R.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083492941218332672/vid/avc1/1280x720/0x4gFucNg7zpsEzG.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083492941218332672/pl/UqJ9bguee9V5K3dA.m3u8?tag=14&v=0b1"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083656507309301792",
+        "created_at": "2026-08-01T20:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083656507309301792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031990515143753728",
+              "start": 3,
+              "username": "ProjectGokuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083656507309301792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083492959404912951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ProjectGokuu: Andrew Huberman says BPC-157 has almost no good human data.\n\nAnd almost everyone in his world is taking it.\n\nAnimal studi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083492941218332672"
+          ]
+        },
+        "author_id": "2031990515143753728",
+        "conversation_id": "2083492959404912951",
+        "created_at": "2026-08-01T10:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083492959404912951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/55o7TAsIHJ",
+              "end": 302,
+              "expanded_url": "https://x.com/ProjectGokuu/status/2083492959404912951/video/1",
+              "media_key": "13_2083492941218332672",
+              "start": 279,
+              "url": "https://t.co/55o7TAsIHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083492959404912951",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 609,
+                "id": "1838288550569349120",
+                "start": 604,
+                "username": "tbpn"
+              }
+            ]
+          },
+          "text": "Andrew Huberman says BPC-157 has almost no good human data.\n\nAnd almost everyone in his world is taking it.\n\nAnimal studies show it regrows cartilage, nerves, and blood vessels.\n\nThe lethal dose is so high Huberman doesn't think anyone has ever hit it.\n\nBut there's not a single controlled human trial for wound healing.\n\nThe only human study involved enemas at massive doses for colitis.\n\nThat's it. That's all the science has.\n\nYet millions of people are injecting it because the anecdotal results are impossible to ignore. Injuries that doctors said wouldn't heal—healing.\n\n— Andrew Huberman on TBPN (@tbpn)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 70358,
+          "like_count": 439,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "Andrew Huberman says BPC-157 has almost no good human data.\n\nAnd almost everyone in his world is taking it.\n\nAnimal studies show it regrows cartilage, nerves, and blood vessels.\n\nThe lethal dose is so high Huberman doesn't think anyone has ever hit it.\n\nBut there's not a single https://t.co/55o7TAsIHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 104,
+          "like_count": 3176,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T07:07:55.000Z",
+        "description": "Private content partner to B2C health founders • 1B+ total impressions generated for clients",
+        "id": "2031990515143753728",
+        "location": "DM to work with me (2 slots)",
+        "name": "Goku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033467839559131136/_tI-dHt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15046,
+          "following_count": 79,
+          "like_count": 563,
+          "listed_count": 75,
+          "media_count": 833,
+          "tweet_count": 2040
+        },
+        "url": "",
+        "username": "ProjectGokuu",
+        "verified": true
+      }
+    ]
+  }
+}

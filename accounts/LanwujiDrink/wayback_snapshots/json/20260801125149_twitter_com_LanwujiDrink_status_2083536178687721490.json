@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2083535535591534691",
+    "created_at": "2026-08-01T12:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083536178687721490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906245092295487488",
+          "start": 0,
+          "username": "iris_carte99236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083536178687721490",
+    "in_reply_to_user_id": "1906245092295487488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083535535591534691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iris_carte99236 是化工合成的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_2083535514129342464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo0gtSXIAAHRwB.jpg",
+        "width": 735
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2083535523713286144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo0hQ_WgAAxKOM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083535535591534691",
+        "created_at": "2026-08-01T12:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083536178687721490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906245092295487488",
+              "start": 0,
+              "username": "iris_carte99236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083536178687721490",
+        "in_reply_to_user_id": "1906245092295487488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083535535591534691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iris_carte99236 是化工合成的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083535514129342464",
+            "3_2083535523713286144"
+          ]
+        },
+        "author_id": "1906245092295487488",
+        "conversation_id": "2083535535591534691",
+        "created_at": "2026-08-01T12:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083535535591534691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXWlkyTRf6",
+              "end": 54,
+              "expanded_url": "https://x.com/iris_carte99236/status/2083535535591534691/photo/1",
+              "media_key": "3_2083535514129342464",
+              "start": 31,
+              "url": "https://t.co/QXWlkyTRf6"
+            },
+            {
+              "display_url": "pic.x.com/QXWlkyTRf6",
+              "end": 54,
+              "expanded_url": "https://x.com/iris_carte99236/status/2083535535591534691/photo/1",
+              "media_key": "3_2083535523713286144",
+              "start": 31,
+              "url": "https://t.co/QXWlkyTRf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083535535591534691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寻找致幻的仙人掌🌵中\n目前在查资料 有空去植物园参观学习一下 https://t.co/QXWlkyTRf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 104,
+          "like_count": 3169,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T07:20:28.000Z",
+        "description": "Empty yourself",
+        "id": "1906245092295487488",
+        "location": "sz",
+        "name": "plastikman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080912375050559488/wkH7AYBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "iris_carte99236",
+        "verified": false
+      }
+    ]
+  }
+}

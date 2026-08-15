@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2082409194792399340",
+    "created_at": "2026-07-29T14:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082477677949460501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2068403453043560448",
+          "start": 0,
+          "username": "Bjsjxjciizksnxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082477677949460501",
+    "in_reply_to_user_id": "2068403453043560448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082419196751921258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bjsjxjciizksnxj 等下剧烈变形"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2082409194792399340",
+        "created_at": "2026-07-29T14:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082477677949460501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2068403453043560448",
+              "start": 0,
+              "username": "Bjsjxjciizksnxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082477677949460501",
+        "in_reply_to_user_id": "2068403453043560448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082419196751921258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bjsjxjciizksnxj 等下剧烈变形"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068403453043560448",
+        "conversation_id": "2082409194792399340",
+        "created_at": "2026-07-29T10:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082419196751921258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082419196751921258",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082409194792399340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 我这两天在吃度洛西汀🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 106,
+          "like_count": 3130,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1284
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T18:40:44.000Z",
+        "description": "",
+        "id": "2068403453043560448",
+        "name": "Anima",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072901810847928320/gI5Q2cEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "Bjsjxjciizksnxj",
+        "verified": false
+      }
+    ]
+  }
+}

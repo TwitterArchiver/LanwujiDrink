@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2080327486966235284",
+    "created_at": "2026-07-23T16:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080327486966235284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "☯️🧬無極电竞/ADHD 葉經理’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1dGYl…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1dGYllwQXWYKX",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 塔尔西斯高原",
+          "unwound_url": "https://twitter.com/i/spaces/1dGYllwQXWYKX/peek",
+          "url": "https://t.co/EwozAXEkNl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080327486966235284",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/EwozAXEkNl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2080327486966235284",
+        "created_at": "2026-07-23T16:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080327486966235284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "☯️🧬無極电竞/ADHD 葉經理’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1dGYl…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1dGYllwQXWYKX",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 塔尔西斯高原",
+              "unwound_url": "https://twitter.com/i/spaces/1dGYllwQXWYKX/peek",
+              "url": "https://t.co/EwozAXEkNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080327486966235284",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EwozAXEkNl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 126,
+          "like_count": 3009,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1105
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2083420214688117203",
+    "created_at": "2026-08-01T05:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083420214688117203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1347605550016696320",
+          "start": 3,
+          "username": "NoahRyanCo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083420214688117203",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083231854618903037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NoahRyanCo: Stress depletes magnesium. Anxiety depletes magnesium. Hypervigilance depletes magnesium. Overworking depletes magnesium. P…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2823,
+        "media_key": "3_2083231612582481920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkgHTzX0AAuYZy.jpg",
+        "width": 2117
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2083231821358084096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkgTdjWsAA6eE5.jpg",
+        "width": 1578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083420214688117203",
+        "created_at": "2026-08-01T05:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083420214688117203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1347605550016696320",
+              "start": 3,
+              "username": "NoahRyanCo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083420214688117203",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083231854618903037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NoahRyanCo: Stress depletes magnesium. Anxiety depletes magnesium. Hypervigilance depletes magnesium. Overworking depletes magnesium. P…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083231612582481920",
+            "3_2083231821358084096"
+          ]
+        },
+        "author_id": "1347605550016696320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083231854618903037",
+        "created_at": "2026-07-31T16:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083231854618903037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSOIyLB9YA",
+              "end": 302,
+              "expanded_url": "https://x.com/NoahRyanCo/status/2083231854618903037/photo/1",
+              "media_key": "3_2083231612582481920",
+              "start": 279,
+              "url": "https://t.co/nSOIyLB9YA"
+            },
+            {
+              "display_url": "pic.x.com/nSOIyLB9YA",
+              "end": 302,
+              "expanded_url": "https://x.com/NoahRyanCo/status/2083231854618903037/photo/1",
+              "media_key": "3_2083231821358084096",
+              "start": 279,
+              "url": "https://t.co/nSOIyLB9YA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083231854618903037",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Stress depletes magnesium. Anxiety depletes magnesium. Hypervigilance depletes magnesium. Overworking depletes magnesium. Poor sleep depletes magnesium. Pretty much everything the average person does and thinks every day drains them of the little magnesium they have. Saturating your cells with magnesium paradoxically gives you more energy and relaxation."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 22267,
+          "like_count": 493,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "Stress depletes magnesium. Anxiety depletes magnesium. Hypervigilance depletes magnesium. Overworking depletes magnesium. Poor sleep depletes magnesium. Pretty much everything the average person does and thinks every day drains them of the little magnesium they have. Saturating https://t.co/nSOIyLB9YA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 106,
+          "like_count": 3162,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1342
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-08T18:06:25.000Z",
+        "description": "Independent Health Research // Growing Health Brands // Find my Protocols at https://t.co/zPeKlNEYe9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noahryan.co",
+                "end": 100,
+                "expanded_url": "http://www.noahryan.co",
+                "start": 77,
+                "url": "https://t.co/zPeKlNEYe9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noahryan.co",
+                "end": 23,
+                "expanded_url": "http://www.noahryan.co",
+                "start": 0,
+                "url": "https://t.co/zPeKlNEYe9"
+              }
+            ]
+          }
+        },
+        "id": "1347605550016696320",
+        "name": "Noah Ryan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761233957524541440/s5EXk28X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958133,
+          "following_count": 534,
+          "like_count": 43952,
+          "listed_count": 1108,
+          "media_count": 1615,
+          "tweet_count": 24246
+        },
+        "url": "https://t.co/zPeKlNEYe9",
+        "username": "NoahRyanCo",
+        "verified": true
+      }
+    ]
+  }
+}

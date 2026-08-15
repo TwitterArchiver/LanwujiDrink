@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2081371254750372001",
+    "created_at": "2026-07-26T13:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081371254750372001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blue_archivejp…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/blue_archivejp/status/2081344804974403832",
+          "start": 4,
+          "url": "https://t.co/mV2iEYRHwf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081371254750372001",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081344804974403832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😍😍😍 https://t.co/mV2iEYRHwf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2081344798804586496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJsESvasAALPEY.jpg",
+        "width": 1578
+      },
+      {
+        "height": 916,
+        "media_key": "3_2081344798796238848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJsEStbUAAP4H1.jpg",
+        "width": 1628
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2081344798699773953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJsESWbYAEGa3h.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2081344798796214272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJsESta8AAfPj7.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2081371254750372001",
+        "created_at": "2026-07-26T13:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081371254750372001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blue_archivejp…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/blue_archivejp/status/2081344804974403832",
+              "start": 4,
+              "url": "https://t.co/mV2iEYRHwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081371254750372001",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081344804974403832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😍😍😍 https://t.co/mV2iEYRHwf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081344798804586496",
+            "3_2081344798796238848",
+            "3_2081344798699773953",
+            "3_2081344798796214272"
+          ]
+        },
+        "author_id": "1237586987969687555",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2081344804974403832",
+        "created_at": "2026-07-26T11:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081344804974403832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRMx1i0bJs",
+              "end": 179,
+              "expanded_url": "https://x.com/Blue_ArchiveJP/status/2081344804974403832/photo/1",
+              "media_key": "3_2081344798804586496",
+              "start": 156,
+              "url": "https://t.co/wRMx1i0bJs"
+            },
+            {
+              "display_url": "pic.x.com/wRMx1i0bJs",
+              "end": 179,
+              "expanded_url": "https://x.com/Blue_ArchiveJP/status/2081344804974403832/photo/1",
+              "media_key": "3_2081344798796238848",
+              "start": 156,
+              "url": "https://t.co/wRMx1i0bJs"
+            },
+            {
+              "display_url": "pic.x.com/wRMx1i0bJs",
+              "end": 179,
+              "expanded_url": "https://x.com/Blue_ArchiveJP/status/2081344804974403832/photo/1",
+              "media_key": "3_2081344798699773953",
+              "start": 156,
+              "url": "https://t.co/wRMx1i0bJs"
+            },
+            {
+              "display_url": "pic.x.com/wRMx1i0bJs",
+              "end": 179,
+              "expanded_url": "https://x.com/Blue_ArchiveJP/status/2081344804974403832/photo/1",
+              "media_key": "3_2081344798796214272",
+              "start": 156,
+              "url": "https://t.co/wRMx1i0bJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081344804974403832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 182,
+                "start": 177,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 201,
+                "start": 183,
+                "tag": "ブルアカらいぶほっとの三段活用SP"
+              }
+            ]
+          },
+          "text": "【新情報④】\nそして、5.5周年記念期間限定ピックアップ募集「夏の息吹は輝いて！」＆「夏のいろはの手ほどきを」、5.5周年記念期間限定復刻ピックアップ募集「合理主義者はかく語れり」＆「自由主義者はとく駆けり」が開催されます！\n\n▼開催期間\n2026年8月5日(水) 11:00 ~ 8月12日(水) 10:59\n\n※詳細はこちらの画像にてご確認ください\n#ブルアカ\n#ブルアカらいぶほっとの三段活用SP"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 984,
+          "impression_count": 682204,
+          "like_count": 15813,
+          "quote_count": 1042,
+          "reply_count": 111,
+          "retweet_count": 7522
+        },
+        "reply_settings": "everyone",
+        "text": "【新情報④】\nそして、5.5周年記念期間限定ピックアップ募集「夏の息吹は輝いて！」＆「夏のいろはの手ほどきを」、5.5周年記念期間限定復刻ピックアップ募集「合理主義者はかく語れり」＆「自由主義者はとく駆けり」が開催されます！\n\n▼開催期間\n2026年8月5日(水) 11:00 ~ 8月12日(水) 10:59 https://t.co/wRMx1i0bJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 101,
+          "like_count": 3054,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1183
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-11T03:51:59.000Z",
+        "description": "Yostar&NEXON Gamesが贈る学園×青春×物語RPGアプリ『ブルーアーカイブ 』公式X (旧Twitter)です。 ゲーム内最新情報やキヴォトスの出来事などを、私、アロナがお届けします！お問い合わせ・ご要望はこちら：https://t.co/Q6PjW5sPv4 #ブルアカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "ブルアカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3t88nyr",
+                "end": 137,
+                "expanded_url": "http://bit.ly/3t88nyr",
+                "start": 114,
+                "url": "https://t.co/Q6PjW5sPv4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.jp",
+                "end": 23,
+                "expanded_url": "https://bluearchive.jp/",
+                "start": 0,
+                "url": "https://t.co/q9A85kcKI3"
+              }
+            ]
+          }
+        },
+        "id": "1237586987969687555",
+        "location": "シッテムの箱",
+        "name": "ブルーアーカイブ公式",
+        "pinned_tweet_id": "2081255715155640650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686315947550965760/9JfkH8rT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382726,
+          "following_count": 196,
+          "like_count": 655,
+          "listed_count": 6988,
+          "media_count": 5162,
+          "tweet_count": 8026
+        },
+        "url": "https://t.co/q9A85kcKI3",
+        "username": "Blue_ArchiveJP",
+        "verified": true
+      }
+    ]
+  }
+}

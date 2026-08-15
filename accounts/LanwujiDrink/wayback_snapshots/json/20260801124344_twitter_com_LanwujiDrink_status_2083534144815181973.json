@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2083534144815181973",
+    "created_at": "2026-08-01T12:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083534144815181973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1764772387600379904",
+          "start": 3,
+          "username": "BasedBiohacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083534144815181973",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045512927415824421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BasedBiohacker: bromantane is the best overall life enhancement compound\n\neverything is just better on it, and nothing beats it. i keep…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2045431130279559168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLUxpzWwAABNMW.jpg",
+        "width": 946
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2045431385196843008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLVAfcX0AAEaOf.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083534144815181973",
+        "created_at": "2026-08-01T12:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083534144815181973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1764772387600379904",
+              "start": 3,
+              "username": "BasedBiohacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083534144815181973",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045512927415824421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BasedBiohacker: bromantane is the best overall life enhancement compound\n\neverything is just better on it, and nothing beats it. i keep…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045431130279559168",
+            "3_2045431385196843008"
+          ]
+        },
+        "author_id": "1764772387600379904",
+        "conversation_id": "2045512927415824421",
+        "created_at": "2026-04-18T14:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045512927415824421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxtXaB85lc",
+              "end": 301,
+              "expanded_url": "https://x.com/BasedBiohacker/status/2045512927415824421/photo/1",
+              "media_key": "3_2045431130279559168",
+              "start": 278,
+              "url": "https://t.co/GxtXaB85lc"
+            },
+            {
+              "display_url": "pic.x.com/GxtXaB85lc",
+              "end": 301,
+              "expanded_url": "https://x.com/BasedBiohacker/status/2045512927415824421/photo/1",
+              "media_key": "3_2045431385196843008",
+              "start": 278,
+              "url": "https://t.co/GxtXaB85lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045512927415824421",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "kimerachems.co/product/broman…",
+                "end": 403,
+                "expanded_url": "https://kimerachems.co/product/bromantane/?coupon=based",
+                "start": 380,
+                "url": "https://t.co/DjHOJplPm5"
+              }
+            ]
+          },
+          "text": "bromantane is the best overall life enhancement compound\n\neverything is just better on it, and nothing beats it. i keep coming back to it. \n\n50mg sublingual: focus enhanced, colors look more vivid, i stay more present and just seem to enjoy everything more\n\ni guess that's what happens when you upregulate dopamine production instead of nuking your receptors\n\nsoviet perfection.\n\nhttps://t.co/DjHOJplPm5"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 990,
+          "impression_count": 141113,
+          "like_count": 841,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "bromantane is the best overall life enhancement compound\n\neverything is just better on it, and nothing beats it. i keep coming back to it. \n\n50mg sublingual: focus enhanced, colors look more vivid, i stay more present and just seem to enjoy everything more\n\ni guess that's what https://t.co/GxtXaB85lc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 104,
+          "like_count": 3169,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1354
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T21:58:25.000Z",
+        "description": "cognitive enhancement biologist. performance maximalist. longevity strategic. focused on RESULTS. my full stacks, vendors & everything 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basedbiohacker.any.org/cognitive-enha…",
+                "end": 23,
+                "expanded_url": "https://basedbiohacker.any.org/cognitive-enhancement",
+                "start": 0,
+                "url": "https://t.co/hI1Nt0OHqr"
+              }
+            ]
+          }
+        },
+        "id": "1764772387600379904",
+        "location": "NOT MEDICAL ADVICE",
+        "name": "BasedBiohacker",
+        "pinned_tweet_id": "2033673602483294431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974545804799922176/Pcr9zQpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52282,
+          "following_count": 252,
+          "like_count": 6501,
+          "listed_count": 247,
+          "media_count": 2270,
+          "tweet_count": 9300
+        },
+        "url": "https://t.co/hI1Nt0OHqr",
+        "username": "BasedBiohacker",
+        "verified": true
+      }
+    ]
+  }
+}

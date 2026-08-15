@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2083538550117867677",
+    "created_at": "2026-08-03T02:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084111928935534906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1793001753568485376",
+          "start": 0,
+          "username": "YMNKsos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084111928935534906",
+    "in_reply_to_user_id": "1793001753568485376",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084108669189521637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMNKsos copy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083538550117867677",
+        "created_at": "2026-08-03T02:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084111928935534906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1793001753568485376",
+              "start": 0,
+              "username": "YMNKsos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084111928935534906",
+        "in_reply_to_user_id": "1793001753568485376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084108669189521637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMNKsos copy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793001753568485376",
+        "conversation_id": "2083538550117867677",
+        "created_at": "2026-08-03T02:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084108669189521637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084108669189521637",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083538550117867677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 老大我要吃这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2083538550117867677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 107,
+          "like_count": 3180,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T19:32:20.000Z",
+        "description": "已幸福，再来骚扰直接杀鼠。法鼠！全家鼠！\n泛性恋，顺直也鼠，顺直公畜更是鼠完了😍",
+        "id": "1793001753568485376",
+        "location": "2.3km🚪188/288/520",
+        "name": "＞𐋣＜ 😽💖🏳️‍🌈✨",
+        "pinned_tweet_id": "1918517368680329280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793002232503476224/hbBsEqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 266,
+          "like_count": 6113,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 4228
+        },
+        "url": "",
+        "username": "YMNKsos",
+        "verified": false
+      }
+    ]
+  }
+}

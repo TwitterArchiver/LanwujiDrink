@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2081295087712256348",
+    "created_at": "2026-07-26T13:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081378997414613233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1506154024252448770",
+          "start": 0,
+          "username": "Usagiblueberry"
+        },
+        {
+          "end": 27,
+          "id": "1632261908178046977",
+          "start": 16,
+          "username": "artinmemes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081378997414613233",
+    "in_reply_to_user_id": "1506154024252448770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081378064597139905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usagiblueberry @artinmemes ？🤡🤡还有这一关？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2081295087712256348",
+        "created_at": "2026-07-26T13:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081378997414613233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1506154024252448770",
+              "start": 0,
+              "username": "Usagiblueberry"
+            },
+            {
+              "end": 27,
+              "id": "1632261908178046977",
+              "start": 16,
+              "username": "artinmemes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081378997414613233",
+        "in_reply_to_user_id": "1506154024252448770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081378064597139905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usagiblueberry @artinmemes ？🤡🤡还有这一关？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506154024252448770",
+        "conversation_id": "2081295087712256348",
+        "created_at": "2026-07-26T13:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081378064597139905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1632261908178046977",
+              "start": 0,
+              "username": "artinmemes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081378064597139905",
+        "in_reply_to_user_id": "1632261908178046977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081295087712256348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artinmemes 我以前问过ai，ai告诉我穆斯林不能买牧原股份"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 101,
+          "like_count": 3061,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T06:21:54.000Z",
+        "description": "✝️️",
+        "id": "1506154024252448770",
+        "location": "Rabbit Hill",
+        "name": "ᕱᕱ",
+        "pinned_tweet_id": "1889585852394729586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875127805496934400/5zS1Js_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 479,
+          "like_count": 55733,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 3266
+        },
+        "url": "",
+        "username": "Usagiblueberry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T06:09:19.000Z",
+        "description": "投资丛林里的狩猎者。无CRS炒美股上盈透：https://t.co/cyPjUofsCJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "interactivebrokers.com/mkt/?src=ussto…",
+                "end": 44,
+                "expanded_url": "https://www.interactivebrokers.com/mkt/?src=usstokX&url=%2Fcn%2Fwhyib%2Foverview.php",
+                "start": 21,
+                "url": "https://t.co/cyPjUofsCJ"
+              }
+            ]
+          }
+        },
+        "id": "1632261908178046977",
+        "name": "美股OK哥",
+        "pinned_tweet_id": "2080563825066291570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838932235090907136/g6-1v5Vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82258,
+          "following_count": 37,
+          "like_count": 658,
+          "listed_count": 1108,
+          "media_count": 978,
+          "tweet_count": 2236
+        },
+        "url": "",
+        "username": "artinmemes",
+        "verified": true
+      }
+    ]
+  }
+}

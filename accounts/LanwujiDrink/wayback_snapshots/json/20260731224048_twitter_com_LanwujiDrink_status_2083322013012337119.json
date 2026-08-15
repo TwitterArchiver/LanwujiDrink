@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2083322013012337119",
+    "created_at": "2026-07-31T22:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T23:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083322013012337119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1764772387600379904",
+          "start": 3,
+          "username": "BasedBiohacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083322013012337119",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083140615664206198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BasedBiohacker: things your doctor should be prescribing you but won't because it's not in big pharma's best interest, for various symp…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2083109768961433600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOixTE8XoAAU_vl.png",
+        "width": 640
+      },
+      {
+        "height": 512,
+        "media_key": "3_2083109870513905664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOixY_QXYAAAmH7.png",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083322013012337119",
+        "created_at": "2026-07-31T22:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T23:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083322013012337119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1764772387600379904",
+              "start": 3,
+              "username": "BasedBiohacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083322013012337119",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083140615664206198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BasedBiohacker: things your doctor should be prescribing you but won't because it's not in big pharma's best interest, for various symp…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083109768961433600",
+            "3_2083109870513905664"
+          ]
+        },
+        "author_id": "1764772387600379904",
+        "conversation_id": "2083140615664206198",
+        "created_at": "2026-07-31T10:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083140615664206198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJOrAqMcB1",
+              "end": 297,
+              "expanded_url": "https://x.com/BasedBiohacker/status/2083140615664206198/photo/1",
+              "media_key": "3_2083109768961433600",
+              "start": 274,
+              "url": "https://t.co/kJOrAqMcB1"
+            },
+            {
+              "display_url": "pic.x.com/kJOrAqMcB1",
+              "end": 297,
+              "expanded_url": "https://x.com/BasedBiohacker/status/2083140615664206198/photo/1",
+              "media_key": "3_2083109870513905664",
+              "start": 274,
+              "url": "https://t.co/kJOrAqMcB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083140615664206198",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "basedbiohacker.any.org/cognitive-enha…",
+                "end": 1971,
+                "expanded_url": "https://basedbiohacker.any.org/cognitive-enhancement",
+                "start": 1948,
+                "url": "https://t.co/hI1Nt0PffZ"
+              }
+            ]
+          },
+          "text": "things your doctor should be prescribing you but won't because it's not in big pharma's best interest, for various symptoms:\n\ndistraction/ADHD: they give you adderall (neurotoxic, addictive, depletes dopamine), switch that with bromantane + armodafinil (builds dopamine, no dependency)\n\ndepression: they give you SSRIs (sexual dysfunction, emotional blunting, withdrawal hell) switch that with saffron extract, pregnenolone, NSI-189 (actual neurogenesis)\n\nanxiety: they give you benzos (addictive, cognitive impairment, rebound anxiety) switch that with l-theanine, inositol, selank (calms without sedation or dependency)\n\nchronic pain: they give you opioids (addiction, tolerance, destroys your life) switch that with BPC-157, low-dose naltrexone (heals tissue, modulates inflammation)\n\ninsomnia: they give you ambien (amnesia, dependency, doesn't fix the problem) switch that with epitalon, pinealon, glycine (restores actual sleep architecture)\n\nlow energy: they give you nothing useful, but should put you on ubiquinol, meldonium (fixes mitochondrial function)\n\nbrain fog: they give you nothing useful but should put you on pinealon, epitalon, and citicoline (neuroprotection, acetylcholine support)\n\ninflammation: they give you NSAIDs (gut damage, cardiovascular risk) switch that with BPC-157, omega-3s, curcumin (heals instead of masks)\n\nhigh blood pressure: they give you beta blockers (fatigue, erectile dysfunction) switch that with tadalafil, taurine, magnesium (fixes endothelial function)\n\nonly one person truly has your best interests in mind, with no ulterior motives - and that is you.\n\nyour doctor might think they have your best interests in mind, but they have been programmed, taught, and have to follow rules based on a for-profit system.\n\nthis is a non-exhaustive, overviewing list. nothing final, nothing complete. but my hopes are it can open up your eyes to what's possible, and out there.\n\nlearn more and access sourcing: https://t.co/hI1Nt0PffZ\n\nTHIS IS NOT MEDICAL ADVICE."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 374,
+          "impression_count": 12909,
+          "like_count": 267,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "things your doctor should be prescribing you but won't because it's not in big pharma's best interest, for various symptoms:\n\ndistraction/ADHD: they give you adderall (neurotoxic, addictive, depletes dopamine), switch that with bromantane + armodafinil (builds dopamine, no https://t.co/kJOrAqMcB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2083069638401720426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 106,
+          "like_count": 3161,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1339
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T21:58:25.000Z",
+        "description": "cognitive enhancement biologist. performance maximalist. longevity strategic. focused on RESULTS. my full stacks, vendors & everything 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basedbiohacker.any.org/cognitive-enha…",
+                "end": 23,
+                "expanded_url": "https://basedbiohacker.any.org/cognitive-enhancement",
+                "start": 0,
+                "url": "https://t.co/hI1Nt0OHqr"
+              }
+            ]
+          }
+        },
+        "id": "1764772387600379904",
+        "location": "NOT MEDICAL ADVICE",
+        "name": "BasedBiohacker",
+        "pinned_tweet_id": "2033673602483294431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974545804799922176/Pcr9zQpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52125,
+          "following_count": 252,
+          "like_count": 6461,
+          "listed_count": 247,
+          "media_count": 2262,
+          "tweet_count": 9256
+        },
+        "url": "https://t.co/hI1Nt0OHqr",
+        "username": "BasedBiohacker",
+        "verified": true
+      }
+    ]
+  }
+}

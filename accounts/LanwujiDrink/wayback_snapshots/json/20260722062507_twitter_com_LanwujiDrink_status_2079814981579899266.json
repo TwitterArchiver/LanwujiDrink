@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2079809894312800496",
+    "created_at": "2026-07-22T06:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T07:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079814981579899266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056215337113382912",
+          "start": 0,
+          "username": "FreeX2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079814981579899266",
+    "in_reply_to_user_id": "2056215337113382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079809894312800496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeX2222 抖M属性又犯了的freeX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2079809894312800496",
+        "created_at": "2026-07-22T06:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079814981579899266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056215337113382912",
+              "start": 0,
+              "username": "FreeX2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079814981579899266",
+        "in_reply_to_user_id": "2056215337113382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079809894312800496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeX2222 抖M属性又犯了的freeX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056215337113382912",
+        "conversation_id": "2079809894312800496",
+        "created_at": "2026-07-22T06:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079809894312800496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079809894312800496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的奶子应该很适合当脚垫 虽然并不大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 121,
+          "like_count": 2985,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "保持友善的FreeX！Pacifism万岁！\n09年女孩子 brat 现实是小透明\n谢谢大家对FreeX的喜欢和支持 我也爱你们💓\n@FreeX114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "FreeX114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FreeXOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/FreeXOvO",
+                "start": 0,
+                "url": "https://t.co/xZNFqf5yBG"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "这个世界没有岸 只有越来越会游泳的自己",
+        "name": "FreeX",
+        "pinned_tweet_id": "2077823836029177857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075154363677642752/_aZ5nh6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28253,
+          "following_count": 262,
+          "like_count": 6918,
+          "listed_count": 15,
+          "media_count": 278,
+          "tweet_count": 1949
+        },
+        "url": "https://t.co/xZNFqf5yBG",
+        "username": "FreeX2222",
+        "verified": true
+      }
+    ]
+  }
+}

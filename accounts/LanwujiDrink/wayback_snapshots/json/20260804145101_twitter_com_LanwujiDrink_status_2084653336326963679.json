@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084653324884975617"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2084653336326963679",
+    "created_at": "2026-08-04T14:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084653336326963679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O7wK6yR9t4",
+          "end": 33,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2084653336326963679/photo/1",
+          "media_key": "3_2084653324884975617",
+          "start": 10,
+          "url": "https://t.co/O7wK6yR9t4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084653336326963679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "清洁充气睡垫中…🤓 https://t.co/O7wK6yR9t4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084653324884975617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4tJ22bIAEeQIT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084653324884975617"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2084653336326963679",
+        "created_at": "2026-08-04T14:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084653336326963679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O7wK6yR9t4",
+              "end": 33,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2084653336326963679/photo/1",
+              "media_key": "3_2084653324884975617",
+              "start": 10,
+              "url": "https://t.co/O7wK6yR9t4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084653336326963679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清洁充气睡垫中…🤓 https://t.co/O7wK6yR9t4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 109,
+          "like_count": 3190,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2081601964459057205",
+    "created_at": "2026-07-27T10:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081684781297959283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1469850644726968321",
+          "start": 0,
+          "username": "DAna_inX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081684781297959283",
+    "in_reply_to_user_id": "1469850644726968321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081634237526978950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DAna_inX 策划版"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2081601964459057205",
+        "created_at": "2026-07-27T10:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081684781297959283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1469850644726968321",
+              "start": 0,
+              "username": "DAna_inX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081684781297959283",
+        "in_reply_to_user_id": "1469850644726968321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081634237526978950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DAna_inX 策划版"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469850644726968321",
+        "conversation_id": "2081601964459057205",
+        "created_at": "2026-07-27T06:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081634237526978950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081634237526978950",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081601964459057205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 国内能买的多纹柱是圣佩德罗吗？🤔还有乌羽玉仙人掌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 104,
+          "like_count": 3097,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1225
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-12T02:04:52.000Z",
+        "description": "Bass player🎸🎵 /大學牲/ 友好对待世界🤝🌐🏳️‍🌈🏳️‍⚧️/ Hakkas 、Cantonese / 威士忌、咖啡、甜品愛好🥃☕🍰 / 瀋陽、深圳/INFP-T/碎碎念+交友+生活分享/生命最爱之人   @nianyuxiaojia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 110,
+                "username": "nianyuxiaojia"
+              }
+            ]
+          }
+        },
+        "id": "1469850644726968321",
+        "name": "DAna 達納🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004399175585456128/6i78ZmRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 702,
+          "like_count": 30401,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1811
+        },
+        "url": "",
+        "username": "DAna_inX",
+        "verified": false
+      }
+    ]
+  }
+}

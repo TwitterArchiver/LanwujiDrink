@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083216488073506816",
+        "3_2083216487922479104"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2083216498517287358",
+    "created_at": "2026-07-31T15:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083216498517287358"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "殺戮の天使"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5j6TAedzTH",
+          "end": 30,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2083216498517287358/photo/1",
+          "media_key": "3_2083216488073506816",
+          "start": 7,
+          "url": "https://t.co/5j6TAedzTH"
+        },
+        {
+          "display_url": "pic.x.com/5j6TAedzTH",
+          "end": 30,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2083216498517287358/photo/1",
+          "media_key": "3_2083216487922479104",
+          "start": 7,
+          "url": "https://t.co/5j6TAedzTH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083216498517287358",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#殺戮の天使 https://t.co/5j6TAedzTH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1766,
+        "media_key": "3_2083216488073506816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkSW8nbsAAG2uC.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2083216487922479104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkSW8DbMAAAQDo.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083216488073506816",
+            "3_2083216487922479104"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083216498517287358",
+        "created_at": "2026-07-31T15:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083216498517287358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "殺戮の天使"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5j6TAedzTH",
+              "end": 30,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2083216498517287358/photo/1",
+              "media_key": "3_2083216488073506816",
+              "start": 7,
+              "url": "https://t.co/5j6TAedzTH"
+            },
+            {
+              "display_url": "pic.x.com/5j6TAedzTH",
+              "end": 30,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2083216498517287358/photo/1",
+              "media_key": "3_2083216487922479104",
+              "start": 7,
+              "url": "https://t.co/5j6TAedzTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083216498517287358",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#殺戮の天使 https://t.co/5j6TAedzTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2083069638401720426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 104,
+          "like_count": 3153,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1344
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

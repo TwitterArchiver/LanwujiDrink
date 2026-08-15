@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2083785152220836192",
+    "created_at": "2026-08-02T05:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083785152220836192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1727127869040549888",
+          "start": 3,
+          "username": "JeanetteMi89152"
+        },
+        {
+          "end": 32,
+          "id": "1124658845664653314",
+          "start": 21,
+          "username": "CY_Mystica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083785152220836192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083615597246505282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JeanetteMi89152: @CY_Mystica 真的好美，弦月太适合被欣赏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083785152220836192",
+        "created_at": "2026-08-02T05:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083785152220836192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1727127869040549888",
+              "start": 3,
+              "username": "JeanetteMi89152"
+            },
+            {
+              "end": 32,
+              "id": "1124658845664653314",
+              "start": 21,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083785152220836192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083615597246505282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JeanetteMi89152: @CY_Mystica 真的好美，弦月太适合被欣赏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727127869040549888",
+        "conversation_id": "2083615102235017396",
+        "created_at": "2026-08-01T18:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083615597246505282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083615597246505282",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083615102235017396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 真的好美，弦月太适合被欣赏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2083538550117867677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 107,
+          "like_count": 3180,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T00:52:37.000Z",
+        "description": "想看更多视频内容的小哥哥，可以顺手下载支持一下我常用的VPN👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/OGx54h2NvA"
+              }
+            ]
+          }
+        },
+        "id": "1727127869040549888",
+        "name": "银狐VPN加速器",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082888376957448192/Jcoijg8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 52,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/OGx54h2NvA",
+        "username": "JeanetteMi89152",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 278,
+          "like_count": 1764,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2050
+        },
+        "url": "",
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

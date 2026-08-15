@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2082684868266528785",
+    "created_at": "2026-07-30T04:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082684868266528785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1506154024252448770",
+          "start": 3,
+          "username": "Usagiblueberry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082684868266528785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082672723701223747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Usagiblueberry: 六月就在疑惑李在明在金融方面到底在干什么。。。即使什么都不做，也比李在明做的好吧。不了解韩国政治但半年前就看到过一堆吹李在明的视频和文章。他的政治立场和执政水平怎么样我完全不知道，但总感觉是很会玩舆论宣传的立人设炒作类型"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2082684868266528785",
+        "created_at": "2026-07-30T04:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082684868266528785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1506154024252448770",
+              "start": 3,
+              "username": "Usagiblueberry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082684868266528785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082672723701223747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Usagiblueberry: 六月就在疑惑李在明在金融方面到底在干什么。。。即使什么都不做，也比李在明做的好吧。不了解韩国政治但半年前就看到过一堆吹李在明的视频和文章。他的政治立场和执政水平怎么样我完全不知道，但总感觉是很会玩舆论宣传的立人设炒作类型"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506154024252448770",
+        "conversation_id": "2082672723701223747",
+        "created_at": "2026-07-30T03:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082672723701223747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082672723701223747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "六月就在疑惑李在明在金融方面到底在干什么。。。即使什么都不做，也比李在明做的好吧。不了解韩国政治但半年前就看到过一堆吹李在明的视频和文章。他的政治立场和执政水平怎么样我完全不知道，但总感觉是很会玩舆论宣传的立人设炒作类型"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 104,
+          "like_count": 3133,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T06:21:54.000Z",
+        "description": "✝️️",
+        "id": "1506154024252448770",
+        "location": "Rabbit Hill",
+        "name": "ᕱᕱ",
+        "pinned_tweet_id": "1889585852394729586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875127805496934400/5zS1Js_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 481,
+          "like_count": 55869,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 3275
+        },
+        "url": "",
+        "username": "Usagiblueberry",
+        "verified": false
+      }
+    ]
+  }
+}

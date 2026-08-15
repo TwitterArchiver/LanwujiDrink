@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2080747607371268189",
+    "created_at": "2026-07-24T20:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T21:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080747607371268189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2547077232",
+          "start": 3,
+          "username": "TheSpagheddie"
+        },
+        {
+          "end": 32,
+          "id": "1124790071314587648",
+          "start": 19,
+          "username": "LanwujiDrink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080747607371268189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080738412752191736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheSpagheddie: @LanwujiDrink 我共服用了5次，第5次接受到了最高存在的信号，有了极有意义的对话，所有服用期间人完全清醒，得到的想法和新的想法永久记忆保存。总体来说对我的人生非常有意义，但还是因人而异。\n\n乔布斯、Elon， John Lenn…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2080747607371268189",
+        "created_at": "2026-07-24T20:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T21:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080747607371268189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2547077232",
+              "start": 3,
+              "username": "TheSpagheddie"
+            },
+            {
+              "end": 32,
+              "id": "1124790071314587648",
+              "start": 19,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080747607371268189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080738412752191736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheSpagheddie: @LanwujiDrink 我共服用了5次，第5次接受到了最高存在的信号，有了极有意义的对话，所有服用期间人完全清醒，得到的想法和新的想法永久记忆保存。总体来说对我的人生非常有意义，但还是因人而异。\n\n乔布斯、Elon， John Lenn…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2547077232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "John Lennon",
+              "id": "939159641472229376",
+              "name": "John Lennon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "John Lennon",
+              "id": "939159641472229376",
+              "name": "John Lennon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "John Lennon",
+              "id": "939159641472229376",
+              "name": "John Lennon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "John Lennon",
+              "id": "939159641472229376",
+              "name": "John Lennon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "John Lennon",
+              "id": "939159641472229376",
+              "name": "John Lennon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "John Lennon",
+              "id": "939159641472229376",
+              "name": "John Lennon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2078921822360498248",
+        "created_at": "2026-07-24T19:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080738412752191736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080738412752191736",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我共服用了5次，第5次接受到了最高存在的信号，有了极有意义的对话，所有服用期间人完全清醒，得到的想法和新的想法永久记忆保存。总体来说对我的人生非常有意义，但还是因人而异。\n\n乔布斯、Elon， John Lennon 等都在各自人生相应阶段里经常服用，乔布斯还说服用 LSD 是他人生里做过的最重要的三件事之一"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078921822360498248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 我共服用了5次，第5次接受到了最高存在的信号，有了极有意义的对话，所有服用期间人完全清醒，得到的想法和新的想法永久记忆保存。总体来说对我的人生非常有意义，但还是因人而异。\n\n乔布斯、Elon， John Lennon 等都在各自人生相应阶段里经常服用，乔布斯还说服用 LSD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 119,
+          "like_count": 3023,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-05T00:56:20.000Z",
+        "description": "Logic Leads to Truth | Music and Philosophy | Body Shaping | Longevity | Earth Citizen | Support Canada to be the 51st U.S. State",
+        "id": "2547077232",
+        "location": "Vancouver, British Columbia",
+        "name": "Spagheddie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737501394725470208/XBQYhHrM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 396,
+          "like_count": 1980,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 2392
+        },
+        "url": "",
+        "username": "TheSpagheddie",
+        "verified": true
+      }
+    ]
+  }
+}

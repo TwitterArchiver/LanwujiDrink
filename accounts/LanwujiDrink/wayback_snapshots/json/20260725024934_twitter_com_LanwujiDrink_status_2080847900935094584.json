@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2080474801274298456",
+    "created_at": "2026-07-25T02:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080847900935094584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426441673454850051",
+          "start": 0,
+          "username": "SUI20BIUBIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080847900935094584",
+    "in_reply_to_user_id": "1426441673454850051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080474801274298456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUI20BIUBIU 你头发是自己的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4710,
+        "height": 1280,
+        "media_key": "13_2080474765706600448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080474765706600448/img/Q3EHVrrxt8x1FXio.jpg",
+        "public_metrics": {
+          "view_count": 2914
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080474765706600448/vid/avc1/320x568/DSC4SwBVHPFblSPg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080474765706600448/vid/avc1/480x852/9JU76spafcKfPTdL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080474765706600448/vid/avc1/720x1280/RyB-cmloEoeZfD2j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080474765706600448/pl/-3JfWAh3mSWf2mZQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2080474801274298456",
+        "created_at": "2026-07-25T02:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080847900935094584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426441673454850051",
+              "start": 0,
+              "username": "SUI20BIUBIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080847900935094584",
+        "in_reply_to_user_id": "1426441673454850051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080474801274298456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUI20BIUBIU 你头发是自己的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080474765706600448"
+          ]
+        },
+        "author_id": "1426441673454850051",
+        "conversation_id": "2080474801274298456",
+        "created_at": "2026-07-24T02:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080474801274298456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kwfBU1ZZh",
+              "end": 31,
+              "expanded_url": "https://x.com/SUI20BIUBIU/status/2080474801274298456/video/1",
+              "media_key": "13_2080474765706600448",
+              "start": 8,
+              "url": "https://t.co/3kwfBU1ZZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080474801274298456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10465,
+          "like_count": 191,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "走路禁止嚼大果 https://t.co/3kwfBU1ZZh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 119,
+          "like_count": 3024,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T07:13:05.000Z",
+        "description": "这里sui 堆废话号不定时掉落照片和摸鱼 喜欢杀戮尖塔和pjsk˚ʚ₍ ᐢ. ̫ .ᐢ ₎ɞ˚",
+        "id": "1426441673454850051",
+        "name": "不敢换昵称了",
+        "pinned_tweet_id": "1883480529913430384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782714880266731522/OsyYGqWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3981,
+          "following_count": 652,
+          "like_count": 32461,
+          "listed_count": 14,
+          "media_count": 179,
+          "tweet_count": 4530
+        },
+        "url": "",
+        "username": "SUI20BIUBIU",
+        "verified": false
+      }
+    ]
+  }
+}

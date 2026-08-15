@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2080239733482086411",
+    "created_at": "2026-07-23T15:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080309399856566782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2052437224361447424",
+          "start": 0,
+          "username": "mikik8yq"
+        },
+        {
+          "end": 21,
+          "id": "1577362467419611137",
+          "start": 10,
+          "username": "Retepa8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080309399856566782",
+    "in_reply_to_user_id": "2052437224361447424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080239733482086411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikik8yq @Retepa8964 無極是哪個🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11668,
+        "height": 1280,
+        "media_key": "13_2080239619250298880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080239619250298880/img/S-1xFZkrA41Xx9jZ.jpg",
+        "public_metrics": {
+          "view_count": 38
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080239619250298880/vid/avc1/320x568/_codFECRXMG-G8tH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080239619250298880/vid/avc1/480x852/TPpD6VlymXHfj695.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080239619250298880/vid/avc1/720x1280/uIzfIeCe4lm8Rk5w.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080239619250298880/pl/x0NDrIsWGTjMwKro.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2080239733482086411",
+        "created_at": "2026-07-23T15:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080309399856566782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2052437224361447424",
+              "start": 0,
+              "username": "mikik8yq"
+            },
+            {
+              "end": 21,
+              "id": "1577362467419611137",
+              "start": 10,
+              "username": "Retepa8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080309399856566782",
+        "in_reply_to_user_id": "2052437224361447424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080239733482086411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikik8yq @Retepa8964 無極是哪個🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080239619250298880"
+          ]
+        },
+        "author_id": "2052437224361447424",
+        "conversation_id": "2080239733482086411",
+        "created_at": "2026-07-23T10:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080239733482086411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c32lJDTEQu",
+              "end": 23,
+              "expanded_url": "https://x.com/mikik8yq/status/2080239733482086411/video/1",
+              "media_key": "13_2080239619250298880",
+              "start": 0,
+              "url": "https://t.co/c32lJDTEQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080239733482086411",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c32lJDTEQu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 125,
+          "like_count": 3007,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T17:16:36.000Z",
+        "description": "我是一个只存于互联网的电子幽灵真实的存在于地球的某一个角落",
+        "id": "2052437224361447424",
+        "name": "天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077994219051118592/WCTAynwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 13,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "mikik8yq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069459272237453314/oe_JsCpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 937,
+          "like_count": 27176,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 2259
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa8964",
+        "verified": false
+      }
+    ]
+  }
+}

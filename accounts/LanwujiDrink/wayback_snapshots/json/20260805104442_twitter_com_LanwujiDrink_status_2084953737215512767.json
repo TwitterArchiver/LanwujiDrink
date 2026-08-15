@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084953727207923713"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084950656167875033",
+    "created_at": "2026-08-05T10:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084953737215512767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uUoD3xG6PV",
+          "end": 23,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2084953737215512767/photo/1",
+          "media_key": "3_2084953727207923713",
+          "start": 0,
+          "url": "https://t.co/uUoD3xG6PV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084953737215512767",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084950656167875033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/uUoD3xG6PV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084953727207923713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8-Xkta4AEo0XC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2084950643840823296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO87kGRasAAPyWJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084953727207923713"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084950656167875033",
+        "created_at": "2026-08-05T10:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084953737215512767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uUoD3xG6PV",
+              "end": 23,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2084953737215512767/photo/1",
+              "media_key": "3_2084953727207923713",
+              "start": 0,
+              "url": "https://t.co/uUoD3xG6PV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084953737215512767",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084950656167875033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/uUoD3xG6PV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084950643840823296"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2084950656167875033",
+        "created_at": "2026-08-05T10:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084950656167875033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k5NqyVjiuc",
+              "end": 28,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2084950656167875033/photo/1",
+              "media_key": "3_2084950643840823296",
+              "start": 5,
+              "url": "https://t.co/k5NqyVjiuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084950656167875033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈变形 https://t.co/k5NqyVjiuc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 109,
+          "like_count": 3184,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

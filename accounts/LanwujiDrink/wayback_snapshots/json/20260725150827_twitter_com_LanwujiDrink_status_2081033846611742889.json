@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2081033160171917641",
+    "created_at": "2026-07-25T15:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081033846611742889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2064262077360087040",
+          "start": 0,
+          "username": "hfymomojj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081033846611742889",
+    "in_reply_to_user_id": "2064262077360087040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081033160171917641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfymomojj 如果Duvet老师线下被粉丝认出来了会不会很尴尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2081033160171917641",
+        "created_at": "2026-07-25T15:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081033846611742889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2064262077360087040",
+              "start": 0,
+              "username": "hfymomojj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081033846611742889",
+        "in_reply_to_user_id": "2064262077360087040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081033160171917641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfymomojj 如果Duvet老师线下被粉丝认出来了会不会很尴尬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064262077360087040",
+        "conversation_id": "2081033160171917641",
+        "created_at": "2026-07-25T15:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081033160171917641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081033160171917641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天漫展找我集邮的某个人很像你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 125,
+          "like_count": 3041,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1161
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T08:28:05.000Z",
+        "description": "当个婊子 贪财好色 大号@Gniy666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "Gniy666"
+              }
+            ]
+          }
+        },
+        "id": "2064262077360087040",
+        "location": "🚪520/1314/5200",
+        "name": "治疗术",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064969262134165504/vmtx7U-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3746,
+          "following_count": 53,
+          "like_count": 522,
+          "listed_count": 6,
+          "media_count": 78,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "hfymomojj",
+        "verified": false
+      }
+    ]
+  }
+}

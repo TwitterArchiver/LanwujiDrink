@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2084078536642736483",
+    "created_at": "2026-08-03T14:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084282405486223742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2077421465071427584",
+          "start": 0,
+          "username": "kxsghv0"
+        },
+        {
+          "end": 21,
+          "id": "1779380521425940480",
+          "start": 9,
+          "username": "subaru_4866"
+        },
+        {
+          "end": 29,
+          "id": "1341902533032173569",
+          "start": 22,
+          "username": "_idemu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084282405486223742",
+    "in_reply_to_user_id": "2077421465071427584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084219804874145968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxsghv0 @subaru_4866 @_idemu 我只知道中国40岁以上的人多数都是坏人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2084078536642736483",
+        "created_at": "2026-08-03T14:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084282405486223742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2077421465071427584",
+              "start": 0,
+              "username": "kxsghv0"
+            },
+            {
+              "end": 21,
+              "id": "1779380521425940480",
+              "start": 9,
+              "username": "subaru_4866"
+            },
+            {
+              "end": 29,
+              "id": "1341902533032173569",
+              "start": 22,
+              "username": "_idemu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084282405486223742",
+        "in_reply_to_user_id": "2077421465071427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084219804874145968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxsghv0 @subaru_4866 @_idemu 我只知道中国40岁以上的人多数都是坏人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077421465071427584",
+        "conversation_id": "2084078536642736483",
+        "created_at": "2026-08-03T10:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084219804874145968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779380521425940480",
+              "start": 0,
+              "username": "subaru_4866"
+            },
+            {
+              "end": 20,
+              "id": "1341902533032173569",
+              "start": 13,
+              "username": "_idemu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084219804874145968",
+        "in_reply_to_user_id": "1779380521425940480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084179184344285628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@subaru_4866 @_idemu 你以为日本人老百姓都是好人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2083538550117867677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 108,
+          "like_count": 3186,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T15:56:24.000Z",
+        "description": "",
+        "id": "2077421465071427584",
+        "name": "台湾旗鱼人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084210867772829696/99yASoyn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "kxsghv0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T05:26:13.000Z",
+        "description": "Nobody/He/Full Stack Developer.\nStay hungry, Stay foolish.",
+        "id": "1779380521425940480",
+        "location": "Mars",
+        "name": "Subaru486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973195565182664704/89gGDbhK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 480,
+          "like_count": 13981,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "subaru_4866",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T00:24:40.000Z",
+        "description": "中国東北旅行中\nLearning：JP・CN・EN \nVRC/語學/ACG/ボカロ/etc\n國漢文混用er",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_a3aa7fdb-58a4-406d-86b4-2a12eb35259d",
+                "start": 0,
+                "url": "https://t.co/seHZ4dt79J"
+              }
+            ]
+          }
+        },
+        "id": "1341902533032173569",
+        "location": "Gdansk",
+        "name": "しひろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074173349765472256/kxdX6QAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 135,
+          "like_count": 6774,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/seHZ4dt79J",
+        "username": "_idemu",
+        "verified": false
+      }
+    ]
+  }
+}

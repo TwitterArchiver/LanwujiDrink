@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2078796104427302950",
+    "created_at": "2026-07-19T14:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078851961206764013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2043756970151211008",
+          "start": 0,
+          "username": "else69761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078851961206764013",
+    "in_reply_to_user_id": "2043756970151211008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078837526606078023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@else69761 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2078796104427302950",
+        "created_at": "2026-07-19T14:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078851961206764013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2043756970151211008",
+              "start": 0,
+              "username": "else69761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078851961206764013",
+        "in_reply_to_user_id": "2043756970151211008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078837526606078023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@else69761 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043756970151211008",
+        "conversation_id": "2078796104427302950",
+        "created_at": "2026-07-19T13:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078837526606078023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078837526606078023",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078796104427302950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 晚上好喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 110,
+          "like_count": 2927,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T18:23:54.000Z",
+        "description": "嗯，想要抽抽大麻，想要吃策划药什么的，我站在od圈这一边",
+        "id": "2043756970151211008",
+        "location": "安徽省",
+        "name": "else",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062701526261760/NSLbXR-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 36,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "else69761",
+        "verified": false
+      }
+    ]
+  }
+}

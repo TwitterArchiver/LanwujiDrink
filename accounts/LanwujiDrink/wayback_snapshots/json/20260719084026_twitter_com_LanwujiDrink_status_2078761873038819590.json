@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2078761873038819590",
+    "created_at": "2026-07-19T08:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078761873038819590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1242698547339771904",
+          "start": 3,
+          "username": "toxicking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078761873038819590",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2717
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078170704642732093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toxicking: When the devil can’t get to you he send hoes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2078761873038819590",
+        "created_at": "2026-07-19T08:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078761873038819590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1242698547339771904",
+              "start": 3,
+              "username": "toxicking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078761873038819590",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2717
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078170704642732093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toxicking: When the devil can’t get to you he send hoes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242698547339771904",
+        "conversation_id": "2078170704642732093",
+        "created_at": "2026-07-17T17:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078170704642732093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078170704642732093",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1082,
+          "impression_count": 1029169,
+          "like_count": 14014,
+          "quote_count": 304,
+          "reply_count": 233,
+          "retweet_count": 2717
+        },
+        "reply_settings": "everyone",
+        "text": "When the devil can’t get to you he send hoes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 108,
+          "like_count": 2919,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-25T06:23:23.000Z",
+        "description": "777",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/toxcking",
+                "end": 23,
+                "expanded_url": "http://instagram.com/toxcking",
+                "start": 0,
+                "url": "https://t.co/g9az1QfIrq"
+              }
+            ]
+          }
+        },
+        "id": "1242698547339771904",
+        "location": "Washington, USA",
+        "name": "toxic king",
+        "pinned_tweet_id": "2078520777364869561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857221039245402112/Ugqa4R_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657697,
+          "following_count": 1400,
+          "like_count": 35612,
+          "listed_count": 715,
+          "media_count": 233,
+          "tweet_count": 10517
+        },
+        "url": "https://t.co/g9az1QfIrq",
+        "username": "toxicking",
+        "verified": true
+      }
+    ]
+  }
+}

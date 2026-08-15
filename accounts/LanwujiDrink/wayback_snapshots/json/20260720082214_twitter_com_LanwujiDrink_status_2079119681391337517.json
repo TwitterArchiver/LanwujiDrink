@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2079119681391337517",
+    "created_at": "2026-07-20T08:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079119681391337517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/l93374231/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/l93374231/status/1860323397923930482",
+          "start": 10,
+          "url": "https://t.co/DxGU42dwve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079119681391337517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860323397923930482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们家早期丑陋包装 https://t.co/DxGU42dwve"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1860323379112476672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdEyQcNagAAf5xp.jpg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1860323379112534016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdEyQcNbYAAA9ES.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1860323379108302848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdEyQcMa0AAr7B0.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2079119681391337517",
+        "created_at": "2026-07-20T08:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079119681391337517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/l93374231/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/l93374231/status/1860323397923930482",
+              "start": 10,
+              "url": "https://t.co/DxGU42dwve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079119681391337517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860323397923930482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们家早期丑陋包装 https://t.co/DxGU42dwve"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860323379112476672",
+            "3_1860323379112534016",
+            "3_1860323379108302848"
+          ]
+        },
+        "author_id": "1476448742622449664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1860323397923930482",
+        "created_at": "2024-11-23T14:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T15:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860323397923930482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JiFpgVZF9y",
+              "end": 39,
+              "expanded_url": "https://x.com/l93374231/status/1860323397923930482/photo/1",
+              "media_key": "3_1860323379112476672",
+              "start": 16,
+              "url": "https://t.co/JiFpgVZF9y"
+            },
+            {
+              "display_url": "pic.x.com/JiFpgVZF9y",
+              "end": 39,
+              "expanded_url": "https://x.com/l93374231/status/1860323397923930482/photo/1",
+              "media_key": "3_1860323379112534016",
+              "start": 16,
+              "url": "https://t.co/JiFpgVZF9y"
+            },
+            {
+              "display_url": "pic.x.com/JiFpgVZF9y",
+              "end": 39,
+              "expanded_url": "https://x.com/l93374231/status/1860323397923930482/photo/1",
+              "media_key": "3_1860323379108302848",
+              "start": 16,
+              "url": "https://t.co/JiFpgVZF9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860323397923930482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1358,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "叶经理的药到了，改天试试效果🤓 https://t.co/JiFpgVZF9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 118,
+          "like_count": 2946,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1009
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T07:03:30.000Z",
+        "description": "Beijing 热爱自由，喜欢冒险和尝试新鲜事物，记录生活～欢迎交流（生活/学术皆可），请礼貌温柔对待🥰 友跨🍥🌍🪐 认出我的可以私信但不要传播🥺",
+        "id": "1476448742622449664",
+        "location": "Mars",
+        "name": "等风来/～\\",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015069783423586304/y0d2AtNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 1040,
+          "like_count": 23405,
+          "listed_count": 5,
+          "media_count": 894,
+          "tweet_count": 2927
+        },
+        "url": "",
+        "username": "l93374231",
+        "verified": false
+      }
+    ]
+  }
+}

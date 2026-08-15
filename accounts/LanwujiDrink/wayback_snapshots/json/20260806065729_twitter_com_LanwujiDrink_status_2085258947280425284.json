@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084752135179120640"
+      ],
+      "media_source_tweet_id": [
+        "2084752296240365775"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2085258947280425284",
+    "created_at": "2026-08-06T06:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085258947280425284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1764772387600379904",
+          "start": 3,
+          "username": "BasedBiohacker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BrvDGjFnmG",
+          "end": 103,
+          "expanded_url": "https://x.com/BasedBiohacker/status/2084752296240365775/video/1",
+          "media_key": "13_2084752135179120640",
+          "start": 80,
+          "url": "https://t.co/BrvDGjFnmG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085258947280425284",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084752296240365775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BasedBiohacker: life when you don’t give a fuck what anyone says on twitter https://t.co/BrvDGjFnmG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20430,
+        "height": 1080,
+        "media_key": "13_2084752135179120640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084752135179120640/img/gMEO4q_Sra9BRPvH.jpg",
+        "public_metrics": {
+          "view_count": 2863
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084752135179120640/vid/avc1/540x360/BTEpk77PtQo_fiw7.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084752135179120640/vid/avc1/404x270/11tPiB5tfEeuR9vW.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084752135179120640/vid/avc1/1620x1080/EYtSMINygHArzdUj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084752135179120640/pl/mL5bn3F0QAI9lLZS.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084752135179120640/vid/avc1/1080x720/TqB2ZWYWGXARV-Bg.mp4"
+          }
+        ],
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084752135179120640"
+          ]
+        },
+        "author_id": "1764772387600379904",
+        "conversation_id": "2084752296240365775",
+        "created_at": "2026-08-04T21:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T22:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084752296240365775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrvDGjFnmG",
+              "end": 83,
+              "expanded_url": "https://x.com/BasedBiohacker/status/2084752296240365775/video/1",
+              "media_key": "13_2084752135179120640",
+              "start": 60,
+              "url": "https://t.co/BrvDGjFnmG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084752296240365775",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 6433,
+          "like_count": 181,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "life when you don’t give a fuck what anyone says on twitter https://t.co/BrvDGjFnmG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084752135179120640"
+          ],
+          "media_source_tweet_id": [
+            "2084752296240365775"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2085258947280425284",
+        "created_at": "2026-08-06T06:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085258947280425284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1764772387600379904",
+              "start": 3,
+              "username": "BasedBiohacker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrvDGjFnmG",
+              "end": 103,
+              "expanded_url": "https://x.com/BasedBiohacker/status/2084752296240365775/video/1",
+              "media_key": "13_2084752135179120640",
+              "start": 80,
+              "url": "https://t.co/BrvDGjFnmG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085258947280425284",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084752296240365775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BasedBiohacker: life when you don’t give a fuck what anyone says on twitter https://t.co/BrvDGjFnmG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 109,
+          "like_count": 3188,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1438
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T21:58:25.000Z",
+        "description": "cognitive enhancement biologist. performance maximalist. longevity strategic. focused on RESULTS. my full stacks, vendors & everything 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basedbiohacker.any.org/cognitive-enha…",
+                "end": 23,
+                "expanded_url": "https://basedbiohacker.any.org/cognitive-enhancement",
+                "start": 0,
+                "url": "https://t.co/hI1Nt0OHqr"
+              }
+            ]
+          }
+        },
+        "id": "1764772387600379904",
+        "location": "NOT MEDICAL ADVICE",
+        "name": "BasedBiohacker",
+        "pinned_tweet_id": "2033673602483294431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974545804799922176/Pcr9zQpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52542,
+          "following_count": 255,
+          "like_count": 6620,
+          "listed_count": 247,
+          "media_count": 2308,
+          "tweet_count": 9453
+        },
+        "url": "https://t.co/hI1Nt0OHqr",
+        "username": "BasedBiohacker",
+        "verified": true
+      }
+    ]
+  }
+}

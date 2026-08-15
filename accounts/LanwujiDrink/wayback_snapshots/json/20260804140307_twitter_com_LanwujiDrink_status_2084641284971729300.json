@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2084641284971729300",
+    "created_at": "2026-08-04T14:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084641284971729300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_idemu/status/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/_idemu/status/2084623734229586173",
+          "start": 13,
+          "url": "https://t.co/xiC48rlCcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084641284971729300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084623734229586173",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没人觉得这看起来很迷幻吗 https://t.co/xiC48rlCcy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084623720082227201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4SOoXawAEF5ba.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2084641284971729300",
+        "created_at": "2026-08-04T14:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084641284971729300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_idemu/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/_idemu/status/2084623734229586173",
+              "start": 13,
+              "url": "https://t.co/xiC48rlCcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084641284971729300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084623734229586173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没人觉得这看起来很迷幻吗 https://t.co/xiC48rlCcy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084623720082227201"
+          ]
+        },
+        "author_id": "1341902533032173569",
+        "conversation_id": "2084623734229586173",
+        "created_at": "2026-08-04T12:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084623734229586173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JMtWEzgQgW",
+              "end": 35,
+              "expanded_url": "https://x.com/_idemu/status/2084623734229586173/photo/1",
+              "media_key": "3_2084623720082227201",
+              "start": 12,
+              "url": "https://t.co/JMtWEzgQgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084623734229586173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "改革開放がぼんやり香る https://t.co/JMtWEzgQgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 109,
+          "like_count": 3190,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1429
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T00:24:40.000Z",
+        "description": "Learning：JP・CN・EN \nVRC/語學/ACG/ボカロ/etc\n國漢文混用er",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_a3aa7fdb-58a4-406d-86b4-2a12eb35259d",
+                "start": 0,
+                "url": "https://t.co/seHZ4dszkb"
+              }
+            ]
+          }
+        },
+        "id": "1341902533032173569",
+        "location": "Gdansk",
+        "name": "しひろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074173349765472256/kxdX6QAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 139,
+          "like_count": 6890,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 701
+        },
+        "url": "https://t.co/seHZ4dszkb",
+        "username": "_idemu",
+        "verified": false
+      }
+    ]
+  }
+}

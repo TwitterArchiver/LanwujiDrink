@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2080703307832832125",
+    "created_at": "2026-07-24T17:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080706990914035880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2064262077360087040",
+          "start": 0,
+          "username": "hfymomojj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080706990914035880",
+    "in_reply_to_user_id": "2064262077360087040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080703307832832125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfymomojj 《你永远不知道你的工作人员私底下是做什么的》"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080703295073767424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAkn3HbUAAaPRK.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2080703307832832125",
+        "created_at": "2026-07-24T17:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080706990914035880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2064262077360087040",
+              "start": 0,
+              "username": "hfymomojj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080706990914035880",
+        "in_reply_to_user_id": "2064262077360087040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080703307832832125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfymomojj 《你永远不知道你的工作人员私底下是做什么的》"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080703295073767424"
+          ]
+        },
+        "author_id": "2064262077360087040",
+        "conversation_id": "2080703307832832125",
+        "created_at": "2026-07-24T17:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080703307832832125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fuI6MfDJep",
+              "end": 46,
+              "expanded_url": "https://x.com/hfymomojj/status/2080703307832832125/photo/1",
+              "media_key": "3_2080703295073767424",
+              "start": 23,
+              "url": "https://t.co/fuI6MfDJep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080703307832832125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一张被偷拍的工作照:\n真服了什么雷霆拍摄角度 https://t.co/fuI6MfDJep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 133,
+          "like_count": 3021,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T08:28:05.000Z",
+        "description": "当个婊子 贪财好色 大号@Gniy666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "Gniy666"
+              }
+            ]
+          }
+        },
+        "id": "2064262077360087040",
+        "location": "🚪520/1314/5200",
+        "name": "治疗术",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064969262134165504/vmtx7U-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3632,
+          "following_count": 53,
+          "like_count": 512,
+          "listed_count": 6,
+          "media_count": 77,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "hfymomojj",
+        "verified": false
+      }
+    ]
+  }
+}

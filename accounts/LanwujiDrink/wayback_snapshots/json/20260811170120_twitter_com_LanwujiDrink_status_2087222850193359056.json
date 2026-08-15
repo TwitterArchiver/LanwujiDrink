@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087222841376915457"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2087222284989984869",
+    "created_at": "2026-08-11T17:01:20.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087222850193359056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YYjUYyEXER",
+          "end": 32,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2087222850193359056/photo/1",
+          "media_key": "3_2087222841376915457",
+          "start": 9,
+          "url": "https://t.co/YYjUYyEXER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087222850193359056",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "in",
+    "media_metadata": [
+      {
+        "media_key": "3_2087222841376915457"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087222284989984869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "WUJICAFE https://t.co/YYjUYyEXER"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1769,
+        "media_key": "3_2087222841376915457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdOHZtaQAEa5DG.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1733,
+        "media_key": "3_2087222276014178304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdNmfkbgAAUOE6.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087222841376915457"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2087222284989984869",
+        "created_at": "2026-08-11T17:01:20.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087222850193359056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYjUYyEXER",
+              "end": 32,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2087222850193359056/photo/1",
+              "media_key": "3_2087222841376915457",
+              "start": 9,
+              "url": "https://t.co/YYjUYyEXER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087222850193359056",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2087222841376915457"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087222284989984869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "WUJICAFE https://t.co/YYjUYyEXER"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087222276014178304"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2087222284989984869",
+        "created_at": "2026-08-11T16:59:06.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087222284989984869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lafSSyXINX",
+              "end": 29,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2087222284989984869/photo/1",
+              "media_key": "3_2087222276014178304",
+              "start": 6,
+              "url": "https://t.co/lafSSyXINX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087222284989984869",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087222276014178304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无极在双廊 https://t.co/lafSSyXINX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "大人应该为孩子们的未来负责，即使代价是大人自己\n失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "和田地区",
+        "most_recent_tweet_id": "2087222850193359056",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085965577152274432/XOCrCO3o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 116,
+          "like_count": 3245,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1525
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

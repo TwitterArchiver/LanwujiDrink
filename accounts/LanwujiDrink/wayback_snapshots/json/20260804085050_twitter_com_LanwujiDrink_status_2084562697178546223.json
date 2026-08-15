@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2084562697178546223",
+    "created_at": "2026-08-04T08:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084562697178546223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1124790071314587648",
+          "start": 3,
+          "username": "LanwujiDrink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084562697178546223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083538550117867677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanwujiDrink: NEWS：無極Lab 正在开发提升性体验的性物质，多巴胺能的\n\n1 不是Drug，是一种supplement 组合拥有大量人类临床数据证明其安全性\n\n2 没有成瘾性\n\n3 没有导致心血管的副作用让男性养胃\n\n4 男女均可使用、可以极大改善性冷…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2084562697178546223",
+        "created_at": "2026-08-04T08:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084562697178546223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1124790071314587648",
+              "start": 3,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084562697178546223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083538550117867677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanwujiDrink: NEWS：無極Lab 正在开发提升性体验的性物质，多巴胺能的\n\n1 不是Drug，是一种supplement 组合拥有大量人类临床数据证明其安全性\n\n2 没有成瘾性\n\n3 没有导致心血管的副作用让男性养胃\n\n4 男女均可使用、可以极大改善性冷…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083538550117867677",
+        "created_at": "2026-08-01T13:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083538550117867677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083538550117867677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6373,
+          "like_count": 47,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "NEWS：無極Lab 正在开发提升性体验的性物质，多巴胺能的\n\n1 不是Drug，是一种supplement 组合拥有大量人类临床数据证明其安全性\n\n2 没有成瘾性\n\n3 没有导致心血管的副作用让男性养胃\n\n4 男女均可使用、可以极大改善性冷淡\n\n5 同时是认知提升剂，用工作学习\n\n6 无论男女均可提升有氧耐力增加续航"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 109,
+          "like_count": 3190,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

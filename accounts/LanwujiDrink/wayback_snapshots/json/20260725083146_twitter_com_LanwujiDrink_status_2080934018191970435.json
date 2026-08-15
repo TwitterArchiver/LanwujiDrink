@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080934011623583744"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2079147346848633137",
+    "created_at": "2026-07-25T08:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080934018191970435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757320080604741633",
+          "start": 0,
+          "username": "Hiyallcestmoi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C3oRdR7qBH",
+          "end": 49,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2080934018191970435/photo/1",
+          "media_key": "3_2080934011623583744",
+          "start": 26,
+          "url": "https://t.co/C3oRdR7qBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080934018191970435",
+    "in_reply_to_user_id": "1757320080604741633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080932850652610751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiyallcestmoi 明明是bateman https://t.co/C3oRdR7qBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2080934011623583744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD2dVPaMAA1tV6.jpg",
+        "width": 607
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080934011623583744"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2079147346848633137",
+        "created_at": "2026-07-25T08:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080934018191970435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757320080604741633",
+              "start": 0,
+              "username": "Hiyallcestmoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C3oRdR7qBH",
+              "end": 49,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2080934018191970435/photo/1",
+              "media_key": "3_2080934011623583744",
+              "start": 26,
+              "url": "https://t.co/C3oRdR7qBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080934018191970435",
+        "in_reply_to_user_id": "1757320080604741633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080932850652610751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiyallcestmoi 明明是bateman https://t.co/C3oRdR7qBH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757320080604741633",
+        "conversation_id": "2079147346848633137",
+        "created_at": "2026-07-25T08:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080932850652610751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080932850652610751",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079147346848633137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 越来越alpha man"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 122,
+          "like_count": 3029,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T08:25:47.000Z",
+        "description": "👽AS小孩 | 🌈彩虹友好 |🍹生活艺术 | 🤮赤石分享 |♀低脂蝈釹 | 🍼幼稚巨婴 |❔持续虚无 | 🥃荣誉健全 | 👻随地抛尸 | 🪷人淡如莲 | enby 酷儿 pansexual | 给我发送匿名消息：https://t.co/mazPCu6XHb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hiyallcestmoi",
+                "end": 129,
+                "expanded_url": "https://ngl.link/hiyallcestmoi",
+                "start": 106,
+                "url": "https://t.co/mazPCu6XHb"
+              }
+            ]
+          }
+        },
+        "id": "1757320080604741633",
+        "location": "\nℕ𝕠𝕥𝕙𝕚𝕟𝕘𝕧𝕚𝕝𝕝𝕖",
+        "name": "阿溪Kay(重生之在BeverlyHill RodeoDrive飙Pink Convertible）",
+        "pinned_tweet_id": "2021167129974739317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984426303538544644/6ht9CNJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 445,
+          "like_count": 3496,
+          "listed_count": 3,
+          "media_count": 581,
+          "tweet_count": 4067
+        },
+        "url": "",
+        "username": "Hiyallcestmoi",
+        "verified": false
+      }
+    ]
+  }
+}

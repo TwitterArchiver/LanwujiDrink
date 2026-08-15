@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084253202430525440"
+      ],
+      "media_source_tweet_id": [
+        "2084253250585309633"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085410197028425763",
+    "created_at": "2026-08-06T16:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085410197028425763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "829800684769910786",
+          "start": 3,
+          "username": "_Hybreed_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dTVQdE3ZTI",
+          "end": 75,
+          "expanded_url": "https://x.com/_Hybreed_/status/2084253250585309633/video/1",
+          "media_key": "13_2084253202430525440",
+          "start": 52,
+          "url": "https://t.co/dTVQdE3ZTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085410197028425763",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19298
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084253250585309633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Hybreed_: Mom was right, it is that damn phone https://t.co/dTVQdE3ZTI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13026,
+        "height": 770,
+        "media_key": "13_2084253202430525440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084253202430525440/img/88Xzzj3OO9rheEDp.jpg",
+        "public_metrics": {
+          "view_count": 1817083
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084253202430525440/vid/avc1/320x342/nzrGrqWLp-oWcXrk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084253202430525440/vid/avc1/480x512/cqcZpS2FiTCuw5w1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084253202430525440/vid/avc1/720x770/XY8l0RyNXCzkVswl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084253202430525440/pl/okUX1sRFHQubmWw_.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084253202430525440"
+          ]
+        },
+        "author_id": "829800684769910786",
+        "conversation_id": "2084253250585309633",
+        "created_at": "2026-08-03T12:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084253250585309633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTVQdE3ZTI",
+              "end": 60,
+              "expanded_url": "https://x.com/_Hybreed_/status/2084253250585309633/video/1",
+              "media_key": "13_2084253202430525440",
+              "start": 37,
+              "url": "https://t.co/dTVQdE3ZTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084253250585309633",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14331,
+          "impression_count": 6315103,
+          "like_count": 141311,
+          "quote_count": 537,
+          "reply_count": 743,
+          "retweet_count": 19298
+        },
+        "reply_settings": "everyone",
+        "text": "Mom was right, it is that damn phone https://t.co/dTVQdE3ZTI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084253202430525440"
+          ],
+          "media_source_tweet_id": [
+            "2084253250585309633"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085410197028425763",
+        "created_at": "2026-08-06T16:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085410197028425763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "829800684769910786",
+              "start": 3,
+              "username": "_Hybreed_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTVQdE3ZTI",
+              "end": 75,
+              "expanded_url": "https://x.com/_Hybreed_/status/2084253250585309633/video/1",
+              "media_key": "13_2084253202430525440",
+              "start": 52,
+              "url": "https://t.co/dTVQdE3ZTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085410197028425763",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19298
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084253250585309633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Hybreed_: Mom was right, it is that damn phone https://t.co/dTVQdE3ZTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "大人应该为孩子们的未来负责，即使代价是大人自己\n失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2085321130232164815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 108,
+          "like_count": 3193,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1457
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-09T21:14:35.000Z",
+        "description": "Minister of Arts, Culture & Photoshop.",
+        "id": "829800684769910786",
+        "location": "South Africa",
+        "name": "L E S E D I",
+        "pinned_tweet_id": "1796524945322967229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1123355788771307520/Xufg7MAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880374,
+          "following_count": 168106,
+          "like_count": 39040,
+          "listed_count": 232,
+          "media_count": 43545,
+          "tweet_count": 185424
+        },
+        "url": "",
+        "username": "_Hybreed_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2081622147806683566",
+    "created_at": "2026-07-27T17:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081800113962573837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077402753723441152",
+          "start": 0,
+          "username": "Jitian8of4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081800113962573837",
+    "in_reply_to_user_id": "2077402753723441152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081622147806683566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jitian8of4 找我买 包真的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081622139153879041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONoToDbEAEkcoP.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2081622147806683566",
+        "created_at": "2026-07-27T17:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081800113962573837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077402753723441152",
+              "start": 0,
+              "username": "Jitian8of4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081800113962573837",
+        "in_reply_to_user_id": "2077402753723441152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081622147806683566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jitian8of4 找我买 包真的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081622139153879041"
+          ]
+        },
+        "author_id": "2077402753723441152",
+        "conversation_id": "2081622147806683566",
+        "created_at": "2026-07-27T06:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081622147806683566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uexGpfn7mY",
+              "end": 41,
+              "expanded_url": "https://x.com/Jitian8of4/status/2081622147806683566/photo/1",
+              "media_key": "3_2081622139153879041",
+              "start": 18,
+              "url": "https://t.co/uexGpfn7mY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081622147806683566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这傻逼就是个死全家的骗子骗了我六百 https://t.co/uexGpfn7mY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 105,
+          "like_count": 3113,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1243
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T14:40:10.000Z",
+        "description": "精神不安定，爱od的章鱼",
+        "id": "2077402753723441152",
+        "name": "タコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077772265614446593/eRNyS-RH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 65,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Jitian8of4",
+        "verified": false
+      }
+    ]
+  }
+}

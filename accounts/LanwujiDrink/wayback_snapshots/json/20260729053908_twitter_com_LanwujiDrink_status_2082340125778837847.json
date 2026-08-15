@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2082340125778837847",
+    "created_at": "2026-07-29T05:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082340125778837847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043756970151211008",
+          "start": 3,
+          "username": "else69761"
+        },
+        {
+          "end": 28,
+          "id": "1124790071314587648",
+          "start": 15,
+          "username": "LanwujiDrink"
+        },
+        {
+          "end": 40,
+          "id": "2077402753723441152",
+          "start": 29,
+          "username": "Jitian8of4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082340125778837847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081961829811753274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @else69761: @LanwujiDrink @Jitian8of4 他真有，我就找他买过喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2082340125778837847",
+        "created_at": "2026-07-29T05:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082340125778837847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043756970151211008",
+              "start": 3,
+              "username": "else69761"
+            },
+            {
+              "end": 28,
+              "id": "1124790071314587648",
+              "start": 15,
+              "username": "LanwujiDrink"
+            },
+            {
+              "end": 40,
+              "id": "2077402753723441152",
+              "start": 29,
+              "username": "Jitian8of4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082340125778837847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081961829811753274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @else69761: @LanwujiDrink @Jitian8of4 他真有，我就找他买过喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043756970151211008",
+        "conversation_id": "2081622147806683566",
+        "created_at": "2026-07-28T04:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081961829811753274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            },
+            {
+              "end": 25,
+              "id": "2077402753723441152",
+              "start": 14,
+              "username": "Jitian8of4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081961829811753274",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081800113962573837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink @Jitian8of4 他真有，我就找他买过喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 104,
+          "like_count": 3128,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T18:23:54.000Z",
+        "description": "嗯，想要抽抽大麻，想要吃策划药什么的，我站在od圈这一边",
+        "id": "2043756970151211008",
+        "location": "安徽省",
+        "name": "else",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062701526261760/NSLbXR-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 36,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "else69761",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T14:40:10.000Z",
+        "description": "精神不安定，爱od的章鱼",
+        "id": "2077402753723441152",
+        "name": "タコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077772265614446593/eRNyS-RH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 69,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "Jitian8of4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2079949527210197096",
+    "created_at": "2026-07-22T15:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079950798122107197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887730278581596161",
+          "start": 0,
+          "username": "lulukou909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079950798122107197",
+    "in_reply_to_user_id": "1887730278581596161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079949527210197096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lulukou909 神人了 单号我都没给你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2079949527210197096",
+        "created_at": "2026-07-22T15:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079950798122107197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887730278581596161",
+              "start": 0,
+              "username": "lulukou909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079950798122107197",
+        "in_reply_to_user_id": "1887730278581596161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079949527210197096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lulukou909 神人了 单号我都没给你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887730278581596161",
+        "conversation_id": "2079949527210197096",
+        "created_at": "2026-07-22T15:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079949527210197096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079949527210197096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🌵到了 叶老板我爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 122,
+          "like_count": 2991,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1080
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T05:09:21.000Z",
+        "description": "zju毕业",
+        "id": "1887730278581596161",
+        "name": "Hankou Doll",
+        "pinned_tweet_id": "1896507281724088344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071239582918807552/Byk3OJVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 92,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 688
+        },
+        "url": "",
+        "username": "lulukou909",
+        "verified": false
+      }
+    ]
+  }
+}

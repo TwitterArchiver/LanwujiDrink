@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2082408048820461905",
+    "created_at": "2026-07-29T10:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082408048820461905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/n9qhy/status/2…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/n9qhy/status/2082401224926908846",
+          "start": 16,
+          "url": "https://t.co/Rz9wEMTj2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082408048820461905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082401224926908846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "生你是抽卡行为，爱你是出SSR https://t.co/Rz9wEMTj2v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2082408048820461905",
+        "created_at": "2026-07-29T10:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082408048820461905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n9qhy/status/2…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/n9qhy/status/2082401224926908846",
+              "start": 16,
+              "url": "https://t.co/Rz9wEMTj2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082408048820461905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082401224926908846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生你是抽卡行为，爱你是出SSR https://t.co/Rz9wEMTj2v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906605092612227072",
+        "conversation_id": "2082401224926908846",
+        "created_at": "2026-07-29T09:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082401224926908846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082401224926908846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么爸爸妈妈不爱我还要把我生下来呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 106,
+          "like_count": 3130,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T07:11:09.000Z",
+        "description": "LV.4 - Angel Dust",
+        "id": "1906605092612227072",
+        "name": "明前",
+        "pinned_tweet_id": "2077445551428341961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992167258450509824/K5FSOyyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 1981,
+          "like_count": 6745,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2245
+        },
+        "url": "",
+        "username": "N9qHy",
+        "verified": false
+      }
+    ]
+  }
+}

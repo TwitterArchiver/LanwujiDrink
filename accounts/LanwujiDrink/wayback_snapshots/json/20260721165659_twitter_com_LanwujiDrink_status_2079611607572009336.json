@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078794080100794368"
+      ],
+      "media_source_tweet_id": [
+        "2078805802115047505"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079611607572009336",
+    "created_at": "2026-07-21T16:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079611607572009336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dwK5pqgq9R",
+          "end": 23,
+          "expanded_url": "https://x.com/jointrwuni_/status/2078805802115047505/video/1",
+          "media_key": "13_2078794080100794368",
+          "start": 0,
+          "url": "https://t.co/dwK5pqgq9R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079611607572009336",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/dwK5pqgq9R"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 273786,
+        "height": 360,
+        "media_key": "13_2078794080100794368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078794080100794368/img/_M5RazlqD9hGsUm9.jpg",
+        "public_metrics": {
+          "view_count": 35167
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078794080100794368/vid/avc1/480x270/ODi5vT0GcUAhjXi7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078794080100794368/vid/avc1/640x360/lfCaA8kqSd0I8G_z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078794080100794368/pl/KYEqZ9YRqCU2n84h.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078794080100794368"
+          ]
+        },
+        "author_id": "1689032605503541248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557342305748627457",
+              "name": "Andrew Tate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078805802115047505",
+        "created_at": "2026-07-19T11:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078805802115047505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsO8TAnTYA",
+              "end": 87,
+              "expanded_url": "https://x.com/jointrwuni_/status/2078805802115047505/video/1",
+              "media_key": "13_2078794080100794368",
+              "start": 64,
+              "url": "https://t.co/RsO8TAnTYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078805802115047505",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 390,
+          "impression_count": 42984,
+          "like_count": 1211,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "Throwback to Andrew Tate's legendary 24 hours jail livestream 😂 https://t.co/RsO8TAnTYA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078794080100794368"
+          ],
+          "media_source_tweet_id": [
+            "2078805802115047505"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079611607572009336",
+        "created_at": "2026-07-21T16:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079611607572009336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwK5pqgq9R",
+              "end": 23,
+              "expanded_url": "https://x.com/jointrwuni_/status/2078805802115047505/video/1",
+              "media_key": "13_2078794080100794368",
+              "start": 0,
+              "url": "https://t.co/dwK5pqgq9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079611607572009336",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dwK5pqgq9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 121,
+          "like_count": 2987,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

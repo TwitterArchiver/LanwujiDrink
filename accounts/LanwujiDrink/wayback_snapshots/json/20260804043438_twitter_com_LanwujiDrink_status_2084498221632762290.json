@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2084477455495209137",
+    "created_at": "2026-08-04T04:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084498221632762290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051883537586941959",
+          "start": 0,
+          "username": "UppaEpop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084498221632762290",
+    "in_reply_to_user_id": "2051883537586941959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084495187083190706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UppaEpop 对喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2084477455495209137",
+        "created_at": "2026-08-04T04:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084498221632762290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051883537586941959",
+              "start": 0,
+              "username": "UppaEpop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084498221632762290",
+        "in_reply_to_user_id": "2051883537586941959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084495187083190706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UppaEpop 对喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051883537586941959",
+        "conversation_id": "2084477455495209137",
+        "created_at": "2026-08-04T04:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084495187083190706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084495187083190706",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084477455495209137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 像雪花牛肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 109,
+          "like_count": 3186,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1416
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T04:35:41.000Z",
+        "description": "2️⃣4️⃣K地地道道纯正土味中老年健全福✨\nOD/美食/观鸟/绘画/骂老板/日常记录推，指不定哪天信息摄入过量就销号了",
+        "id": "2051883537586941959",
+        "name": "坞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051932726954172416/SzJfuOgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 96,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "UppaEpop",
+        "verified": false
+      }
+    ]
+  }
+}

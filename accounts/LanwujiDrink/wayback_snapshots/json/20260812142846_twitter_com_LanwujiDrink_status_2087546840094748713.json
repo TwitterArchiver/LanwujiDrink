@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087535868454346752"
+      ],
+      "media_source_tweet_id": [
+        "2087536098499346856"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2087546840094748713",
+    "created_at": "2026-08-12T14:28:46.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087546840094748713"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "OD"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "pr80"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "普瑞原粉"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "357176113",
+          "start": 3,
+          "username": "soobin4869"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/czUEAwn91e",
+          "end": 76,
+          "expanded_url": "https://x.com/soobin4869/status/2087536098499346856/video/1",
+          "media_key": "13_2087535868454346752",
+          "start": 53,
+          "url": "https://t.co/czUEAwn91e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087546840094748713",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087535868454346752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087536098499346856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @soobin4869: 还是之前这个视频整的有艺术感\n#OD #pr80 #普瑞巴林 #普瑞原粉 https://t.co/czUEAwn91e"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20866,
+        "height": 1920,
+        "media_key": "13_2087535868454346752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087535868454346752/img/3gI14S_toymj6WLc.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087535868454346752/vid/avc1/320x614/4KUE9Fce5R5qUscD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087535868454346752/vid/avc1/480x920/x8LoB-LLJBOjVS6o.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087535868454346752/vid/avc1/720x1382/EbYyGuD_VUDpKTuy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087535868454346752/pl/MT9us_FjvETgR0Mr.m3u8?tag=14"
+          }
+        ],
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087535868454346752"
+          ]
+        },
+        "author_id": "357176113",
+        "conversation_id": "2087536098499346856",
+        "created_at": "2026-08-12T13:46:05.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087536098499346856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "OD"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "pr80"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "普瑞原粉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/czUEAwn91e",
+              "end": 60,
+              "expanded_url": "https://x.com/soobin4869/status/2087536098499346856/video/1",
+              "media_key": "13_2087535868454346752",
+              "start": 37,
+              "url": "https://t.co/czUEAwn91e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087536098499346856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087535868454346752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "还是之前这个视频整的有艺术感\n#OD #pr80 #普瑞巴林 #普瑞原粉 https://t.co/czUEAwn91e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087535868454346752"
+          ],
+          "media_source_tweet_id": [
+            "2087536098499346856"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087546840094748713",
+        "created_at": "2026-08-12T14:28:46.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087546840094748713"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "OD"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "pr80"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "普瑞原粉"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "357176113",
+              "start": 3,
+              "username": "soobin4869"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/czUEAwn91e",
+              "end": 76,
+              "expanded_url": "https://x.com/soobin4869/status/2087536098499346856/video/1",
+              "media_key": "13_2087535868454346752",
+              "start": 53,
+              "url": "https://t.co/czUEAwn91e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087546840094748713",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087535868454346752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087536098499346856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @soobin4869: 还是之前这个视频整的有艺术感\n#OD #pr80 #普瑞巴林 #普瑞原粉 https://t.co/czUEAwn91e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "和田地区",
+        "most_recent_tweet_id": "2087546840094748713",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087346190614450177/L7-bU6kp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 111,
+          "like_count": 3260,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1531
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n@ZakkysLab\nPR原粉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2087536098499346856",
+        "name": "ZakkysLab卖货号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

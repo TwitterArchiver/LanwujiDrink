@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081649188216176640"
+      ],
+      "media_source_tweet_id": [
+        "2081701381967077833"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2081724559481569669",
+    "created_at": "2026-07-27T12:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081724559481569669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "89421672",
+          "start": 3,
+          "username": "USA_China_Talk"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Prepare for your trip to China by reviewing the State Department Travel Advisory, entry and exit requirements, local laws, and U.S. embassy tips.",
+          "display_url": "travel.state.gov/en/internation…",
+          "end": 63,
+          "expanded_url": "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
+          "start": 40,
+          "status": 403,
+          "title": "China Travel Advisory | Travel.State.gov",
+          "unwound_url": "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
+          "url": "https://t.co/Oh0priu5oD"
+        },
+        {
+          "display_url": "pic.x.com/U0WvWMbt8e",
+          "end": 87,
+          "expanded_url": "https://x.com/USA_China_Talk/status/2081701381967077833/photo/1",
+          "media_key": "3_2081649188216176640",
+          "start": 64,
+          "url": "https://t.co/U0WvWMbt8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081724559481569669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081701381967077833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USA_China_Talk: 更多信息请见美国国务院中国国别信息网站：https://t.co/Oh0priu5oD https://t.co/U0WvWMbt8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2081649188216176640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOA6FqbAAA4esd.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081649188216176640"
+          ]
+        },
+        "author_id": "89421672",
+        "conversation_id": "2081701381967077833",
+        "created_at": "2026-07-27T11:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081701381967077833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Prepare for your trip to China by reviewing the State Department Travel Advisory, entry and exit requirements, local laws, and U.S. embassy tips.",
+              "display_url": "travel.state.gov/en/internation…",
+              "end": 43,
+              "expanded_url": "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
+              "start": 20,
+              "status": 403,
+              "title": "China Travel Advisory | Travel.State.gov",
+              "unwound_url": "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
+              "url": "https://t.co/Oh0priu5oD"
+            },
+            {
+              "display_url": "pic.x.com/U0WvWMbt8e",
+              "end": 67,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2081701381967077833/photo/1",
+              "media_key": "3_2081649188216176640",
+              "start": 44,
+              "url": "https://t.co/U0WvWMbt8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081701381967077833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8415,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "更多信息请见美国国务院中国国别信息网站：https://t.co/Oh0priu5oD https://t.co/U0WvWMbt8e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081649188216176640"
+          ],
+          "media_source_tweet_id": [
+            "2081701381967077833"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2081724559481569669",
+        "created_at": "2026-07-27T12:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081724559481569669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "89421672",
+              "start": 3,
+              "username": "USA_China_Talk"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Prepare for your trip to China by reviewing the State Department Travel Advisory, entry and exit requirements, local laws, and U.S. embassy tips.",
+              "display_url": "travel.state.gov/en/internation…",
+              "end": 63,
+              "expanded_url": "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
+              "start": 40,
+              "status": 403,
+              "title": "China Travel Advisory | Travel.State.gov",
+              "unwound_url": "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
+              "url": "https://t.co/Oh0priu5oD"
+            },
+            {
+              "display_url": "pic.x.com/U0WvWMbt8e",
+              "end": 87,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2081701381967077833/photo/1",
+              "media_key": "3_2081649188216176640",
+              "start": 64,
+              "url": "https://t.co/U0WvWMbt8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081724559481569669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081701381967077833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USA_China_Talk: 更多信息请见美国国务院中国国别信息网站：https://t.co/Oh0priu5oD https://t.co/U0WvWMbt8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 105,
+          "like_count": 3106,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1236
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "pinned_tweet_id": "2075422625661149217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643999,
+          "following_count": 174,
+          "like_count": 11,
+          "listed_count": 4406,
+          "media_count": 574,
+          "tweet_count": 3003
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Language Learning",
+          "id": "852226935044194304",
+          "name": "Language learning"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364632995655610377",
+          "name": "Chinese language learning "
+        }
+      }
+    ],
+    "conversation_id": "2083971120638882156",
+    "created_at": "2026-08-02T17:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T18:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083971120638882156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1341902533032173569",
+          "start": 3,
+          "username": "_idemu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083971120638882156",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083954338679103581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_idemu: 中国旅行3日目…\n\n・教科書より儿化が激しい\n・どこでもタバコ吸う\n・買わないって言ったら値段下がってくる\n・身振り手振りでどうにかなる\n・中国語学習のモチベーション上がる\n・どこでもタバコ吸う\n・随所に灰皿が置いてある\n・どこでもタバコ吸う"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Language Learning",
+              "id": "852226935044194304",
+              "name": "Language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364632995655610377",
+              "name": "Chinese language learning "
+            }
+          }
+        ],
+        "conversation_id": "2083971120638882156",
+        "created_at": "2026-08-02T17:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083971120638882156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1341902533032173569",
+              "start": 3,
+              "username": "_idemu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083971120638882156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083954338679103581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_idemu: 中国旅行3日目…\n\n・教科書より儿化が激しい\n・どこでもタバコ吸う\n・買わないって言ったら値段下がってくる\n・身振り手振りでどうにかなる\n・中国語学習のモチベーション上がる\n・どこでもタバコ吸う\n・随所に灰皿が置いてある\n・どこでもタバコ吸う"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1341902533032173569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Language Learning",
+              "id": "852226935044194304",
+              "name": "Language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364632995655610377",
+              "name": "Chinese language learning "
+            }
+          }
+        ],
+        "conversation_id": "2083954338679103581",
+        "created_at": "2026-08-02T16:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083954338679103581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083954338679103581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国旅行3日目…\n\n・教科書より儿化が激しい\n・どこでもタバコ吸う\n・買わないって言ったら値段下がってくる\n・身振り手振りでどうにかなる\n・中国語学習のモチベーション上がる\n・どこでもタバコ吸う\n・随所に灰皿が置いてある\n・どこでもタバコ吸う"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2083538550117867677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 107,
+          "like_count": 3182,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T00:24:40.000Z",
+        "description": "中国東北旅行中\nLearning：JP・CN・EN \nVRC/語學/ACG/ボカロ/etc\n國漢文混用er",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_a3aa7fdb-58a4-406d-86b4-2a12eb35259d",
+                "start": 0,
+                "url": "https://t.co/seHZ4dt79J"
+              }
+            ]
+          }
+        },
+        "id": "1341902533032173569",
+        "location": "Gdansk",
+        "name": "しひろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074173349765472256/kxdX6QAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 131,
+          "like_count": 6639,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/seHZ4dt79J",
+        "username": "_idemu",
+        "verified": false
+      }
+    ]
+  }
+}

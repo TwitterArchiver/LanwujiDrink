@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2083794434932854839",
+    "created_at": "2026-08-02T05:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083794434932854839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1764772387600379904",
+          "start": 3,
+          "username": "BasedBiohacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083794434932854839",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083265941090247001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BasedBiohacker: this is EXACTLY what cognitive enhancement is about. \n\nchasing euphoria is for drug addicts and retards; all you want i…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2083250046863036416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkw4U2WUAAofsD.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083794434932854839",
+        "created_at": "2026-08-02T05:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083794434932854839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1764772387600379904",
+              "start": 3,
+              "username": "BasedBiohacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083794434932854839",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083265941090247001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BasedBiohacker: this is EXACTLY what cognitive enhancement is about. \n\nchasing euphoria is for drug addicts and retards; all you want i…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083250046863036416"
+          ]
+        },
+        "author_id": "1764772387600379904",
+        "conversation_id": "2083265941090247001",
+        "created_at": "2026-07-31T18:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083265941090247001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7j5L2Li5AD",
+              "end": 300,
+              "expanded_url": "https://x.com/BasedBiohacker/status/2083265941090247001/photo/1",
+              "media_key": "3_2083250046863036416",
+              "start": 277,
+              "url": "https://t.co/7j5L2Li5AD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083265941090247001",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "this is EXACTLY what cognitive enhancement is about. \n\nchasing euphoria is for drug addicts and retards; all you want is a heightened state of your normal consciousness. \n\nquicker thoughts. clearer decision-making. confidence. quiet stillness. concentration. indefatigability. \n\nit's about getting more done AND putting in more hours. quality work that you actually enjoy (it's really only then that you can create real value)\n\nNOT getting high."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 5291,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "this is EXACTLY what cognitive enhancement is about. \n\nchasing euphoria is for drug addicts and retards; all you want is a heightened state of your normal consciousness. \n\nquicker thoughts. clearer decision-making. confidence. quiet stillness. concentration. indefatigability. https://t.co/7j5L2Li5AD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2083538550117867677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 107,
+          "like_count": 3179,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1381
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T21:58:25.000Z",
+        "description": "cognitive enhancement biologist. performance maximalist. longevity strategic. focused on RESULTS. my full stacks, vendors & everything 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basedbiohacker.any.org/cognitive-enha…",
+                "end": 23,
+                "expanded_url": "https://basedbiohacker.any.org/cognitive-enhancement",
+                "start": 0,
+                "url": "https://t.co/hI1Nt0OHqr"
+              }
+            ]
+          }
+        },
+        "id": "1764772387600379904",
+        "location": "NOT MEDICAL ADVICE",
+        "name": "BasedBiohacker",
+        "pinned_tweet_id": "2033673602483294431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974545804799922176/Pcr9zQpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52338,
+          "following_count": 251,
+          "like_count": 6503,
+          "listed_count": 248,
+          "media_count": 2275,
+          "tweet_count": 9321
+        },
+        "url": "https://t.co/hI1Nt0OHqr",
+        "username": "BasedBiohacker",
+        "verified": true
+      }
+    ]
+  }
+}
