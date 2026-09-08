@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2096504262088073633",
+    "created_at": "2026-09-06T07:42:21.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096504262088073633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanwujidrink/s…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/lanwujidrink/status/2096487032793288733",
+          "start": 54,
+          "url": "https://t.co/NsXo6TRiDH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096504262088073633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096487032793288733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这下我看ta怎么接\n\n说自己有那就是承认自己和别人那传染源接触了\n\nta说ta没有就是承认自己又又又说谎了 https://t.co/NsXo6TRiDH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2096487018029305856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRg31dHa0AAUmsD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096504262088073633",
+        "created_at": "2026-09-06T07:42:21.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096504262088073633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanwujidrink/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/lanwujidrink/status/2096487032793288733",
+              "start": 54,
+              "url": "https://t.co/NsXo6TRiDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096504262088073633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096487032793288733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下我看ta怎么接\n\n说自己有那就是承认自己和别人那传染源接触了\n\nta说ta没有就是承认自己又又又说谎了 https://t.co/NsXo6TRiDH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096487018029305856"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096487032793288733",
+        "created_at": "2026-09-06T06:33:54.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096487032793288733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7t5b3t7aq",
+              "end": 38,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2096487032793288733/photo/1",
+              "media_key": "3_2096487018029305856",
+              "start": 15,
+              "url": "https://t.co/r7t5b3t7aq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096487032793288733",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096487018029305856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 691,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "介于有人谎称我有HIV：⬇️ https://t.co/r7t5b3t7aq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2096504262088073633",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 98,
+          "like_count": 3527,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

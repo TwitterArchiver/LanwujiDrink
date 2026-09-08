@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2088978178719228176",
+    "created_at": "2026-08-16T13:16:25.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088978184138285225"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088978184138285225",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088978178719228176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "消肿老番"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2088978021206343680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2KcUGaQAA-Not.jpg",
+        "width": 1745
+      },
+      {
+        "height": 1320,
+        "media_key": "3_2088978158192390144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2KkSabcAAW21u.jpg",
+        "width": 1630
+      },
+      {
+        "height": 995,
+        "media_key": "3_2088978158217527297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2KkSgbAAEd5Ra.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1320,
+        "media_key": "3_2088978158213353472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2KkSfbUAAM_ZK.jpg",
+        "width": 1718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2088978178719228176",
+        "created_at": "2026-08-16T13:16:25.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088978184138285225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088978184138285225",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088978178719228176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "消肿老番"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088978021206343680",
+            "3_2088978158192390144",
+            "3_2088978158217527297",
+            "3_2088978158213353472"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2088978178719228176",
+        "created_at": "2026-08-16T13:16:23.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088978178719228176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XnPr3N12k",
+              "end": 41,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2088978178719228176/photo/1",
+              "media_key": "3_2088978021206343680",
+              "start": 18,
+              "url": "https://t.co/2XnPr3N12k"
+            },
+            {
+              "display_url": "pic.x.com/2XnPr3N12k",
+              "end": 41,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2088978178719228176/photo/1",
+              "media_key": "3_2088978158192390144",
+              "start": 18,
+              "url": "https://t.co/2XnPr3N12k"
+            },
+            {
+              "display_url": "pic.x.com/2XnPr3N12k",
+              "end": 41,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2088978178719228176/photo/1",
+              "media_key": "3_2088978158217527297",
+              "start": 18,
+              "url": "https://t.co/2XnPr3N12k"
+            },
+            {
+              "display_url": "pic.x.com/2XnPr3N12k",
+              "end": 41,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2088978178719228176/photo/1",
+              "media_key": "3_2088978158213353472",
+              "start": 18,
+              "url": "https://t.co/2XnPr3N12k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088978178719228176",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088978021206343680"
+          },
+          {
+            "media_key": "3_2088978158192390144"
+          },
+          {
+            "media_key": "3_2088978158217527297"
+          },
+          {
+            "media_key": "3_2088978158213353472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她真的好萌啊🥰（感觉没人看过这番） https://t.co/2XnPr3N12k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "和田地区",
+        "most_recent_tweet_id": "2088978184138285225",
+        "name": "🌵無極植物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 111,
+          "like_count": 3290,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1582
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

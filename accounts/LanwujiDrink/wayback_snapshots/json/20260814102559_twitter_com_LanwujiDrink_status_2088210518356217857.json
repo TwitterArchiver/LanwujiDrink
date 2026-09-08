@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2088058737588154526",
+    "created_at": "2026-08-14T10:25:59.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088210518356217857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3210635933",
+          "start": 0,
+          "username": "krftxdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088210518356217857",
+    "in_reply_to_user_id": "3210635933",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088191368397312432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@krftxdy 4h左右"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2088058737588154526",
+        "created_at": "2026-08-14T10:25:59.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088210518356217857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3210635933",
+              "start": 0,
+              "username": "krftxdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088210518356217857",
+        "in_reply_to_user_id": "3210635933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088191368397312432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@krftxdy 4h左右"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3210635933",
+        "conversation_id": "2088058737588154526",
+        "created_at": "2026-08-14T09:09:53.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088191368397312432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088191368397312432",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088058737588154526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 药效能维持多久"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "和田地区",
+        "most_recent_tweet_id": "2088210518356217857",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 112,
+          "like_count": 3268,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1544
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-04-27T01:58:27.000Z",
+        "description": "做明光照亮世人🥰猜猜我以前是谁，或许你还记得我吗？愿大家都能被温柔以待🫧188/1888请发口令➕姓氏",
+        "id": "3210635933",
+        "is_identity_verified": false,
+        "location": "intp",
+        "most_recent_tweet_id": "2088191368397312432",
+        "name": "月崽",
+        "pinned_tweet_id": "2087703812580761754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3210635933/1785652527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083875606174089216/ODEVcsqJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 40,
+          "like_count": 4360,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 10815
+        },
+        "url": "",
+        "username": "krftxdy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

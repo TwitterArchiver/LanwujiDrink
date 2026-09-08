@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2091826097377640728",
+    "created_at": "2026-08-24T09:53:00.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T10:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091826097377640728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanwujidrink/s…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/lanwujidrink/status/2085321130232164815",
+          "start": 25,
+          "url": "https://t.co/SF0o90OSED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091826097377640728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085321130232164815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "熵减使用手册已发布，欢迎私信领取\n\n无论是否已购 https://t.co/SF0o90OSED"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_2085321121310904320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCMguZbEAAQlYM.jpg",
+        "width": 1189
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2091826097377640728",
+        "created_at": "2026-08-24T09:53:00.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091826097377640728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanwujidrink/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/lanwujidrink/status/2085321130232164815",
+              "start": 25,
+              "url": "https://t.co/SF0o90OSED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091826097377640728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085321130232164815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "熵减使用手册已发布，欢迎私信领取\n\n无论是否已购 https://t.co/SF0o90OSED"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085321121310904320"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2085321130232164815",
+        "created_at": "2026-08-06T11:04:35.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085321130232164815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCg9A38VSQ",
+              "end": 178,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2085321130232164815/photo/1",
+              "media_key": "3_2085321121310904320",
+              "start": 155,
+              "url": "https://t.co/bCg9A38VSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085321130232164815",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2085321121310904320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4597,
+          "like_count": 32,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界上有没有一种这样的睡眠药物？\n\n-无成瘾性/撤药反应\n\n-不会抑制快速眼动\n\n-增加深度睡眠质量\n\n-有抗氧化（减少ROS）、神经保护作用\n\n-无次日残留\n\n-15分钟内快速入睡\n\n-无认知损害\n\n-呼吸安全性高、可唤醒\n\n-不会鬼压床、噩梦\n\n-高度接近自然睡眠\n\n-耐受极慢\n\n-合法、非管制物质 https://t.co/bCg9A38VSQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "妖魔鬼怪皆是我，神仙菩薩一般樣",
+        "most_recent_tweet_id": "2091826097377640728",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 124,
+          "like_count": 3339,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1693
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

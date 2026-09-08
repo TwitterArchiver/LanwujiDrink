@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2088447367964230103",
+    "created_at": "2026-08-15T07:37:18.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088530456853787020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "962357887644266496",
+          "start": 0,
+          "username": "aiika23uxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088530456853787020",
+    "in_reply_to_user_id": "962357887644266496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088504737612325018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiika23uxu 还没回到你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2088447367964230103",
+        "created_at": "2026-08-15T07:37:18.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088530456853787020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "962357887644266496",
+              "start": 0,
+              "username": "aiika23uxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088530456853787020",
+        "in_reply_to_user_id": "962357887644266496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088504737612325018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiika23uxu 还没回到你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "962357887644266496",
+        "conversation_id": "2088447367964230103",
+        "created_at": "2026-08-15T05:55:06.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088504737612325018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088504737612325018",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088447367964230103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 求回复"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "和田地区",
+        "most_recent_tweet_id": "2088530456853787020",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 113,
+          "like_count": 3274,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1568
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-10T16:09:34.000Z",
+        "description": "朝は見たくないの",
+        "id": "962357887644266496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088505508722577742",
+        "name": "saviorsindrome",
+        "pinned_tweet_id": "2046607406432764236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/962357887644266496/1719305003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085222216363630592/Vfu7tgA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 259,
+          "like_count": 1790,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "aiika23uxu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

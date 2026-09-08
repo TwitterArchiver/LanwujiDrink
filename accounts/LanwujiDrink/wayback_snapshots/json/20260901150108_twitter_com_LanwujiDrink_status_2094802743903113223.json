@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2094802743903113223",
+    "created_at": "2026-09-01T15:01:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094802743903113223"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "一人一推"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1503948192055902209",
+          "start": 3,
+          "username": "aidunao1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/4zaq",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/4zaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094802743903113223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1603459777438183424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aidunao1: 叶洪文（推特名，本名叶隐） #一人一推\n左派工运支持者，六四纪念受害者，人权捍卫者。2022年6月4日晚在广东汕头广场风雨交加之际，白衣黑裤，额绑红布，点燃蜡烛，纪念8964，随后被带走秘密押至今。其推特推文尚在。 https://t.co/4zaq…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1603459769989156864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FkCiKlHVUAAyIDd.jpg",
+        "width": 358
+      },
+      {
+        "height": 320,
+        "media_key": "3_1603459773206102016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FkCiKxGUAAARG3i.jpg",
+        "width": 239
+      },
+      {
+        "height": 320,
+        "media_key": "3_1603459775638908929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FkCiK6KVsAEyB_q.jpg",
+        "width": 239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2094802743903113223",
+        "created_at": "2026-09-01T15:01:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094802743903113223"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "一人一推"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1503948192055902209",
+              "start": 3,
+              "username": "aidunao1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/4zaq",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/4zaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094802743903113223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1603459777438183424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aidunao1: 叶洪文（推特名，本名叶隐） #一人一推\n左派工运支持者，六四纪念受害者，人权捍卫者。2022年6月4日晚在广东汕头广场风雨交加之际，白衣黑裤，额绑红布，点燃蜡烛，纪念8964，随后被带走秘密押至今。其推特推文尚在。 https://t.co/4zaq…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1603459769989156864",
+            "3_1603459773206102016",
+            "3_1603459775638908929"
+          ]
+        },
+        "author_id": "1503948192055902209",
+        "conversation_id": "1603459777438183424",
+        "created_at": "2022-12-15T18:39:36.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2022-12-15T19:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1603459777438183424"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "一人一推"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "tenchu.org/pocd/public/po…",
+              "end": 131,
+              "expanded_url": "https://tenchu.org/pocd/public/pocs/2502",
+              "start": 108,
+              "url": "https://t.co/4zaqexv5ly"
+            },
+            {
+              "display_url": "pic.x.com/IWJbrCS2ct",
+              "end": 155,
+              "expanded_url": "https://x.com/aidunao1/status/1603459777438183424/photo/1",
+              "media_key": "3_1603459769989156864",
+              "start": 132,
+              "url": "https://t.co/IWJbrCS2ct"
+            },
+            {
+              "display_url": "pic.x.com/IWJbrCS2ct",
+              "end": 155,
+              "expanded_url": "https://x.com/aidunao1/status/1603459777438183424/photo/1",
+              "media_key": "3_1603459773206102016",
+              "start": 132,
+              "url": "https://t.co/IWJbrCS2ct"
+            },
+            {
+              "display_url": "pic.x.com/IWJbrCS2ct",
+              "end": 155,
+              "expanded_url": "https://x.com/aidunao1/status/1603459777438183424/photo/1",
+              "media_key": "3_1603459775638908929",
+              "start": 132,
+              "url": "https://t.co/IWJbrCS2ct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1603459777438183424",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1603459769989156864"
+          },
+          {
+            "media_key": "3_1603459773206102016"
+          },
+          {
+            "media_key": "3_1603459775638908929"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13191,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "叶洪文（推特名，本名叶隐） #一人一推\n左派工运支持者，六四纪念受害者，人权捍卫者。2022年6月4日晚在广东汕头广场风雨交加之际，白衣黑裤，额绑红布，点燃蜡烛，纪念8964，随后被带走秘密押至今。其推特推文尚在。 https://t.co/4zaqexv5ly https://t.co/IWJbrCS2ct"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。 ||||||||||||||||||||👨‍🔧重度睡眠障碍维修工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2094802754103660843",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 85,
+          "like_count": 3409,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-16T04:16:24.000Z",
+        "description": "For the Spirit God gave me does not make me timid, but gives me power, love and self-discipline.上帝赐给我的灵，不会使我胆怯，反而让我充满力量，爱心和自制。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tenchu.org/pocd/public/",
+                "end": 23,
+                "expanded_url": "https://tenchu.org/pocd/public/",
+                "start": 0,
+                "url": "https://t.co/fVTLSDS1ml"
+              }
+            ]
+          }
+        },
+        "id": "1503948192055902209",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094607156763136494",
+        "name": "Lydia",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612491523010199554/MmInjIbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 420,
+          "like_count": 229,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 6219
+        },
+        "url": "https://t.co/fVTLSDS1ml",
+        "username": "aidunao1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

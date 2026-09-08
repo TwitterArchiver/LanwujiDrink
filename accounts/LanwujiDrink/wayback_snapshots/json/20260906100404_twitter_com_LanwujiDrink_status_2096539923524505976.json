@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096539916083826688",
+        "3_2096539916071211008"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2096539863806066822",
+    "created_at": "2026-09-06T10:04:04.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096539923524505976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Fh97bqbqM",
+          "end": 62,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2096539923524505976/photo/1",
+          "media_key": "3_2096539916083826688",
+          "start": 39,
+          "url": "https://t.co/7Fh97bqbqM"
+        },
+        {
+          "display_url": "pic.x.com/7Fh97bqbqM",
+          "end": 62,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2096539923524505976/photo/1",
+          "media_key": "3_2096539916071211008",
+          "start": 39,
+          "url": "https://t.co/7Fh97bqbqM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096539923524505976",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096539916083826688"
+      },
+      {
+        "media_key": "3_2096539916071211008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096539911650435529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6后藤发现自己被当事人骗了（已多件证据证明当事人在说谎）开始发推说证据不\n足 https://t.co/7Fh97bqbqM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2096539916083826688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhn8huakAAGs0B.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2096539916071211008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhn8hraEAA92Cp.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096539916083826688",
+            "3_2096539916071211008"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096539863806066822",
+        "created_at": "2026-09-06T10:04:04.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096539923524505976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Fh97bqbqM",
+              "end": 62,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2096539923524505976/photo/1",
+              "media_key": "3_2096539916083826688",
+              "start": 39,
+              "url": "https://t.co/7Fh97bqbqM"
+            },
+            {
+              "display_url": "pic.x.com/7Fh97bqbqM",
+              "end": 62,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2096539923524505976/photo/1",
+              "media_key": "3_2096539916071211008",
+              "start": 39,
+              "url": "https://t.co/7Fh97bqbqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096539923524505976",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096539916083826688"
+          },
+          {
+            "media_key": "3_2096539916071211008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096539911650435529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6后藤发现自己被当事人骗了（已多件证据证明当事人在说谎）开始发推说证据不\n足 https://t.co/7Fh97bqbqM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096539863806066822",
+        "created_at": "2026-09-06T10:04:01.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096539911650435529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096539911650435529",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096539906961265040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5 当事人未提供任何证据 只有自述"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2096539936346526084",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 98,
+          "like_count": 3527,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1931
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

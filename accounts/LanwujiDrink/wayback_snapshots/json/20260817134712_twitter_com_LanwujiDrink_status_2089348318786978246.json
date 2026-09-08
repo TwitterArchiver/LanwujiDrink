@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2089348318786978246",
+    "created_at": "2026-08-17T13:47:12.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089348318786978246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1787677994397655040",
+          "start": 3,
+          "username": "rock_superstars"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089348318786978246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088646564386324878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rock_superstars: ^我和我对象说等我药到了我直接一个o，然后在幻觉中把我爸亡灵召唤过来听他对我们订婚宴的要求"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2089348318786978246",
+        "created_at": "2026-08-17T13:47:12.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089348318786978246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1787677994397655040",
+              "start": 3,
+              "username": "rock_superstars"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089348318786978246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088646564386324878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rock_superstars: ^我和我对象说等我药到了我直接一个o，然后在幻觉中把我爸亡灵召唤过来听他对我们订婚宴的要求"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787677994397655040",
+        "conversation_id": "2088646564386324878",
+        "created_at": "2026-08-15T15:18:40.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088646564386324878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088646564386324878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "^我和我对象说等我药到了我直接一个o，然后在幻觉中把我爸亡灵召唤过来听他对我们订婚宴的要求"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "和田地区",
+        "most_recent_tweet_id": "2089348318786978246",
+        "name": "🌵無極植物科技 葉經理",
+        "pinned_tweet_id": "2089312178692350010",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 115,
+          "like_count": 3299,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1618
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-07T02:57:14.000Z",
+        "description": "^病み垢，可以叫我“好狐”。上个号已死",
+        "id": "1787677994397655040",
+        "is_identity_verified": false,
+        "location": "^不透光的房间",
+        "most_recent_tweet_id": "2089327444847116764",
+        "name": "^どうゆう意味",
+        "pinned_tweet_id": "1939729588470624672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787677994397655040/1786895855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089023698653057025/RYeZAFwA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 103,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "rock_superstars",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

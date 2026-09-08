@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2092787977655361757",
+    "created_at": "2026-08-27T01:35:10.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T02:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092787977655361757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/careforme123/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/careforme123/status/2092487237065978288",
+          "start": 7,
+          "url": "https://t.co/Qh7AmzovNE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092787977655361757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092487237065978288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本人上辈子在 https://t.co/Qh7AmzovNE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67082,
+        "height": 360,
+        "media_key": "13_2092487205260591105",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092487205260591105/img/WSsa-2d8w6Qj3rGY.jpg",
+        "public_metrics": {
+          "view_count": 88512
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092487205260591105/vid/avc1/480x270/FkqBcF1tp_29Swi2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092487205260591105/vid/avc1/640x360/X1rubzG9dJeW-hLj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092487205260591105/pl/9VbjWEmwKgDaKkni.m3u8?v=454"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2092787977655361757",
+        "created_at": "2026-08-27T01:35:10.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T02:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092787977655361757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/careforme123/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/careforme123/status/2092487237065978288",
+              "start": 7,
+              "url": "https://t.co/Qh7AmzovNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092787977655361757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092487237065978288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人上辈子在 https://t.co/Qh7AmzovNE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092487205260591105"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2092487237065978288",
+        "created_at": "2026-08-26T05:40:08.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092487237065978288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLBQvMjxau",
+              "end": 49,
+              "expanded_url": "https://x.com/careforme123/status/2092487237065978288/video/1",
+              "media_key": "13_2092487205260591105",
+              "start": 26,
+              "url": "https://t.co/HLBQvMjxau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092487237065978288",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092487205260591105"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 114691,
+          "like_count": 814,
+          "quote_count": 4,
+          "reply_count": 142,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "六四学生给解放军分享食物，并在国际歌下与解放军交谈 https://t.co/HLBQvMjxau"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2092787977655361757",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 82,
+          "like_count": 3357,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1730
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092616138832429471",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3408,
+          "following_count": 809,
+          "like_count": 8264,
+          "listed_count": 11,
+          "media_count": 854,
+          "tweet_count": 3288
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

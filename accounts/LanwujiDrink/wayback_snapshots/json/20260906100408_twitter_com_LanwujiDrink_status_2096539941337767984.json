@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2096539863806066822",
+    "created_at": "2026-09-06T10:04:08.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096539941337767984"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096539941337767984",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096539936346526084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "8后藤把这段死亡威胁聊天记录曝光出来了，当事人把事情上升至性别矛盾\n最后这件事情 发现在五月 本以盖棺定论\n昨天晚上因为iso 坠机相关事件，\n\n昨天晚上骂我的人去找到当事人又把这件事挖了出来说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2096539928356429824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhn9PcboAAz779.jpg",
+        "width": 460
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2096539928511516672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhn9QBaEAAwvU5.jpg",
+        "width": 460
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2096539928352194560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhn9PbbAAAGuMV.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096539863806066822",
+        "created_at": "2026-09-06T10:04:08.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096539941337767984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096539941337767984",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096539936346526084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8后藤把这段死亡威胁聊天记录曝光出来了，当事人把事情上升至性别矛盾\n最后这件事情 发现在五月 本以盖棺定论\n昨天晚上因为iso 坠机相关事件，\n\n昨天晚上骂我的人去找到当事人又把这件事挖了出来说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096539928356429824",
+            "3_2096539928511516672",
+            "3_2096539928352194560"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096539863806066822",
+        "created_at": "2026-09-06T10:04:07.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096539936346526084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0MaPxsJd1",
+              "end": 48,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2096539936346526084/photo/1",
+              "media_key": "3_2096539928356429824",
+              "start": 25,
+              "url": "https://t.co/F0MaPxsJd1"
+            },
+            {
+              "display_url": "pic.x.com/F0MaPxsJd1",
+              "end": 48,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2096539936346526084/photo/1",
+              "media_key": "3_2096539928511516672",
+              "start": 25,
+              "url": "https://t.co/F0MaPxsJd1"
+            },
+            {
+              "display_url": "pic.x.com/F0MaPxsJd1",
+              "end": 48,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2096539936346526084/photo/1",
+              "media_key": "3_2096539928352194560",
+              "start": 25,
+              "url": "https://t.co/F0MaPxsJd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096539936346526084",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096539928356429824"
+          },
+          {
+            "media_key": "3_2096539928511516672"
+          },
+          {
+            "media_key": "3_2096539928352194560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096539923524505976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7当事人没得逞 开始死亡威胁后藤 还威胁\n要报警 https://t.co/F0MaPxsJd1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2096539941337767984",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 98,
+          "like_count": 3527,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

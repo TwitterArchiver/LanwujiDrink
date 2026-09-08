@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2095141352476643479",
+    "created_at": "2026-09-02T13:26:38.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095141352476643479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1811095667160535043",
+          "start": 3,
+          "username": "LensScientific"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095141352476643479",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094943764406206573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LensScientific: In 1736, Euler’s Seven Bridges of Königsberg problem showed that connectivity can matter more than geometry. It became…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2094943755912744960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRK8PxuaEAAqw7W.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2095141352476643479",
+        "created_at": "2026-09-02T13:26:38.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095141352476643479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1811095667160535043",
+              "start": 3,
+              "username": "LensScientific"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095141352476643479",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094943764406206573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LensScientific: In 1736, Euler’s Seven Bridges of Königsberg problem showed that connectivity can matter more than geometry. It became…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094943755912744960"
+          ]
+        },
+        "author_id": "1811095667160535043",
+        "conversation_id": "2094943764406206573",
+        "created_at": "2026-09-02T00:21:30.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094943764406206573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/POuzhBwV2L",
+              "end": 300,
+              "expanded_url": "https://x.com/LensScientific/status/2094943764406206573/photo/1",
+              "media_key": "3_2094943755912744960",
+              "start": 277,
+              "url": "https://t.co/POuzhBwV2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094943764406206573",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094943755912744960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "In 1736, Euler’s Seven Bridges of Königsberg problem showed that connectivity can matter more than geometry. It became a starting point for graph theory and an early step toward topology. \n\nTopology asks: what stays the same when a shape is stretched or deformed? A sphere can become an ellipsoid. A solid torus can become a solid mug. But a sphere cannot become a torus without changing its topology."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 2323,
+          "like_count": 86,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "In 1736, Euler’s Seven Bridges of Königsberg problem showed that connectivity can matter more than geometry. It became a starting point for graph theory and an early step toward topology. \n\nTopology asks: what stays the same when a shape is stretched or deformed? A sphere can https://t.co/POuzhBwV2L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。 ||||||||||||||||||||👨‍🔧重度睡眠障碍维修工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2095141352476643479",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 87,
+          "like_count": 3449,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1867
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-10T17:50:42.000Z",
+        "description": "Making physics easier to understand, from the fundamentals to the latest discoveries.",
+        "id": "1811095667160535043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095109651746693465",
+        "name": "The Scientific Lens",
+        "pinned_tweet_id": "2094569814723559463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811095667160535043/1774959282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004618943198351360/Pvz1X5-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33454,
+          "following_count": 762,
+          "like_count": 935,
+          "listed_count": 160,
+          "media_count": 1340,
+          "tweet_count": 1581
+        },
+        "url": "",
+        "username": "LensScientific",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

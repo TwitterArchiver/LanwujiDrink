@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092525513080274944"
+      ],
+      "media_source_tweet_id": [
+        "2092525579396436167"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092935730364559772",
+    "created_at": "2026-08-27T11:22:17.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092935730364559772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902712539659616256",
+          "start": 3,
+          "username": "AnimeTokki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wP2V9Ys6Df",
+          "end": 89,
+          "expanded_url": "https://x.com/AnimeTokki/status/2092525579396436167/photo/1",
+          "media_key": "3_2092525513080274944",
+          "start": 66,
+          "url": "https://t.co/wP2V9Ys6Df"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092935730364559772",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2092525513080274944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092525579396436167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnimeTokki: 'Your Name' New Official 10th Anniversary Visual. https://t.co/wP2V9Ys6Df"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092525513080274944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQok3hKXgAA1M6H.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092525513080274944"
+          ],
+          "media_source_tweet_id": [
+            "2092525579396436167"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092935730364559772",
+        "created_at": "2026-08-27T11:22:17.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092935730364559772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902712539659616256",
+              "start": 3,
+              "username": "AnimeTokki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wP2V9Ys6Df",
+              "end": 89,
+              "expanded_url": "https://x.com/AnimeTokki/status/2092525579396436167/photo/1",
+              "media_key": "3_2092525513080274944",
+              "start": 66,
+              "url": "https://t.co/wP2V9Ys6Df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092935730364559772",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092525513080274944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092525579396436167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnimeTokki: 'Your Name' New Official 10th Anniversary Visual. https://t.co/wP2V9Ys6Df"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092525513080274944"
+          ]
+        },
+        "author_id": "1902712539659616256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092525579396436167",
+        "created_at": "2026-08-26T08:12:30.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092525579396436167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wP2V9Ys6Df",
+              "end": 73,
+              "expanded_url": "https://x.com/AnimeTokki/status/2092525579396436167/photo/1",
+              "media_key": "3_2092525513080274944",
+              "start": 50,
+              "url": "https://t.co/wP2V9Ys6Df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092525579396436167",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092525513080274944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 18412,
+          "like_count": 1472,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "'Your Name' New Official 10th Anniversary Visual. https://t.co/wP2V9Ys6Df"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2092935730364559772",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 82,
+          "like_count": 3360,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T13:23:22.000Z",
+        "description": "Official Account of Anime Tokki, we deliver Anime News, discussions, Media & more, DM or email for promo business@animetokki.com\nSponsored by @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 142,
+                "username": "rainbetcom"
+              }
+            ]
+          }
+        },
+        "id": "1902712539659616256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092889356214100031",
+        "name": "Anime Tokki",
+        "pinned_tweet_id": "2091332725596725747",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902712539659616256/1781945794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073380372541292544/x6me2vzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73035,
+          "following_count": 112,
+          "like_count": 7717,
+          "listed_count": 132,
+          "media_count": 3201,
+          "tweet_count": 3462
+        },
+        "url": "",
+        "username": "AnimeTokki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2090855981819527570",
+    "created_at": "2026-08-21T17:38:06.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090855981819527570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "🌵無極植物科技 葉經理’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1qKDz…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1qKDzWmvaeEJV",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2090855982897483777/ZdyyoZPb?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2090855982897483777/ZdyyoZPb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 🌵無極植物科技 葉經理’s Space",
+          "unwound_url": "https://twitter.com/i/spaces/1qKDzWmvaeEJV/peek",
+          "url": "https://t.co/UU0ihW9X41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090855981819527570",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/UU0ihW9X41"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2090855981819527570",
+        "created_at": "2026-08-21T17:38:06.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090855981819527570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "🌵無極植物科技 葉經理’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qKDz…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qKDzWmvaeEJV",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2090855982897483777/ZdyyoZPb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2090855982897483777/ZdyyoZPb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 🌵無極植物科技 葉經理’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1qKDzWmvaeEJV/peek",
+              "url": "https://t.co/UU0ihW9X41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090855981819527570",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UU0ihW9X41"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "妖魔鬼怪皆是我，神仙菩薩一般樣",
+        "most_recent_tweet_id": "2090855981819527570",
+        "name": "🌵無極植物科技 葉經理",
+        "pinned_tweet_id": "2089312178692350010",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 120,
+          "like_count": 3328,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1666
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

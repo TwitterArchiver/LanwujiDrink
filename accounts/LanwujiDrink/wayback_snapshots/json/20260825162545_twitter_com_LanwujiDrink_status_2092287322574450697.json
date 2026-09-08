@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2092287322574450697",
+    "created_at": "2026-08-25T16:25:45.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T17:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092287322574450697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/basedbiohacker…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/basedbiohacker/status/2092173726854812037",
+          "start": 14,
+          "url": "https://t.co/2ggarct43O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092287322574450697",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092173726854812037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "100% bullshit https://t.co/2ggarct43O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2092173718944448512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjk6Z4XgAAtUDz.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2092287322574450697",
+        "created_at": "2026-08-25T16:25:45.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092287322574450697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/basedbiohacker…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/basedbiohacker/status/2092173726854812037",
+              "start": 14,
+              "url": "https://t.co/2ggarct43O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092287322574450697",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092173726854812037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "100% bullshit https://t.co/2ggarct43O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092173718944448512"
+          ]
+        },
+        "author_id": "1764772387600379904",
+        "conversation_id": "2092130661176131943",
+        "created_at": "2026-08-25T08:54:21.000Z",
+        "display_text_range": [
+          16,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092173726854812037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1276301915970830336",
+              "start": 0,
+              "username": "bronzeageshawty"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jMuFo1M4t",
+              "end": 40,
+              "expanded_url": "https://x.com/BasedBiohacker/status/2092173726854812037/photo/1",
+              "media_key": "3_2092173718944448512",
+              "start": 17,
+              "url": "https://t.co/1jMuFo1M4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092173726854812037",
+        "in_reply_to_user_id": "1276301915970830336",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092173718944448512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 631,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092130661176131943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bronzeageshawty https://t.co/1jMuFo1M4t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2092287322574450697",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 121,
+          "like_count": 3350,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1718
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-04T21:58:25.000Z",
+        "description": "cognitive enhancement biologist. performance maximalist. longevity strategic. focused on RESULTS. my full stacks, vendors & everything 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basedbiohacker.any.org/cognitive-enha…",
+                "end": 23,
+                "expanded_url": "https://basedbiohacker.any.org/cognitive-enhancement",
+                "start": 0,
+                "url": "https://t.co/hI1Nt0OHqr"
+              }
+            ]
+          }
+        },
+        "id": "1764772387600379904",
+        "is_identity_verified": false,
+        "location": "NOT MEDICAL ADVICE",
+        "most_recent_tweet_id": "2092277571903701314",
+        "name": "BasedBiohacker",
+        "pinned_tweet_id": "2033673602483294431",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764772387600379904/1764795174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974545804799922176/Pcr9zQpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54198,
+          "following_count": 260,
+          "like_count": 6821,
+          "listed_count": 254,
+          "media_count": 2470,
+          "tweet_count": 9999
+        },
+        "url": "https://t.co/hI1Nt0OHqr",
+        "username": "BasedBiohacker",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-25T23:51:13.000Z",
+        "description": "Writer Creator Bohemian in the desert. American Abundance on Patreon. Author of Desolation E-Girl, available for pre-order now. ⁀➴♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/AmericanAbunda…",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/AmericanAbundance",
+                "start": 0,
+                "url": "https://t.co/hDAg4AhuF9"
+              }
+            ]
+          }
+        },
+        "id": "1276301915970830336",
+        "is_identity_verified": false,
+        "location": "New Mexico",
+        "most_recent_tweet_id": "2092130661176131943",
+        "name": "CHLOÉ HAPPE",
+        "pinned_tweet_id": "2033577066575339819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276301915970830336/1743823050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675205288873984/_CwXzyJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39912,
+          "following_count": 849,
+          "like_count": 126288,
+          "listed_count": 182,
+          "media_count": 1985,
+          "tweet_count": 22510
+        },
+        "url": "https://t.co/hDAg4AhuF9",
+        "username": "bronzeageshawty",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

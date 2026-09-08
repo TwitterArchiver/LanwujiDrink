@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2092872500829098165",
+    "created_at": "2026-08-27T07:29:25.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092877127016415277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940360837547565056",
+          "start": 0,
+          "username": "aleabitoreddit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092877127016415277",
+    "in_reply_to_user_id": "1940360837547565056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092872500829098165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aleabitoreddit 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2092872500829098165",
+        "created_at": "2026-08-27T07:29:25.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092877127016415277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940360837547565056",
+              "start": 0,
+              "username": "aleabitoreddit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092877127016415277",
+        "in_reply_to_user_id": "1940360837547565056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092872500829098165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aleabitoreddit 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940360837547565056",
+        "conversation_id": "2092872500829098165",
+        "created_at": "2026-08-27T07:11:02.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092872500829098165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092872500829098165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 34553,
+          "like_count": 242,
+          "quote_count": 0,
+          "reply_count": 190,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我现在大部分粉丝都是讲中文的…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2092877127016415277",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 82,
+          "like_count": 3358,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2071341570792779776/x6ION4vt_bigger.jpg",
+          "description": "Serenity Research",
+          "url": "https://twitter.com/SerenityRSH",
+          "user_id": [
+            "1994731810358771712"
+          ]
+        },
+        "created_at": "2025-07-02T10:44:15.000Z",
+        "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+        "id": "1940360837547565056",
+        "is_identity_verified": false,
+        "location": "Not Investment Advice",
+        "most_recent_tweet_id": "2092874483694751975",
+        "name": "Serenity",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940360837547565056/1785536169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019995,
+          "following_count": 205,
+          "like_count": 14964,
+          "listed_count": 9079,
+          "media_count": 2108,
+          "tweet_count": 7405
+        },
+        "url": "",
+        "username": "aleabitoreddit",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

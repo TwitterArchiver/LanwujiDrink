@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2094333885589189002",
+    "created_at": "2026-08-31T07:58:03.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T08:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094333885589189002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiguang_lab/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/jiguang_lab/status/2094332661779366379",
+          "start": 16,
+          "url": "https://t.co/pQ5jTemJfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094333885589189002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094332661779366379",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“他妈谨慎使用不公开成分垃圾” https://t.co/pQ5jTemJfl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2094332644263854080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCQcZbaAAAKr1R.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094332653474627584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCQc7vbQAA8fJy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2094333885589189002",
+        "created_at": "2026-08-31T07:58:03.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094333885589189002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiguang_lab/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/jiguang_lab/status/2094332661779366379",
+              "start": 16,
+              "url": "https://t.co/pQ5jTemJfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094333885589189002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094332661779366379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“他妈谨慎使用不公开成分垃圾” https://t.co/pQ5jTemJfl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094332644263854080",
+            "3_2094332653474627584"
+          ]
+        },
+        "author_id": "2081009888818278400",
+        "conversation_id": "2094332661779366379",
+        "created_at": "2026-08-31T07:53:12.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094332661779366379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l9I6i33tgn",
+              "end": 46,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2094332661779366379/photo/1",
+              "media_key": "3_2094332644263854080",
+              "start": 23,
+              "url": "https://t.co/l9I6i33tgn"
+            },
+            {
+              "display_url": "pic.x.com/l9I6i33tgn",
+              "end": 46,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2094332661779366379/photo/1",
+              "media_key": "3_2094332653474627584",
+              "start": 23,
+              "url": "https://t.co/l9I6i33tgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094332661779366379",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094332644263854080"
+          },
+          {
+            "media_key": "3_2094332653474627584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子吃计划进去了\n他妈谨慎使用不公开成分垃圾 https://t.co/l9I6i33tgn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。 ||||||||||||||||||||👨‍🔧重度睡眠障碍维修工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2094333885589189002",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 82,
+          "like_count": 3382,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1805
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "天黑不怕，我们有化学极乐\n我们的宗旨是收容、减害（harm reduction）与负责任的使用。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp527hL"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "location": "化学极乐 人类崛起",
+        "most_recent_tweet_id": "2094332661779366379",
+        "name": "极光实验室2026",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1786757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088994363607330816/g7oDgdVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 880,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/TdRUp527hL",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

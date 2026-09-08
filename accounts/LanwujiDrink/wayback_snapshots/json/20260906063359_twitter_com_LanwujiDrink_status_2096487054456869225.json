@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096487038648541184"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2096487032793288733",
+    "created_at": "2026-09-06T06:33:59.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T07:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096487054456869225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TmEuIoenVm",
+          "end": 23,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2096487054456869225/photo/1",
+          "media_key": "3_2096487038648541184",
+          "start": 0,
+          "url": "https://t.co/TmEuIoenVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096487054456869225",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096487038648541184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096487032793288733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/TmEuIoenVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096487038648541184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRg32p7bYAAWlZn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2096487018029305856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRg31dHa0AAUmsD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096487038648541184"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096487032793288733",
+        "created_at": "2026-09-06T06:33:59.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096487054456869225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmEuIoenVm",
+              "end": 23,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2096487054456869225/photo/1",
+              "media_key": "3_2096487038648541184",
+              "start": 0,
+              "url": "https://t.co/TmEuIoenVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096487054456869225",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096487038648541184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096487032793288733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/TmEuIoenVm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096487018029305856"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096487032793288733",
+        "created_at": "2026-09-06T06:33:54.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096487032793288733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7t5b3t7aq",
+              "end": 38,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2096487032793288733/photo/1",
+              "media_key": "3_2096487018029305856",
+              "start": 15,
+              "url": "https://t.co/r7t5b3t7aq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096487032793288733",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096487018029305856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "介于有人谎称我有HIV：⬇️ https://t.co/r7t5b3t7aq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2096487054456869225",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 99,
+          "like_count": 3523,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1920
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

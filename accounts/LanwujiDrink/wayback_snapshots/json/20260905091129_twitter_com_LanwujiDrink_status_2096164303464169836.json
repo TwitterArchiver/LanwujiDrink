@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2096091196963836298",
+    "created_at": "2026-09-05T09:11:29.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096164303464169836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2086659590444433408",
+          "start": 0,
+          "username": "Mercydrugs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096164303464169836",
+    "in_reply_to_user_id": "2086659590444433408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096091196963836298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercydrugs 怎么测评 自己电自己？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096091196963836298",
+        "created_at": "2026-09-05T09:11:29.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096164303464169836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2086659590444433408",
+              "start": 0,
+              "username": "Mercydrugs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096164303464169836",
+        "in_reply_to_user_id": "2086659590444433408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096091196963836298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercydrugs 怎么测评 自己电自己？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086659590444433408",
+        "conversation_id": "2096091196963836298",
+        "created_at": "2026-09-05T04:20:59.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096091196963836298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanwujidrink/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/lanwujidrink/status/2095881586743161002",
+              "start": 10,
+              "url": "https://t.co/4PMq20VdIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096091196963836298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095881586743161002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "买了🤓☝️等我测评 https://t.co/4PMq20VdIb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2096164303464169836",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 98,
+          "like_count": 3523,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1917
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T03:43:58.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR.｜💊🔪🩸\n出PR及各种致幻剂。",
+        "id": "2086659590444433408",
+        "is_identity_verified": false,
+        "location": "💖@liyfn130024",
+        "most_recent_tweet_id": "2096125536942915707",
+        "name": "Mercy",
+        "pinned_tweet_id": "2089164623522205867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086659590444433408/1787353946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090940066206199808/fYjlzG6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 237,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "Mercydrugs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

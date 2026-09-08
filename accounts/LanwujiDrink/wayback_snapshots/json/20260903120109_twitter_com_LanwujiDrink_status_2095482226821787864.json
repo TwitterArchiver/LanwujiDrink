@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2095482226821787864",
+    "created_at": "2026-09-03T12:01:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095482226821787864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "256523056",
+          "start": 3,
+          "username": "thedankoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095482226821787864",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 934
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093326490628689943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thedankoe: Patterns I've noticed in people who aren't necessarily unhappy, but aren't going anywhere with their lives:\n\n- Never learn a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2095482226821787864",
+        "created_at": "2026-09-03T12:01:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095482226821787864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "256523056",
+              "start": 3,
+              "username": "thedankoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095482226821787864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 934
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093326490628689943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thedankoe: Patterns I've noticed in people who aren't necessarily unhappy, but aren't going anywhere with their lives:\n\n- Never learn a…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "256523056",
+        "conversation_id": "2093326490628689943",
+        "created_at": "2026-08-28T13:15:02.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093326490628689943"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093326490628689943",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Patterns I've noticed in people who aren't necessarily unhappy, but aren't going anywhere with their lives:\n\n- Never learn anything new unless they're forced to\n- Don't set goals unless their survival / finances make them insecure\n- Talk about what's happening in the world rather than what they're working on\n- Aren't aware of any of this, and making them aware doesn't hurts more than it helps\n\nHard place to be."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4811,
+          "impression_count": 608461,
+          "like_count": 9070,
+          "quote_count": 55,
+          "reply_count": 242,
+          "retweet_count": 934
+        },
+        "reply_settings": "everyone",
+        "text": "Patterns I've noticed in people who aren't necessarily unhappy, but aren't going anywhere with their lives:\n\n- Never learn anything new unless they're forced to\n- Don't set goals unless their survival / finances make them insecure\n- Talk about what's happening in the world rather"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。 ||||||||||||||||||||👨‍🔧重度睡眠障碍维修工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2095482226821787864",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 90,
+          "like_count": 3477,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1887
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2070899833360232448/umMEOrla_bigger.jpg",
+          "description": "eden",
+          "url": "https://twitter.com/edendotso",
+          "user_id": [
+            "1401191091265622018"
+          ]
+        },
+        "created_at": "2011-02-23T14:25:39.000Z",
+        "description": "the content brain for creators and agents: @edendotso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "edendotso"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "letters.thedankoe.com",
+                "end": 23,
+                "expanded_url": "https://letters.thedankoe.com",
+                "start": 0,
+                "url": "https://t.co/0lZiiyysKA"
+              }
+            ]
+          }
+        },
+        "id": "256523056",
+        "is_identity_verified": true,
+        "location": "the goods:",
+        "most_recent_tweet_id": "2094438593062216027",
+        "name": "DAN KOE",
+        "pinned_tweet_id": "2010751592346030461",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/256523056/1711767394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845856303174037504/Q7ZZqVFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994408,
+          "following_count": 961,
+          "like_count": 82353,
+          "listed_count": 7367,
+          "media_count": 1288,
+          "tweet_count": 30335
+        },
+        "url": "https://t.co/0lZiiyysKA",
+        "username": "thedankoe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

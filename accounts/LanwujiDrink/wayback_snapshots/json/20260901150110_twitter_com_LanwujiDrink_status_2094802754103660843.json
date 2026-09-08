@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2094802754103660843",
+    "created_at": "2026-09-01T15:01:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094802754103660843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1515014571542872067",
+          "start": 3,
+          "username": "xyczgmyx1"
+        },
+        {
+          "end": 32,
+          "id": "1098027691259846656",
+          "start": 23,
+          "username": "49Addict"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094802754103660843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1538388679936573440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xyczgmyx1: 这是一条关于叶隐@49addict现状的长推：感谢大家长久的关心，首先通知大家，到目前为止通过亲友的接触，我们知道他生命暂时安全。他本人在配合警察的监视候审状态，也许不被起诉平安释放，也许因寻衅滋事或危害国家安全相关被起诉，由于信息为零调查止步于此…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2094802754103660843",
+        "created_at": "2026-09-01T15:01:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094802754103660843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1515014571542872067",
+              "start": 3,
+              "username": "xyczgmyx1"
+            },
+            {
+              "end": 32,
+              "id": "1098027691259846656",
+              "start": 23,
+              "username": "49Addict"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094802754103660843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1538388679936573440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xyczgmyx1: 这是一条关于叶隐@49addict现状的长推：感谢大家长久的关心，首先通知大家，到目前为止通过亲友的接触，我们知道他生命暂时安全。他本人在配合警察的监视候审状态，也许不被起诉平安释放，也许因寻衅滋事或危害国家安全相关被起诉，由于信息为零调查止步于此…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515014571542872067",
+        "conversation_id": "1538388679936573440",
+        "created_at": "2022-06-19T05:10:17.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2022-06-19T05:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1538388679936573440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1098027691259846656",
+              "start": 8,
+              "username": "49addict"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1538388679936573440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 0,
+          "like_count": 405,
+          "quote_count": 13,
+          "reply_count": 27,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条关于叶隐@49addict现状的长推：感谢大家长久的关心，首先通知大家，到目前为止通过亲友的接触，我们知道他生命暂时安全。他本人在配合警察的监视候审状态，也许不被起诉平安释放，也许因寻衅滋事或危害国家安全相关被起诉，由于信息为零调查止步于此，后续没有相关方案和措施，只能耐心等待。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。 ||||||||||||||||||||👨‍🔧重度睡眠障碍维修工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2094802754103660843",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 85,
+          "like_count": 3409,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-15T17:10:15.000Z",
+        "description": "日本学习中/古典自由主义（Classical liberalism）+社会自由主义（Social liberalism）/支持女权与性少数群体/不接推广/邮箱twixyczgmyx1@proton.me",
+        "id": "1515014571542872067",
+        "is_identity_verified": false,
+        "location": "Chiyoda-ku, Tokyo",
+        "most_recent_tweet_id": "1607551567716311042",
+        "name": "润友们归来🏃看习中国正在土崩瓦解🌊大流浪反贼们出头之日已经到来🎌",
+        "pinned_tweet_id": "1597229908300038144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515014571542872067/1669666037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606605969131466752/6xsI0vMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52923,
+          "following_count": 2864,
+          "like_count": 29161,
+          "listed_count": 262,
+          "media_count": 993,
+          "tweet_count": 8526
+        },
+        "url": "",
+        "username": "xyczgmyx1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-20T01:12:56.000Z",
+        "description": "中国大陸政治犯 異議人士 數十次被捕 曾在中國大陸公開紀念六四事件、參加過重慶大渡口工人運動｜X第二大促智商 無極 的经理｜该账号仅代表个人观点与 無極 团队无关｜抗衰生物黑客｜☯️道教徒（正一）｜提供医药中间体 试剂代采/合成｜AKA 葉經理/葉隱/葉洪文｜反者道之動 弱者道之用",
+        "id": "1098027691259846656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2046248874335940909",
+        "name": "☯️玄阳🧬",
+        "pinned_tweet_id": "1990525522384990442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098027691259846656/1762990611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988728045633695748/JPFgKO6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 8,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "49Addict",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

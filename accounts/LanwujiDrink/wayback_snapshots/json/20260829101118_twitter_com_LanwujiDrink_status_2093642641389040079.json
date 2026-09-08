@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093642623538044928",
+        "3_2093642623546445824",
+        "3_2093642623567495168",
+        "13_2093641659221434368"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2093642641389040079",
+    "created_at": "2026-08-29T10:11:18.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T11:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093642641389040079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gHbIMpmA2j",
+          "end": 39,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2093642641389040079/video/1",
+          "media_key": "3_2093642623538044928",
+          "start": 16,
+          "url": "https://t.co/gHbIMpmA2j"
+        },
+        {
+          "display_url": "pic.x.com/gHbIMpmA2j",
+          "end": 39,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2093642641389040079/video/1",
+          "media_key": "3_2093642623546445824",
+          "start": 16,
+          "url": "https://t.co/gHbIMpmA2j"
+        },
+        {
+          "display_url": "pic.x.com/gHbIMpmA2j",
+          "end": 39,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2093642641389040079/video/1",
+          "media_key": "3_2093642623567495168",
+          "start": 16,
+          "url": "https://t.co/gHbIMpmA2j"
+        },
+        {
+          "display_url": "pic.x.com/gHbIMpmA2j",
+          "end": 39,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2093642641389040079/video/1",
+          "media_key": "13_2093641659221434368",
+          "start": 16,
+          "url": "https://t.co/gHbIMpmA2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093642641389040079",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093642623538044928"
+      },
+      {
+        "media_key": "3_2093642623546445824"
+      },
+      {
+        "media_key": "3_2093642623567495168"
+      },
+      {
+        "media_key": "13_2093641659221434368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "糟糕的德州烤肉 盐的比例放错了 https://t.co/gHbIMpmA2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093642623538044928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4c356aIAAaqcb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093642623546445824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4c358aUAA8SBg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1606,
+        "media_key": "3_2093642623567495168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4c36BbgAAN6kq.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 2516,
+        "height": 1280,
+        "media_key": "13_2093641659221434368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093641659221434368/img/qhbY9v1vhTHEj61b.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093641659221434368/vid/avc1/320x568/7sJTDnyhoMXTtg5m.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093641659221434368/vid/avc1/480x852/eH2bD5F9e_m6un5b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093641659221434368/vid/avc1/720x1280/zX1W3931W1MXFVub.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093641659221434368/pl/WGW175XQlJCVdKzo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093642623538044928",
+            "3_2093642623546445824",
+            "3_2093642623567495168",
+            "13_2093641659221434368"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093642641389040079",
+        "created_at": "2026-08-29T10:11:18.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T11:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093642641389040079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHbIMpmA2j",
+              "end": 39,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2093642641389040079/video/1",
+              "media_key": "3_2093642623538044928",
+              "start": 16,
+              "url": "https://t.co/gHbIMpmA2j"
+            },
+            {
+              "display_url": "pic.x.com/gHbIMpmA2j",
+              "end": 39,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2093642641389040079/video/1",
+              "media_key": "3_2093642623546445824",
+              "start": 16,
+              "url": "https://t.co/gHbIMpmA2j"
+            },
+            {
+              "display_url": "pic.x.com/gHbIMpmA2j",
+              "end": 39,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2093642641389040079/video/1",
+              "media_key": "3_2093642623567495168",
+              "start": 16,
+              "url": "https://t.co/gHbIMpmA2j"
+            },
+            {
+              "display_url": "pic.x.com/gHbIMpmA2j",
+              "end": 39,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2093642641389040079/video/1",
+              "media_key": "13_2093641659221434368",
+              "start": 16,
+              "url": "https://t.co/gHbIMpmA2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093642641389040079",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093642623538044928"
+          },
+          {
+            "media_key": "3_2093642623546445824"
+          },
+          {
+            "media_key": "3_2093642623567495168"
+          },
+          {
+            "media_key": "13_2093641659221434368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "糟糕的德州烤肉 盐的比例放错了 https://t.co/gHbIMpmA2j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。 ||||||||||||||||||||👨‍🔧重度睡眠障碍维修工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2093642641389040079",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 84,
+          "like_count": 3374,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1784
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

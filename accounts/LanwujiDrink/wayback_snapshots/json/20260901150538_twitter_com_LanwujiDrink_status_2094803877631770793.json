@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2094803877631770793",
+    "created_at": "2026-09-01T15:05:38.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094803877631770793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wuming01606258…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/wuming01606258/status/1534573025290379264",
+          "start": 18,
+          "url": "https://t.co/OHXajsdBrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094803877631770793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1534573025290379264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯…我现在活的很好 谢谢你们😭🏳️ https://t.co/OHXajsdBrM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2094803877631770793",
+        "created_at": "2026-09-01T15:05:38.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094803877631770793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuming01606258…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/wuming01606258/status/1534573025290379264",
+              "start": 18,
+              "url": "https://t.co/OHXajsdBrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094803877631770793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1534573025290379264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯…我现在活的很好 谢谢你们😭🏳️ https://t.co/OHXajsdBrM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1181021179655548928",
+        "conversation_id": "1534364657146036224",
+        "created_at": "2022-06-08T16:28:14.000Z",
+        "display_text_range": [
+          21,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2022-06-08T16:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1534573025290379264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1515014571542872067",
+              "start": 0,
+              "username": "xyczgmyx1"
+            },
+            {
+              "end": 20,
+              "id": "1098027691259846656",
+              "start": 11,
+              "username": "49Addict"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1534573025290379264",
+        "in_reply_to_user_id": "1515014571542872067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1534364657146036224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyczgmyx1 @49addict 叶隐小同学请你撑住，务必活着回来！\n哪怕你暂时的妥协忍让都没有关系，你做的已经够多够好，中国所有有良知的人都会感谢你！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。 ||||||||||||||||||||👨‍🔧重度睡眠障碍维修工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2094803877631770793",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 86,
+          "like_count": 3409,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1852
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-07T01:39:39.000Z",
+        "description": "这场一夜放开和诡异光速传播中有个最可能的解释。\n习近平12月7日访问沙特与其他领导人见面没戴口罩，被传染后回来几天便痊愈，让他对自己身体很放心，他的医疗也是最好的。\n在三年清零中全国人民免疫防线已变得很脆弱，但为了让年龄更大的政敌染疫而死，他还是选择不惜百万人的生命做代价，一夜放开。",
+        "id": "1181021179655548928",
+        "is_identity_verified": false,
+        "location": "加州",
+        "most_recent_tweet_id": "1658874111928717312",
+        "name": "正本清源（不私聊谢谢！）",
+        "pinned_tweet_id": "1475934648198840324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1181021179655548928/1636686649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458995555409883139/cxFhoYaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5579,
+          "following_count": 418,
+          "like_count": 5055,
+          "listed_count": 14,
+          "media_count": 111,
+          "tweet_count": 3323
+        },
+        "url": "",
+        "username": "wuming01606258",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-15T17:10:15.000Z",
+        "description": "日本学习中/古典自由主义（Classical liberalism）+社会自由主义（Social liberalism）/支持女权与性少数群体/不接推广/邮箱twixyczgmyx1@proton.me",
+        "id": "1515014571542872067",
+        "is_identity_verified": false,
+        "location": "Chiyoda-ku, Tokyo",
+        "most_recent_tweet_id": "1607551567716311042",
+        "name": "润友们归来🏃看习中国正在土崩瓦解🌊大流浪反贼们出头之日已经到来🎌",
+        "pinned_tweet_id": "1597229908300038144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515014571542872067/1669666037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606605969131466752/6xsI0vMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52924,
+          "following_count": 2864,
+          "like_count": 29161,
+          "listed_count": 262,
+          "media_count": 993,
+          "tweet_count": 8526
+        },
+        "url": "",
+        "username": "xyczgmyx1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

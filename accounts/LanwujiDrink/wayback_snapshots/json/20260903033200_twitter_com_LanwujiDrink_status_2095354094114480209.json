@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095053180338053120"
+      ],
+      "media_source_tweet_id": [
+        "2095053500300640476"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095354094114480209",
+    "created_at": "2026-09-03T03:32:00.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095354094114480209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "948645240121974784",
+          "start": 3,
+          "username": "Lispy_Dipshit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7uiGQvmiSo",
+          "end": 105,
+          "expanded_url": "https://x.com/Lispy_Dipshit/status/2095053500300640476/video/1",
+          "media_key": "13_2095053180338053120",
+          "start": 82,
+          "url": "https://t.co/7uiGQvmiSo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095354094114480209",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2095053180338053120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 448
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095053500300640476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lispy_Dipshit: crying at this shit for the past 3 days whenever i remember it https://t.co/7uiGQvmiSo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 158330,
+        "height": 1920,
+        "media_key": "13_2095053180338053120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095053180338053120/img/d6zOC2UsaF7mXqLb.jpg",
+        "public_metrics": {
+          "view_count": 128310
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095053180338053120/vid/avc1/320x568/v084uWjTTwwf34au.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095053180338053120/vid/avc1/1080x1920/n1g_mg3bWFlUQ5lY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095053180338053120/pl/y2oIMj8A0hOta1Ul.m3u8?v=12b"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095053180338053120/vid/avc1/480x852/uFcEjlkNN2MZgHpe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095053180338053120/vid/avc1/720x1280/1wdF8trjf3ZGoagE.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095053180338053120"
+          ],
+          "media_source_tweet_id": [
+            "2095053500300640476"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095354094114480209",
+        "created_at": "2026-09-03T03:32:00.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095354094114480209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "948645240121974784",
+              "start": 3,
+              "username": "Lispy_Dipshit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uiGQvmiSo",
+              "end": 105,
+              "expanded_url": "https://x.com/Lispy_Dipshit/status/2095053500300640476/video/1",
+              "media_key": "13_2095053180338053120",
+              "start": 82,
+              "url": "https://t.co/7uiGQvmiSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095354094114480209",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095053180338053120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095053500300640476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lispy_Dipshit: crying at this shit for the past 3 days whenever i remember it https://t.co/7uiGQvmiSo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095053180338053120"
+          ]
+        },
+        "author_id": "948645240121974784",
+        "conversation_id": "2095053500300640476",
+        "created_at": "2026-09-02T07:37:33.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095053500300640476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uiGQvmiSo",
+              "end": 86,
+              "expanded_url": "https://x.com/Lispy_Dipshit/status/2095053500300640476/video/1",
+              "media_key": "13_2095053180338053120",
+              "start": 63,
+              "url": "https://t.co/7uiGQvmiSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095053500300640476",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095053180338053120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2158,
+          "impression_count": 222140,
+          "like_count": 6836,
+          "quote_count": 43,
+          "reply_count": 50,
+          "retweet_count": 448
+        },
+        "reply_settings": "everyone",
+        "text": "crying at this shit for the past 3 days whenever i remember it https://t.co/7uiGQvmiSo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。 ||||||||||||||||||||👨‍🔧重度睡眠障碍维修工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2095354094114480209",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 87,
+          "like_count": 3463,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1876
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-03T20:00:25.000Z",
+        "description": "24 / 6' 180lbs / any/all / custom training programs / personal training / dm for info!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lispydipshit",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lispydipshit",
+                "start": 0,
+                "url": "https://t.co/Sq8lZzeLxZ"
+              }
+            ]
+          }
+        },
+        "id": "948645240121974784",
+        "is_identity_verified": false,
+        "location": "Las Vegas, NV",
+        "most_recent_tweet_id": "2095345228731539930",
+        "name": "tristan",
+        "pinned_tweet_id": "2083429212397121973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/948645240121974784/1767227354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076026573569011712/rxZLPRCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20714,
+          "following_count": 1290,
+          "like_count": 64889,
+          "listed_count": 47,
+          "media_count": 1428,
+          "tweet_count": 16075
+        },
+        "url": "https://t.co/Sq8lZzeLxZ",
+        "username": "Lispy_Dipshit",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2090066894363693272",
+    "created_at": "2026-08-20T04:32:01.000Z",
+    "display_text_range": [
+      13,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T05:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090295768263664016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812056324567691264",
+          "start": 0,
+          "username": "Noce_I_Aeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090295768263664016",
+    "in_reply_to_user_id": "1812056324567691264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090289530062721474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noce_I_Aeon 这个事情我知道，那个发“触摸油门”事件视频的博主是一个有炸街非法改装的张雪黑子，是一名车商，根本就是不是所谓的“消费者”或者说张雪用户，其原因是他把一个在油门下的螺丝故意拧松造成的\n\n之前张雪售后团队一直请求上门维修检测 他也没有答应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2090066894363693272",
+        "created_at": "2026-08-20T04:32:01.000Z",
+        "display_text_range": [
+          13,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090295768263664016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812056324567691264",
+              "start": 0,
+              "username": "Noce_I_Aeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090295768263664016",
+        "in_reply_to_user_id": "1812056324567691264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090289530062721474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noce_I_Aeon 这个事情我知道，那个发“触摸油门”事件视频的博主是一个有炸街非法改装的张雪黑子，是一名车商，根本就是不是所谓的“消费者”或者说张雪用户，其原因是他把一个在油门下的螺丝故意拧松造成的\n\n之前张雪售后团队一直请求上门维修检测 他也没有答应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812056324567691264",
+        "conversation_id": "2090066894363693272",
+        "created_at": "2026-08-20T04:07:14.000Z",
+        "display_text_range": [
+          14,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090289530062721474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/feiyoufei8964/…",
+              "end": 58,
+              "expanded_url": "https://x.com/feiyoufei8964/status/2089979183892185463/video/1?s=61",
+              "start": 35,
+              "url": "https://t.co/FNU3E2iVmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090289530062721474",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090066894363693272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 不建议买国货。。尤其是党媒屡次强调过的。 https://t.co/FNU3E2iVmI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "妖魔鬼怪皆是我，神仙菩薩一般樣",
+        "most_recent_tweet_id": "2090295768263664016",
+        "name": "🌵無極植物科技 葉經理",
+        "pinned_tweet_id": "2089312178692350010",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 117,
+          "like_count": 3321,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1638
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-13T09:27:57.000Z",
+        "description": "Ours persons for this；son of The Gnosis.   余位格于斯，诺西斯之子。",
+        "id": "1812056324567691264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090289530062721474",
+        "name": "王靖尧 🪬",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812056324567691264/1740656039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885622959714525184/AzMFs1mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 736,
+          "like_count": 66023,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 3730
+        },
+        "url": "",
+        "username": "Noce_I_Aeon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

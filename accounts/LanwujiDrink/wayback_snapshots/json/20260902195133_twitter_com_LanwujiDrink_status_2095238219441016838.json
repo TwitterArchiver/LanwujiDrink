@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095126193926529026"
+      ],
+      "media_source_tweet_id": [
+        "2095126203774710232"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2095238219441016838",
+    "created_at": "2026-09-02T19:51:33.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T20:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095238219441016838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819228126389714944",
+          "start": 3,
+          "username": "Hoostethics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/17wyMVyJYn",
+          "end": 69,
+          "expanded_url": "https://x.com/Hoostethics/status/2095126203774710232/photo/1",
+          "media_key": "3_2095126193926529026",
+          "start": 46,
+          "url": "https://t.co/17wyMVyJYn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095238219441016838",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2095126193926529026"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 213
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095126203774710232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hoostethics: ranking cognitive enhancers. https://t.co/17wyMVyJYn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2095126193926529026",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNiLESbYAI1VFv.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095126193926529026"
+          ],
+          "media_source_tweet_id": [
+            "2095126203774710232"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2095238219441016838",
+        "created_at": "2026-09-02T19:51:33.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095238219441016838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819228126389714944",
+              "start": 3,
+              "username": "Hoostethics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/17wyMVyJYn",
+              "end": 69,
+              "expanded_url": "https://x.com/Hoostethics/status/2095126203774710232/photo/1",
+              "media_key": "3_2095126193926529026",
+              "start": 46,
+              "url": "https://t.co/17wyMVyJYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095238219441016838",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095126193926529026"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095126203774710232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hoostethics: ranking cognitive enhancers. https://t.co/17wyMVyJYn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095126193926529026"
+          ]
+        },
+        "author_id": "1819228126389714944",
+        "conversation_id": "2095126203774710232",
+        "created_at": "2026-09-02T12:26:27.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095126203774710232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17wyMVyJYn",
+              "end": 52,
+              "expanded_url": "https://x.com/Hoostethics/status/2095126203774710232/photo/1",
+              "media_key": "3_2095126193926529026",
+              "start": 29,
+              "url": "https://t.co/17wyMVyJYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095126203774710232",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095126193926529026"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6445,
+          "impression_count": 998682,
+          "like_count": 5470,
+          "quote_count": 92,
+          "reply_count": 227,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "ranking cognitive enhancers. https://t.co/17wyMVyJYn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。 ||||||||||||||||||||👨‍🔧重度睡眠障碍维修工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2095238219441016838",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 87,
+          "like_count": 3460,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T04:26:49.000Z",
+        "description": "the philosophical frankenstein of human optimisation protocols • physiology • aesthetics • cognition • longevity\nDM to work 1-1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoostethics.com",
+                "end": 23,
+                "expanded_url": "https://hoostethics.com",
+                "start": 0,
+                "url": "https://t.co/UpjphtSYuA"
+              }
+            ]
+          }
+        },
+        "id": "1819228126389714944",
+        "is_identity_verified": false,
+        "location": "neverland",
+        "most_recent_tweet_id": "2095177710645723512",
+        "name": "Hoo",
+        "pinned_tweet_id": "2080578936233132254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819228126389714944/1784880575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049325668916441089/kXw1INvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3929,
+          "following_count": 77,
+          "like_count": 1869,
+          "listed_count": 16,
+          "media_count": 658,
+          "tweet_count": 1646
+        },
+        "url": "https://t.co/UpjphtSYuA",
+        "username": "Hoostethics",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

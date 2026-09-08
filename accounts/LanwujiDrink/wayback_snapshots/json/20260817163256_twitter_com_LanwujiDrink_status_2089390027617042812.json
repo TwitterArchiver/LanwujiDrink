@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089385565879967745",
+        "3_2089385583567380480"
+      ],
+      "media_source_tweet_id": [
+        "2089385597668589771",
+        "2089385597668589771"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2089390027617042812",
+    "created_at": "2026-08-17T16:32:56.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089390027617042812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1156995783192797185",
+          "start": 3,
+          "username": "haidar_faruqi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/abqPPxOaIC",
+          "end": 107,
+          "expanded_url": "https://x.com/haidar_faruqi/status/2089385597668589771/photo/1",
+          "media_key": "3_2089385565879967745",
+          "start": 84,
+          "url": "https://t.co/abqPPxOaIC"
+        },
+        {
+          "display_url": "pic.x.com/abqPPxOaIC",
+          "end": 107,
+          "expanded_url": "https://x.com/haidar_faruqi/status/2089385597668589771/photo/1",
+          "media_key": "3_2089385583567380480",
+          "start": 84,
+          "url": "https://t.co/abqPPxOaIC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089390027617042812",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089385565879967745"
+      },
+      {
+        "media_key": "3_2089385583567380480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089385597668589771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haidar_faruqi: 你药物百科wiki主沐雨是视觉系，地雷系，长发男娘，传奇药师，药圈英雄，4i皇帝，udg听众，还有谁不知道?\n雨玄二年!\n复活！ https://t.co/abqPPxOaIC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2089385565879967745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP79GiUaoAE89i1.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2089385583567380480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP79HkNbIAARPKU.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089385565879967745",
+            "3_2089385583567380480"
+          ],
+          "media_source_tweet_id": [
+            "2089385597668589771",
+            "2089385597668589771"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2089390027617042812",
+        "created_at": "2026-08-17T16:32:56.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089390027617042812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1156995783192797185",
+              "start": 3,
+              "username": "haidar_faruqi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abqPPxOaIC",
+              "end": 107,
+              "expanded_url": "https://x.com/haidar_faruqi/status/2089385597668589771/photo/1",
+              "media_key": "3_2089385565879967745",
+              "start": 84,
+              "url": "https://t.co/abqPPxOaIC"
+            },
+            {
+              "display_url": "pic.x.com/abqPPxOaIC",
+              "end": 107,
+              "expanded_url": "https://x.com/haidar_faruqi/status/2089385597668589771/photo/1",
+              "media_key": "3_2089385583567380480",
+              "start": 84,
+              "url": "https://t.co/abqPPxOaIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089390027617042812",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089385565879967745"
+          },
+          {
+            "media_key": "3_2089385583567380480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089385597668589771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haidar_faruqi: 你药物百科wiki主沐雨是视觉系，地雷系，长发男娘，传奇药师，药圈英雄，4i皇帝，udg听众，还有谁不知道?\n雨玄二年!\n复活！ https://t.co/abqPPxOaIC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089385565879967745",
+            "3_2089385583567380480"
+          ]
+        },
+        "author_id": "1156995783192797185",
+        "conversation_id": "2089385597668589771",
+        "created_at": "2026-08-17T16:15:20.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089385597668589771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abqPPxOaIC",
+              "end": 88,
+              "expanded_url": "https://x.com/haidar_faruqi/status/2089385597668589771/photo/1",
+              "media_key": "3_2089385565879967745",
+              "start": 65,
+              "url": "https://t.co/abqPPxOaIC"
+            },
+            {
+              "display_url": "pic.x.com/abqPPxOaIC",
+              "end": 88,
+              "expanded_url": "https://x.com/haidar_faruqi/status/2089385597668589771/photo/1",
+              "media_key": "3_2089385583567380480",
+              "start": 65,
+              "url": "https://t.co/abqPPxOaIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089385597668589771",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089385565879967745"
+          },
+          {
+            "media_key": "3_2089385583567380480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你药物百科wiki主沐雨是视觉系，地雷系，长发男娘，传奇药师，药圈英雄，4i皇帝，udg听众，还有谁不知道?\n雨玄二年!\n复活！ https://t.co/abqPPxOaIC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "妖魔鬼怪皆是我，神仙菩薩一般樣",
+        "most_recent_tweet_id": "2089390027617042812",
+        "name": "🌵無極植物科技 葉經理",
+        "pinned_tweet_id": "2089312178692350010",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 117,
+          "like_count": 3300,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1624
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-01T18:31:05.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘INFP|提问箱:https://t.co/CSC72A8dFF|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy！年号雨玄二年我从地狱杀回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 61,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 38,
+                "url": "https://t.co/CSC72A8dFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/dUOaFI0Nkg"
+              }
+            ]
+          }
+        },
+        "id": "1156995783192797185",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2089389714134761739",
+        "name": "沐雨",
+        "pinned_tweet_id": "2089385597668589771",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1156995783192797185/1786981866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089379499209355264/O-VSHgY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 1,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/dUOaFI0Nkg",
+        "username": "haidar_faruqi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

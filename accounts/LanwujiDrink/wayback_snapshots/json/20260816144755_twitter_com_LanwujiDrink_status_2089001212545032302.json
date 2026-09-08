@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2088989292815352164",
+    "created_at": "2026-08-16T14:47:55.000Z",
+    "display_text_range": [
+      7,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089001212545032302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1429729856389005314",
+          "start": 0,
+          "username": "CCWK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089001212545032302",
+    "in_reply_to_user_id": "1429729856389005314",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089000690412871797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCWK9 😈😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2088989292815352164",
+        "created_at": "2026-08-16T14:47:55.000Z",
+        "display_text_range": [
+          7,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089001212545032302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1429729856389005314",
+              "start": 0,
+              "username": "CCWK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089001212545032302",
+        "in_reply_to_user_id": "1429729856389005314",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089000690412871797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCWK9 😈😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429729856389005314",
+        "conversation_id": "2088989292815352164",
+        "created_at": "2026-08-16T14:45:51.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089000690412871797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089000690412871797",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088989292815352164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 那我有品极了😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "和田地区",
+        "most_recent_tweet_id": "2089001212545032302",
+        "name": "🌵無極植物科技 葉經理",
+        "pinned_tweet_id": "2088989292815352164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 111,
+          "like_count": 3292,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1588
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-23T08:59:26.000Z",
+        "description": "oops",
+        "id": "1429729856389005314",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089000690412871797",
+        "name": "CCWK",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022659158051586048/kx8JavRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 406,
+          "like_count": 2930,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "CCWK9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

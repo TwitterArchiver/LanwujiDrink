@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2096539863806066822",
+    "created_at": "2026-09-06T10:04:01.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096539911650435529"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096539911650435529",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096539906961265040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "5 当事人未提供任何证据 只有自述"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2096539890746064896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhn7DVbAAAkqjU.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2096539890729271296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhn7DRawAAPnkP.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096539863806066822",
+        "created_at": "2026-09-06T10:04:01.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096539911650435529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096539911650435529",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096539906961265040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5 当事人未提供任何证据 只有自述"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096539890746064896",
+            "3_2096539890729271296"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096539863806066822",
+        "created_at": "2026-09-06T10:04:00.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096539906961265040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7tmLP2Lnr",
+              "end": 52,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2096539906961265040/photo/1",
+              "media_key": "3_2096539890746064896",
+              "start": 29,
+              "url": "https://t.co/l7tmLP2Lnr"
+            },
+            {
+              "display_url": "pic.x.com/l7tmLP2Lnr",
+              "end": 52,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2096539906961265040/photo/1",
+              "media_key": "3_2096539890729271296",
+              "start": 29,
+              "url": "https://t.co/l7tmLP2Lnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096539906961265040",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096539890746064896"
+          },
+          {
+            "media_key": "3_2096539890729271296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096539884563681286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4后藤发现不对劲 ，验证了当事人在说谎，向当事人索要证据 https://t.co/l7tmLP2Lnr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2096539923524505976",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 98,
+          "like_count": 3527,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1930
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

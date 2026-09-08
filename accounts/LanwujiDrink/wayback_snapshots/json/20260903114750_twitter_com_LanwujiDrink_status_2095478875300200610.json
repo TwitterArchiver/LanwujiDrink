@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095477123570118657",
+        "3_2095477143426015232"
+      ],
+      "media_source_tweet_id": [
+        "2095477155706941691",
+        "2095477155706941691"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095478875300200610",
+    "created_at": "2026-09-03T11:47:50.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T12:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095478875300200610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1646414819032186881",
+          "start": 3,
+          "username": "Dreariness45203"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NUCOBmBxkR",
+          "end": 48,
+          "expanded_url": "https://x.com/Dreariness45203/status/2095477155706941691/photo/1",
+          "media_key": "3_2095477123570118657",
+          "start": 25,
+          "url": "https://t.co/NUCOBmBxkR"
+        },
+        {
+          "display_url": "pic.x.com/NUCOBmBxkR",
+          "end": 48,
+          "expanded_url": "https://x.com/Dreariness45203/status/2095477155706941691/photo/1",
+          "media_key": "3_2095477143426015232",
+          "start": 25,
+          "url": "https://t.co/NUCOBmBxkR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095478875300200610",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095477123570118657"
+      },
+      {
+        "media_key": "3_2095477143426015232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095477155706941691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dreariness45203: 好东西 https://t.co/NUCOBmBxkR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4048,
+        "media_key": "3_2095477123570118657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRShV3FasAE82G4.jpg",
+        "width": 2768
+      },
+      {
+        "height": 4048,
+        "media_key": "3_2095477143426015232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRShXBDboAAd2XA.jpg",
+        "width": 2768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095477123570118657",
+            "3_2095477143426015232"
+          ],
+          "media_source_tweet_id": [
+            "2095477155706941691",
+            "2095477155706941691"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095478875300200610",
+        "created_at": "2026-09-03T11:47:50.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095478875300200610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1646414819032186881",
+              "start": 3,
+              "username": "Dreariness45203"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUCOBmBxkR",
+              "end": 48,
+              "expanded_url": "https://x.com/Dreariness45203/status/2095477155706941691/photo/1",
+              "media_key": "3_2095477123570118657",
+              "start": 25,
+              "url": "https://t.co/NUCOBmBxkR"
+            },
+            {
+              "display_url": "pic.x.com/NUCOBmBxkR",
+              "end": 48,
+              "expanded_url": "https://x.com/Dreariness45203/status/2095477155706941691/photo/1",
+              "media_key": "3_2095477143426015232",
+              "start": 25,
+              "url": "https://t.co/NUCOBmBxkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095478875300200610",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095477123570118657"
+          },
+          {
+            "media_key": "3_2095477143426015232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095477155706941691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dreariness45203: 好东西 https://t.co/NUCOBmBxkR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095477123570118657",
+            "3_2095477143426015232"
+          ]
+        },
+        "author_id": "1646414819032186881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095477155706941691",
+        "created_at": "2026-09-03T11:41:00.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095477155706941691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUCOBmBxkR",
+              "end": 27,
+              "expanded_url": "https://x.com/Dreariness45203/status/2095477155706941691/photo/1",
+              "media_key": "3_2095477123570118657",
+              "start": 4,
+              "url": "https://t.co/NUCOBmBxkR"
+            },
+            {
+              "display_url": "pic.x.com/NUCOBmBxkR",
+              "end": 27,
+              "expanded_url": "https://x.com/Dreariness45203/status/2095477155706941691/photo/1",
+              "media_key": "3_2095477143426015232",
+              "start": 4,
+              "url": "https://t.co/NUCOBmBxkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095477155706941691",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095477123570118657"
+          },
+          {
+            "media_key": "3_2095477143426015232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好东西 https://t.co/NUCOBmBxkR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。 ||||||||||||||||||||👨‍🔧重度睡眠障碍维修工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2095478875300200610",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 90,
+          "like_count": 3476,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-13T07:27:45.000Z",
+        "description": "尸体\n🚪52",
+        "id": "1646414819032186881",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095477155706941691",
+        "name": "郁离",
+        "pinned_tweet_id": "1961990065313448183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646414819032186881/1682417662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650805359760769024/zfT3QTUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 69,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "Dreariness45203",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

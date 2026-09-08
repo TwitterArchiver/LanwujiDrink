@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2088293108551397427",
+    "created_at": "2026-08-14T15:54:10.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088293108551397427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1242989329472864256",
+          "start": 3,
+          "username": "NTFabiano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088293108551397427",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088261084406853959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NTFabiano: Endless short-form scrolling triggers a cascade of burnout, stress and depression.\n\nThe real cost of “just one more video.”…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2088260910691254274",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr-O_QWAAIm9qI.jpg",
+        "width": 1420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2088293108551397427",
+        "created_at": "2026-08-14T15:54:10.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088293108551397427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1242989329472864256",
+              "start": 3,
+              "username": "NTFabiano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088293108551397427",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088261084406853959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NTFabiano: Endless short-form scrolling triggers a cascade of burnout, stress and depression.\n\nThe real cost of “just one more video.”…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088260910691254274"
+          ]
+        },
+        "author_id": "1242989329472864256",
+        "conversation_id": "2088261084406853959",
+        "created_at": "2026-08-14T13:46:55.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088261084406853959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3NNrINlZX",
+              "end": 147,
+              "expanded_url": "https://x.com/NTFabiano/status/2088261084406853959/photo/1",
+              "media_key": "3_2088260910691254274",
+              "start": 124,
+              "url": "https://t.co/I3NNrINlZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088261084406853959",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088260910691254274"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 516,
+          "impression_count": 26393,
+          "like_count": 1285,
+          "quote_count": 12,
+          "reply_count": 18,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "Endless short-form scrolling triggers a cascade of burnout, stress and depression.\n\nThe real cost of “just one more video.” https://t.co/I3NNrINlZX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "和田地区",
+        "most_recent_tweet_id": "2088293108551397427",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 113,
+          "like_count": 3272,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-26T01:40:19.000Z",
+        "description": "Making brain science practical\n\nContact: ntfabiano@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicholasfabiano.ca",
+                "end": 23,
+                "expanded_url": "https://www.nicholasfabiano.ca/",
+                "start": 0,
+                "url": "https://t.co/uGymWyeH5s"
+              }
+            ]
+          }
+        },
+        "id": "1242989329472864256",
+        "is_identity_verified": false,
+        "location": "Ottawa, Ontario",
+        "most_recent_tweet_id": "2088288794403393580",
+        "name": "Nicholas Fabiano, MD",
+        "pinned_tweet_id": "2088238234325123253",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242989329472864256/1737419538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060701229735452675/4xluU_hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149133,
+          "following_count": 543,
+          "like_count": 19511,
+          "listed_count": 1043,
+          "media_count": 2019,
+          "tweet_count": 9934
+        },
+        "url": "https://t.co/uGymWyeH5s",
+        "username": "NTFabiano",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

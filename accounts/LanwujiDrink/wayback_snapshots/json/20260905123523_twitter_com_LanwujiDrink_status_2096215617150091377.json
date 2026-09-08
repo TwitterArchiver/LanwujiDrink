@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2096215617150091377",
+    "created_at": "2026-09-05T12:35:23.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096215617150091377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kurokisama_tvt…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/kurokisama_tvt/status/2096205069297582377",
+          "start": 12,
+          "url": "https://t.co/e0ONC2Bp81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096215617150091377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096205069297582377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "申明：买的不是我们家的 https://t.co/e0ONC2Bp81"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096215617150091377",
+        "created_at": "2026-09-05T12:35:23.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096215617150091377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurokisama_tvt…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kurokisama_tvt/status/2096205069297582377",
+              "start": 12,
+              "url": "https://t.co/e0ONC2Bp81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096215617150091377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096205069297582377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "申明：买的不是我们家的 https://t.co/e0ONC2Bp81"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933855083634286592",
+        "conversation_id": "2096205069297582377",
+        "created_at": "2026-09-05T11:53:28.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096205069297582377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2094681707052212224",
+              "start": 8,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nanahime1cpc/s…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/nanahime1cpc/status/2096191499222630510",
+              "start": 109,
+              "url": "https://t.co/0yWkbRZs4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096205069297582377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096191499222630510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起大家。我和@nanahime1cpc 菜菜今天12：00左右两个人共同300mg以上iso导致间歇、难以自我察觉的严重精神错乱、惊恐发作至今 菜菜警官遇到现生家庭突发状况，自我判断力为零请不要为难说任何多余的话 https://t.co/0yWkbRZs4I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2096215617150091377",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 99,
+          "like_count": 3523,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1928
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-14T11:52:45.000Z",
+        "description": "💊🔪🩸\n前世@kuroki___tomoko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "kuroki___tomoko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/VwLQTEXSp3"
+              }
+            ]
+          }
+        },
+        "id": "1933855083634286592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096214950855524385",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2095266325837041997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933855083634286592/1787231913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095266495253344256/FpcU34yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 530,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/VwLQTEXSp3",
+        "username": "kurokisama_TvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
