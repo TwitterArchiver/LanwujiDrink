@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097234221773496320"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "conversation_id": "2096813987929444773",
+    "created_at": "2026-09-08T08:03:00.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097234231265280483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2096460299213905920",
+          "start": 0,
+          "username": "d9nmTTT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vvevdTAMwF",
+          "end": 39,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2097234231265280483/photo/1",
+          "media_key": "3_2097234221773496320",
+          "start": 16,
+          "url": "https://t.co/vvevdTAMwF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097234231265280483",
+    "in_reply_to_user_id": "2096460299213905920",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097234221773496320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096813987929444773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d9nmTTT 再闹打你哈！ https://t.co/vvevdTAMwF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2097234221773496320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrfab-aIAAxasA.jpg",
+        "width": 536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097234221773496320"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096813987929444773",
+        "created_at": "2026-09-08T08:03:00.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097234231265280483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2096460299213905920",
+              "start": 0,
+              "username": "d9nmTTT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vvevdTAMwF",
+              "end": 39,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2097234231265280483/photo/1",
+              "media_key": "3_2097234221773496320",
+              "start": 16,
+              "url": "https://t.co/vvevdTAMwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097234231265280483",
+        "in_reply_to_user_id": "2096460299213905920",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097234221773496320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096813987929444773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d9nmTTT 再闹打你哈！ https://t.co/vvevdTAMwF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096460299213905920",
+        "conversation_id": "2096813987929444773",
+        "created_at": "2026-09-07T04:13:06.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096813987929444773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096813987929444773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1499,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叶洪文 如果你再让人举报我 或者让你的狗来咬我 我会提前写遗书 写上你的名字 和所有你们的关注者  光脚不怕穿鞋的 我已经没什么好失去的了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2097234231265280483",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2096972484117663798",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 100,
+          "like_count": 3567,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T04:49:36.000Z",
+        "description": "遵守一切推特规则 绝不违规 二代@d9nmTT\n欢迎互fo 撕开真相。已成年 /13岁得了抑郁症 /后期转向/极度混乱的双向情感障碍和重度焦虑惊恐发作。\n防走丢 tg @d9nmTT 1161/解离 /兴奋剂/致幻剂 成分公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "d9nmTT"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "username": "d9nmTT"
+              }
+            ]
+          }
+        },
+        "id": "2096460299213905920",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2097222922654085222",
+        "name": "東九（三世",
+        "pinned_tweet_id": "2097025122536394886",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096460978963791872/v-rAic8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 50,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "d9nmTTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2103140094496715117",
+    "created_at": "2026-09-24T15:16:04.000Z",
+    "display_text_range": [
+      16,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103141425596838225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1493482825546297349",
+          "start": 0,
+          "username": "maimaiPinkPlus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103141425596838225",
+    "in_reply_to_user_id": "1493482825546297349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103141285351809276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maimaiPinkPlus 请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2103140094496715117",
+        "created_at": "2026-09-24T15:16:04.000Z",
+        "display_text_range": [
+          16,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103141425596838225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493482825546297349",
+              "start": 0,
+              "username": "maimaiPinkPlus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103141425596838225",
+        "in_reply_to_user_id": "1493482825546297349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103141285351809276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maimaiPinkPlus 请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493482825546297349",
+        "conversation_id": "2103140094496715117",
+        "created_at": "2026-09-24T15:15:31.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103141285351809276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103141285351809276",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103140094496715117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 持续吃瓜（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2103141425596838225",
+        "name": "☯️🧬無極® 生物科技",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 110,
+          "like_count": 3670,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T07:10:51.000Z",
+        "description": "maimai苦练中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/uof72WwZtK"
+              }
+            ]
+          }
+        },
+        "id": "1493482825546297349",
+        "is_identity_verified": false,
+        "location": "乌蒙地插",
+        "most_recent_tweet_id": "2103141285351809276",
+        "name": "N9ko",
+        "pinned_tweet_id": "1755030644256915715",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493482825546297349/1707716140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887895039277223936/7QmCebUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 1251,
+          "like_count": 11145,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 4990
+        },
+        "url": "https://t.co/uof72WwZtK",
+        "username": "maimaiPinkPlus",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

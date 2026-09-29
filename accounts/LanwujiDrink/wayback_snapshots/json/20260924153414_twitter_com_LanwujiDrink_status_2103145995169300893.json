@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2102972539157057972",
+    "created_at": "2026-09-24T15:34:14.000Z",
+    "display_text_range": [
+      27,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103145995169300893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2002410613662961664",
+          "start": 0,
+          "username": "shyshy080522"
+        },
+        {
+          "end": 26,
+          "id": "2000377576330817536",
+          "start": 14,
+          "username": "mosOvOquito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103145995169300893",
+    "in_reply_to_user_id": "2002410613662961664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102972539157057972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shyshy080522 @mosOvOquito 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2102972527039668225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9CXw6a4AE4ISl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2102972539157057972",
+        "created_at": "2026-09-24T15:34:14.000Z",
+        "display_text_range": [
+          27,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103145995169300893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002410613662961664",
+              "start": 0,
+              "username": "shyshy080522"
+            },
+            {
+              "end": 26,
+              "id": "2000377576330817536",
+              "start": 14,
+              "username": "mosOvOquito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103145995169300893",
+        "in_reply_to_user_id": "2002410613662961664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102972539157057972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shyshy080522 @mosOvOquito 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102972527039668225"
+          ]
+        },
+        "author_id": "2002410613662961664",
+        "conversation_id": "2102972539157057972",
+        "created_at": "2026-09-24T04:04:59.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T05:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102972539157057972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1124790071314587648",
+              "start": 6,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2HHcW6sgp",
+              "end": 43,
+              "expanded_url": "https://x.com/shyshy080522/status/2102972539157057972/photo/1",
+              "media_key": "3_2102972527039668225",
+              "start": 20,
+              "url": "https://t.co/J2HHcW6sgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102972539157057972",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102972527039668225"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢爸爸☺️@LanwujiDrink https://t.co/J2HHcW6sgp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2103145995169300893",
+        "name": "☯️🧬無極® 生物科技",
+        "pinned_tweet_id": "2103140094496715117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 111,
+          "like_count": 3673,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-20T16:07:55.000Z",
+        "description": "18｜170/100｜广州 深圳 川渝🚪188 接开盒业务",
+        "id": "2002410613662961664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103143742593184190",
+        "name": "e",
+        "pinned_tweet_id": "2075741015085076728",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002410613662961664/1766247041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072347148398874624/gK9kkcOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 61,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "shyshy080522",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T01:38:24.000Z",
+        "description": "喜欢钱 低精力 温良版 最恶心的是亲嘴什么的啦 INTP和INFP和 ENTP来回切换~只玩🎶🍠和x 这个是我唯一账号 不收🚪 只分享有趣的生活😽谢谢你们喜欢我呦（盗我图的人一辈子发不了财）",
+        "id": "2000377576330817536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103145534131458057",
+        "name": "mosquito✨🌈",
+        "pinned_tweet_id": "2099642208022638809",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000377576330817536/1788854845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087848810777321474/ynHBU15h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11752,
+          "following_count": 35,
+          "like_count": 524,
+          "listed_count": 27,
+          "media_count": 206,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "mosOvOquito",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

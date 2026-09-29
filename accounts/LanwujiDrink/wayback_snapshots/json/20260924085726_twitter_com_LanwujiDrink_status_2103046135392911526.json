@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103046127016914944"
+      ]
+    },
+    "author_id": "1124790071314587648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "1260987765946109952",
+          "name": "Holistic healing/nutrition"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+          "id": "917863840343191552",
+          "name": "Dietary Supplements"
+        }
+      }
+    ],
+    "conversation_id": "2103046135392911526",
+    "created_at": "2026-09-24T08:57:26.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T09:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103046135392911526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FPJCOr27cq",
+          "end": 170,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2103046135392911526/photo/1",
+          "media_key": "3_2103046127016914944",
+          "start": 147,
+          "url": "https://t.co/FPJCOr27cq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103046135392911526",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103046127016914944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奇亚籽 是可以替代蔬菜的奇迹\n\n— 每100g 有30g Omega-3脂肪\n\n— 不用“洗菜”、“切菜”、“收拾”，泡水即食\n\n— 饱腹感极强，适合节食期间减肥\n\n— 价格合理 70/1.2公斤\n\n— 特别容易获取到有机形式的，远离农药、重金属微塑料污染\n\n— 镁含量亮眼 非常有助于抗焦虑 https://t.co/FPJCOr27cq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103046127016914944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-FT2MasAAnGvG.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103046127016914944"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+              "id": "917863840343191552",
+              "name": "Dietary Supplements"
+            }
+          }
+        ],
+        "conversation_id": "2103046135392911526",
+        "created_at": "2026-09-24T08:57:26.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103046135392911526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FPJCOr27cq",
+              "end": 170,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2103046135392911526/photo/1",
+              "media_key": "3_2103046127016914944",
+              "start": 147,
+              "url": "https://t.co/FPJCOr27cq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103046135392911526",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103046127016914944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇亚籽 是可以替代蔬菜的奇迹\n\n— 每100g 有30g Omega-3脂肪\n\n— 不用“洗菜”、“切菜”、“收拾”，泡水即食\n\n— 饱腹感极强，适合节食期间减肥\n\n— 价格合理 70/1.2公斤\n\n— 特别容易获取到有机形式的，远离农药、重金属微塑料污染\n\n— 镁含量亮眼 非常有助于抗焦虑 https://t.co/FPJCOr27cq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2103046135392911526",
+        "name": "☯️🧬無極® 生物科技",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 109,
+          "like_count": 3664,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

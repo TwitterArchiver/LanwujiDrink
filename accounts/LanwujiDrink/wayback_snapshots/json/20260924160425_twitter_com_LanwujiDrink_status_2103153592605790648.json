@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2103140094496715117",
+    "created_at": "2026-09-24T16:04:25.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T17:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103153592605790648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971649593147379712",
+          "start": 0,
+          "username": "Echo_Sking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103153592605790648",
+    "in_reply_to_user_id": "1971649593147379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103152989007757593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Echo_Sking 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2103140094496715117",
+        "created_at": "2026-09-24T16:04:25.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103153592605790648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971649593147379712",
+              "start": 0,
+              "username": "Echo_Sking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103153592605790648",
+        "in_reply_to_user_id": "1971649593147379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103152989007757593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Echo_Sking 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971649593147379712",
+        "conversation_id": "2103140094496715117",
+        "created_at": "2026-09-24T16:02:01.000Z",
+        "display_text_range": [
+          14,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103152989007757593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103152989007757593",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103140094496715117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 全部我都大概看了…只能说对方没有举出强大且足够的证据呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2103153592605790648",
+        "name": "☯️🧬無極® 生物科技",
+        "pinned_tweet_id": "2103140094496715117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 112,
+          "like_count": 3680,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-26T18:54:59.000Z",
+        "description": "🩷💜💙\n互fo寻回中… msk还我大号命来\n一个呆傻的高中生 希望我的碎碎念可以给你提供情绪价值💖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 0,
+                "url": "https://t.co/6asJgqFqBL"
+              }
+            ]
+          }
+        },
+        "id": "1971649593147379712",
+        "is_identity_verified": false,
+        "location": "29🥕千G主播自用vpn➡️",
+        "most_recent_tweet_id": "2103152995416658232",
+        "name": "银（2.0",
+        "pinned_tweet_id": "2088409290533192127",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971649593147379712/1786697282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088185820692013056/sr9NoVoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 64,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/6asJgqFqBL",
+        "username": "Echo_Sking",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

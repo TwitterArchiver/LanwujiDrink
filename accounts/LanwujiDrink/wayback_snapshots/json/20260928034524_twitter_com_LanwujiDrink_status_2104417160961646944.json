@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2104412784020930709",
+    "created_at": "2026-09-28T03:45:24.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T04:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104417160961646944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577362467419611137",
+          "start": 0,
+          "username": "Retepa8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104417160961646944",
+    "in_reply_to_user_id": "1577362467419611137",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104412784020930709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Retepa8964 😼😼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_2104412773153394688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRgRHyaUAAcq2U.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2104412778585116672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRgRcBb0AAfRPh.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2104412784020930709",
+        "created_at": "2026-09-28T03:45:24.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104417160961646944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577362467419611137",
+              "start": 0,
+              "username": "Retepa8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104417160961646944",
+        "in_reply_to_user_id": "1577362467419611137",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104412784020930709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retepa8964 😼😼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104412773153394688",
+            "3_2104412778585116672"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "conversation_id": "2104412784020930709",
+        "created_at": "2026-09-28T03:28:00.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104412784020930709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZDWwDfkmY",
+              "end": 42,
+              "expanded_url": "https://x.com/Retepa8964/status/2104412784020930709/photo/1",
+              "media_key": "3_2104412773153394688",
+              "start": 19,
+              "url": "https://t.co/SZDWwDfkmY"
+            },
+            {
+              "display_url": "pic.x.com/SZDWwDfkmY",
+              "end": 42,
+              "expanded_url": "https://x.com/Retepa8964/status/2104412784020930709/photo/1",
+              "media_key": "3_2104412778585116672",
+              "start": 19,
+              "url": "https://t.co/SZDWwDfkmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104412784020930709",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104412773153394688"
+          },
+          {
+            "media_key": "3_2104412778585116672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 叶哥牛逼 https://t.co/SZDWwDfkmY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2104417160961646944",
+        "name": "☯️🧬無極® 生物科技",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 109,
+          "like_count": 3694,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机😻/都市传说/文史哲艺爱好者/生理女友好一切/后现代/神必学游客/oder/精分/数字游民?/查成分互fo\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "is_identity_verified": false,
+        "location": "第三高原",
+        "most_recent_tweet_id": "2104413253493555607",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577362467419611137/1756231334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101293744683425792/WHovGnkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 975,
+          "like_count": 30514,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 2721
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

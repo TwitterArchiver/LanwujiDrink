@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2103140094496715117",
+    "created_at": "2026-09-24T16:54:17.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T17:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103166141430706643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1921304531964723200",
+          "start": 0,
+          "username": "AmeYukiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103166141430706643",
+    "in_reply_to_user_id": "1921304531964723200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103163956978475229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeYukiiiiii 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2103140094496715117",
+        "created_at": "2026-09-24T16:54:17.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103166141430706643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1921304531964723200",
+              "start": 0,
+              "username": "AmeYukiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103166141430706643",
+        "in_reply_to_user_id": "1921304531964723200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103163956978475229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeYukiiiiii 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921304531964723200",
+        "conversation_id": "2103140094496715117",
+        "created_at": "2026-09-24T16:45:36.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103163956978475229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103163956978475229",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103140094496715117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2103166141430706643",
+        "name": "☯️🧬無極® 生物科技",
+        "pinned_tweet_id": "2103140094496715117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 113,
+          "like_count": 3687,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-10T20:41:29.000Z",
+        "description": "称呼我为大众化的“小雪”就好。身心女｜泛性恋｜07\n已和双相情感障碍虐恋很多年。\n账号含有药物和自伤内容，我喜欢写药物报告，互动会让我感到被在意……欢迎小窗。我不是什么好东西，不要给我覆上任何滤镜。\n需要互fo请私信，会回关同类。直fo就是喜欢你",
+        "id": "1921304531964723200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103163956978475229",
+        "name": "我消失不見於信箱之中",
+        "pinned_tweet_id": "1926599420566458768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921304531964723200/1786797373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088605631515340800/uzKyqFbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 71,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "AmeYukiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

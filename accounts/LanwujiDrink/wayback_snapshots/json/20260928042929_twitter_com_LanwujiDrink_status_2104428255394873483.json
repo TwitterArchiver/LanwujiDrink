@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124790071314587648",
+    "conversation_id": "2104149805543178282",
+    "created_at": "2026-09-28T04:29:29.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T05:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104428255394873483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2095574092263067648",
+          "start": 0,
+          "username": "xuxianggsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104428255394873483",
+    "in_reply_to_user_id": "2095574092263067648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104149805543178282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuxianggsd 镁会导致谷氨酸上调？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2104149805543178282",
+        "created_at": "2026-09-28T04:29:29.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104428255394873483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2095574092263067648",
+              "start": 0,
+              "username": "xuxianggsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104428255394873483",
+        "in_reply_to_user_id": "2095574092263067648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104149805543178282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxianggsd 镁会导致谷氨酸上调？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095574092263067648",
+        "conversation_id": "2104149805543178282",
+        "created_at": "2026-09-27T10:03:01.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104149805543178282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104149805543178282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至今我不知到底是什么让我的基线变得这么高。\n几个假设\n一是mrhappystack。多巴胺系统被上调了。\n二是谷氨酸上调了。因为解离剂和镁的摄入，导致谷氨酸系统上调。\n三是纯粹就是营养跟上了。\n四是年龄正巧到了。传说中adhd会随着年龄增加逐渐好转。而且神经可塑性也增强了\n具体不懂但现在基线确实很高。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2104428255394873483",
+        "name": "☯️🧬無極® 生物科技",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 106,
+          "like_count": 3695,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T18:08:18.000Z",
+        "description": "",
+        "id": "2095574092263067648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104357889548914824",
+        "name": "徐翔",
+        "pinned_tweet_id": "2095576278657384843",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 45,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "xuxianggsd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
